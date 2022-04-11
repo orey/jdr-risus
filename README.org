@@ -5,11 +5,12 @@ Ce repo contient des ressources en français pour Risus :
 - Un flowchart synthétisant les règles du jeu ;
 - Les règles compressées en un seul PDF.
 
-Voir en ligne :
+Les documents finaux sont publiés ici :
 - [[https://rouboudou.itch.io/risus-ressources][https://rouboudou.itch.io/risus-ressources]]
 
 Voir aussi :
 - https://github.com/orey/jdr
 - https://github.com/orey/ttrpg
 - https://github.com/orey/DandD
+
 
