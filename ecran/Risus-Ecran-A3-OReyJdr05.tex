@@ -1,4 +1,4 @@
-\documentclass{article}
+\documentclass[a3paper,11pt]{article}
 
 \usepackage[utf8]{inputenc}
 \usepackage[french]{babel}
@@ -32,11 +32,11 @@ urlcolor=blue,
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
-\fancyhead[C]{{\color{violet}\textbf{{\Huge R}{\LARGE ISUS - }{\Huge R}{\LARGE ÈGLES }{\Huge C}{\LARGE OMPRESSÉES}}}}
+\fancyhead[C]{{\color{violet}\textbf{{\Huge R}{\LARGE ISUS - }{\Huge É}{\LARGE CRAN}}}}
 
 \fancyfoot[L]{\mysmallgray{Version 1.0}}
 \fancyfoot[C]{\mysmallgray{\today}}
-\fancyfoot[R]{\mysmallgray{Copyleft \href{https://github.com/orey/jdr}{Olivier Rey}}}
+\fancyfoot[R]{\mysmallgray{Copyleft \href{https://github.com/orey/jdr-risus}{Olivier Rey}}}
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\footrulewidth}{0.4pt}
 
@@ -62,19 +62,22 @@ urlcolor=blue,
 \begin{multicols*}{3}
 
 \begin{center}
-\includegraphics[scale=0.30]{logo-risus}
+\includegraphics[scale=0.40]{logo-risus}
 \end{center}
+
+\vfill
 
 %\mysection{Introduction}
 
 %\begin{wraptable}{l}{0.43\linewidth} % Pour wrapper le paragraphe à côté
 \begin{center}
 \begin{tabular}{ll}
-Version originale & \href{https://www.drivethrurpg.com/product/170294/Risus-The-Anything-RPG}{Risus the RPG} (c) John Ross \\
-Version française & \href{https://github.com/orey/jdr/blob/master/Risus-fr/risus-fr.pdf}{Risus, traduction de Tristan Lhomme} \\
-Site américain         & \href{http://www.risusiverse.com/}{risuiverse} \\
-Compression            & Olivier Rey \\
-Copyleft               & 2020-2022  \\
+Version originale & \href{https://www.drivethrurpg.com/product/170294/Risus-The-Anything-RPG}{Risus the RPG} (c) Big Dice Games \\
+Version française & \href{https://drive.google.com/file/d/109_5S1oGDrGoXjVULVypIQQPnuxeTb5B/edit}{Risus, traduction de Tristan Lhomme} \\
+Sites américains  & Nouveau site : \href{https://www.risusrpg.com}{risusrpg.com} \\
+                  & Ancien site : \href{https://www.risusiverse.com/}{risuiverse.com} \\
+Compression       & \href{https://rouboudou.itch.io}{Olivier Rey} \\
+Copyleft          & 2020-2022  \\
 \end{tabular}
 \end{center}
 %\end{wraptable}
@@ -85,7 +88,7 @@ Copyleft               & 2020-2022  \\
 % TODO Flowchart
 \mysection{V1 du flowchart Risus}
 
-N'hésitez pas à vous procurer le flowchart Risus sur \href{https://rouboudou.itch.io/risus-flowchart}{itch.io}.
+N'hésitez pas à vous procurer le flowchart Risus sur \href{https://rouboudou.itch.io/risus-ressources}{itch.io}.
 
 %======= mysection
 % TODO Création du personnage
@@ -94,7 +97,7 @@ N'hésitez pas à vous procurer le flowchart Risus sur \href{https://rouboudou.i
 %--- mysubsection
 \mysubsection{Les clichés}
 
-Chaque personnage a un crédit de 10D6 à répartir sur des Clichés (entre 3 et 10) librement choisi.
+Chaque personnage a un crédit de 10D6 de création à répartir sur des Clichés (entre 3 et 10) librement choisis.
 
 La table ci-dessous montre le nombre de dés par niveau :
 
@@ -134,16 +137,12 @@ Magique & 2D investis = 1D de cliché & Double (2) \\
 %--- mysubsection
 \mysubsection{Matériel}
 
-Inclus quand dans cela reste dans le raisonnable.
+Inclus tant que cela reste raisonnable.
 
 %--- mysubsection
 \mysubsection{Coup de bol (option)}
 
-1D permet d'acheter 3 coups de bol :
-\begin{itemize}
-\item 1 coup de bol = +1D sur une action
-\item 1D = 3 coups de bols
-\end{itemize}
+1D permet d'acheter 3 coups de bol ; 1 coup de bol donne +1D sur une action.
 
 %--- mysubsection
 \mysubsection{Point faible}
@@ -154,6 +153,8 @@ Inclus quand dans cela reste dans le raisonnable.
 \mysubsection{Historique/background}
 
 S'il est bien fait, le MJ peut donner +1D.
+
+\columnbreak
 
 %======= mysection
 % TODO Action simple
@@ -229,6 +230,12 @@ Le CAU fonctionne comme un combat normal mais avec un seul jet de dés.
 % TODO Groupes
 \mysection{Groupes}
 
+\mysubsection{Groupe de PNJ}
+
+Le groupe de PNJ se comporte comme un PNJ mais avec plus de dés.
+
+\columnbreak
+
 \mysubsection{Groupe de PJ}
 
 \begin{center}
@@ -255,10 +262,6 @@ Le CAU fonctionne comme un combat normal mais avec un seul jet de dés.
 \item Si un autre Groupe se reforme alors que le CDP du Groupe précédent a pris des dommages et est passé à OD, alors le nouveau groupe a droit à un bonus de vengeance (3).
 \end{itemize}
 
-\mysubsection{Groupe de PNJ}
-
-Le groupe de PNJ se comporte comme un PNJ mais avec plus de dés.
-
 %======= mysection
 % TODO Participation impossible
 \mysection{Participation impossible des PJ à un combat}
@@ -277,41 +280,7 @@ Avec accord du MJ, il est possible d'utiliser le dé gagné pour créer un nouve
 % TODO licence
 \mysection{Licence}
 
-Risus : The Anything RPG est une marque déposée par S. John Ross pour son jeu de rôle de tout (\textit{The Anything RPG}). Voir aussi la traduction française de Tristan Lhomme. ©1993-2013 par S. John Ross, tous droits réservés.
-
-%======= mysection
-% TODO Méga
-\mysection{Appendix: Risus pour \href{https://www.messagers-galactiques.com/joomla/}{Méga}}
-
-Comme dans le jeu classique, tous les joueurs démarrent avec 10D à répartir. De ces 10D, ils doivent avoir un Cliché "Méga" à au moins 3D et à au plus 4D. L'intitulé du Cliché peut être amusant. Il permet de faire les "trucs des Mégas", à commencer par le Transit et le Transfert.
-
-\begin{center}
-{\footnotesize \begin{tabular}{p{5.5cm}p{5.5cm}}
-\textbf{Le Transit} & \textbf{Le Transfert} \\
-Le Transit est la faculté de se téléporter au moyen d'un tétraèdre, soit dans le même univers, soit dans un univers parallèle. & Le Transfert est un combat mental contre un adversaire vivant pour pouvoir se transférer dans son corps. En cas de Transfert réussi, le corps du Méga tombe en catalepsie. \\
-La figure ci-dessous montre une interprétation des règles du Transit pour Risus Méga. Le premier Transit est facile, mais les Transits subséquents sont plus difficiles et coûtent un ou plusieurs dés de Mégas de manière temporaire. Voir les étiquettes pour les difficultés et les pertes de dés.
-& La figure ci-dessous montre une interprétation des règles du Transfert pour Risus Méga. Le Transfert est normalement assez facile, mais il a des effets secondaires (rejet de l'hôte). A noter : un transfert depuis un corps transféré est un combat contre la somme des Clichés des hôtes (départ et arrivée). \\
-\includegraphics[scale=0.18]{mega-transit} & \includegraphics[scale=.16]{mega-transfert} \\
-\end{tabular}}
-\end{center}
-
-%\mysubsection{Le Transit}
-
-%\begin{wrapfigure}[lineheight]{position}{width}
-%                   Nb de lignes / l c r / en fractions de linewidth
-\begin{comment}
-\begin{wrapfigure}[9]{l}{.5\linewidth}
-\includegraphics[scale=0.225]{mega-transit}
-\end{wrapfigure}
-
-\begin{wrapfigure}[8]{r}{.5\linewidth}
-\includegraphics[scale=0.1]{mega-transfert}
-\end{wrapfigure}
-\end{comment}
-
-\begin{center}
-\includegraphics[scale=0.5]{logo-orey}
-\end{center}
+\textit{Risus : The Anything RPG} est un jeu créé par S. John Ross. Les droits sont possédés par \href{https://risusrpg.com/}{Dave LeCompte} et \href{https://bigdicegames.com/}{Big Dice Games}. Voir aussi la \href{https://drive.google.com/file/d/109_5S1oGDrGoXjVULVypIQQPnuxeTb5B/edit}{traduction française} de \href{https://www.legrog.org/biographies/tristan-lhomme}{Tristan Lhomme}.
 
 \end{multicols*}
 
