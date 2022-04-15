@@ -1,0 +1,7 @@
+* README
+
+Une génération normale en :
+- risus-flowchart.pdf
+- risus-flowchart.png
+
+Une génération en échelle 2 (risus-flowchart-big.png).
