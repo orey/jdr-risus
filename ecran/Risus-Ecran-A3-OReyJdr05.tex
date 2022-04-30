@@ -1,4 +1,4 @@
-\documentclass[a3paper,11pt]{article}
+\documentclass[11pt]{article}
 
 \usepackage[utf8]{inputenc}
 \usepackage[french]{babel}
@@ -18,7 +18,7 @@
 \usepackage{comment}
 
 \usepackage{multicol}
-\setlength{\columnsep}{0.5cm}
+\setlength{\columnsep}{1.0cm}
 \usepackage{wrapfig}
 
 \usepackage{graphicx}
@@ -33,8 +33,7 @@ urlcolor=blue,
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhead[C]{{\color{violet}\textbf{{\Huge R}{\LARGE ISUS - }{\Huge É}{\LARGE CRAN}}}}
-
-\fancyfoot[L]{\mysmallgray{Version 1.0}}
+\fancyfoot[L]{\mysmallgray{Version 1.1}}
 \fancyfoot[C]{\mysmallgray{\today}}
 \fancyfoot[R]{\mysmallgray{Copyleft \href{https://github.com/orey/jdr-risus}{Olivier Rey}}}
 \renewcommand{\headrulewidth}{0.4pt}
@@ -76,7 +75,7 @@ Version originale & \href{https://www.drivethrurpg.com/product/170294/Risus-The-
 Version française & \href{https://drive.google.com/file/d/109_5S1oGDrGoXjVULVypIQQPnuxeTb5B/edit}{Risus, traduction de Tristan Lhomme} \\
 Sites américains  & Nouveau site : \href{https://www.risusrpg.com}{risusrpg.com} \\
                   & Ancien site : \href{https://www.risusiverse.com/}{risuiverse.com} \\
-Compression       & \href{https://rouboudou.itch.io}{Olivier Rey} \\
+Écran             & \href{https://rouboudou.itch.io/risus}{Olivier Rey} \\
 Copyleft          & 2020-2022  \\
 \end{tabular}
 \end{center}
@@ -88,7 +87,7 @@ Copyleft          & 2020-2022  \\
 % TODO Flowchart
 \mysection{V1 du flowchart Risus}
 
-N'hésitez pas à vous procurer le flowchart Risus sur \href{https://rouboudou.itch.io/risus-ressources}{itch.io}.
+N'hésitez pas à vous procurer le flowchart Risus sur \href{https://rouboudou.itch.io/risus}{itch.io}.
 
 %======= mysection
 % TODO Création du personnage
@@ -158,11 +157,13 @@ S'il est bien fait, le MJ peut donner +1D.
 
 %======= mysection
 % TODO Action simple
-\mysection{Action simple : jet contre un facteur de difficulté}
+\mysection{Action simple : jet contre un Facteur de Difficulté (FD)}
+
+L'action est réussie si le score est supérieur ou égal au FD.
 
 \begin{center}
 \begin{tabular}{cl}
-\textbf{Seuil à dépasser} & \textbf{Difficulté de l'action}        \\
+\textbf{FD (TN)} & \textbf{Difficulté de l'action}        \\
                5 & Facile                       \\
               10 & Défi même pour un pro         \\
               15 & Défi héroïque                 \\
