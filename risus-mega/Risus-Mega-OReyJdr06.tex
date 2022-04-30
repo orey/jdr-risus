@@ -1,9 +1,9 @@
-\documentclass[a3paper,11pt]{article}
+\documentclass[11pt]{article}
 
 \usepackage[utf8]{inputenc}
 \usepackage[french]{babel}
 
-\usepackage[a3paper,margin=1in,landscape]{geometry}
+\usepackage[a4paper,margin=1in,portrait]{geometry}
 
 \usepackage[table]{xcolor}
 \definecolor{lightgray}{gray}{0.85}
@@ -17,9 +17,9 @@
 
 \usepackage{comment}
 
-\usepackage{multicol}
-\setlength{\columnsep}{0.5cm}
-\usepackage{wrapfig}
+%\usepackage{multicol}
+%\setlength{\columnsep}{0.5cm}
+%\usepackage{wrapfig}
 
 \usepackage{graphicx}
 
@@ -41,7 +41,7 @@ urlcolor=blue,
 \renewcommand{\footrulewidth}{0.4pt}
 
 % Enlève l'indentation pour tout le documnt (équivalent de \noindent sur toutes les lignes)
-\setlength\parindent{0pt}
+%\setlength\parindent{0pt}
 
 % Mes macros
 
@@ -59,84 +59,119 @@ urlcolor=blue,
 %=======================================DOC
 \begin{document}
 
-\begin{multicols*}{3}
+%=============== Title page
+
+\pagestyle{empty}
 
 \begin{center}
-\includegraphics[scale=0.40]{logo-risus}
-\end{center}
+\includegraphics[scale=0.30]{logo-risus}
+
+\vspace{1.0cm}
+
+\includegraphics[scale=1.0]{logo-mega-red}
 
 \vfill
 
-%\mysection{Introduction}
-
-%\begin{wraptable}{l}{0.43\linewidth} % Pour wrapper le paragraphe à côté
-\begin{center}
 \begin{tabular}{ll}
-Version originale & \href{https://www.drivethrurpg.com/product/170294/Risus-The-Anything-RPG}{Risus the RPG} (c) Big Dice Games \\
-Version française & \href{https://drive.google.com/file/d/109_5S1oGDrGoXjVULVypIQQPnuxeTb5B/editv}{Risus, traduction de Tristan Lhomme} \\
-Sites américains  & Nouveau site \href{https://www.risusrpg.com}{risusrpg.com} \\
-                  & Ancien site : \href{https://www.risusiverse.com/}{risuiverse} \\
-Méga 1            & L'indispensable \href{https://archive.org/details/jeux-et-strategie-hs-1}{Méga 1} \\
+Méga 1            & L'origine \href{https://archive.org/details/jeux-et-strategie-hs-1}{Méga 1} \\
 Méga 2            & L'indispensable \href{https://archive.org/details/jeux-et-strategie-hs-2}{Méga 2} \\
-Site Méga IV      & \href{https://www.messagers-galactiques.com/joomla/}{messagers-galactiques.com} \\
+Méga 3            & Ne peut être trouvé qu'en occasion, voir la fiche \href{https://www.legrog.org/jeux/mega/mega-3/mega-iii-fr-47583}{Grog} \\
+Site Méga IV      & Superbes encyclopédie et scenarii sur \href{https://www.messagers-galactiques.com/joomla/}{messagers-galactiques.com} \\
+Risus EN          & \href{https://www.drivethrurpg.com/product/170294/Risus-The-Anything-RPG}{Risus the RPG} \copyright\ Big Dice Games \\
+Risus FR          & \href{https://drive.google.com/file/d/109_5S1oGDrGoXjVULVypIQQPnuxeTb5B/editv}{Risus, traduction de Tristan Lhomme} \\
+Sites américains  & Nouveau site : \href{https://www.risusrpg.com}{risusrpg.com} \\
+                  & Ancien site : \href{https://www.risusiverse.com/}{risuiverse} \\
+Ressources Risus FR & \href{https://rouboudou.itch.io/risus-ressources}{rouboudou.itch.io/risus-ressources} \\
 Adaptation        & \href{https://rouboudou.itch.io}{Olivier Rey} \\
-Copyleft          & 2020-2022  \\
+Copyright         & 2020-2022  \\
 \end{tabular}
 \end{center}
-%\end{wraptable}
 
-\vspace{0.1cm}
+Note : ce supplément utilise principalement des graphiques pour proposer des règles simples et visuelles.
 
-%======= mysection
-% TODO Resources
-\mysection{Ressources Risus}
-
+%=============== Fin title page
+\newpage
+\pagestyle{fancy}
 
 %======= mysection
-% TODO Méga
-\mysection{Appendix: Risus pour \href{https://www.messagers-galactiques.com/joomla/}{Méga}}
+% TODO Création du personnage
+\mysection{Création du personnage}
 
-Comme dans le jeu classique, tous les joueurs démarrent avec 10D à répartir. De ces 10D, ils doivent avoir un Cliché "Méga" à au moins 3D et à au plus 4D. L'intitulé du Cliché peut être amusant. Il permet de faire les "trucs des Mégas", à commencer par le Transit et le Transfert.
+Comme dans le jeu classique, tous les joueurs démarrent avec 10D à répartir. 
+
+\mysubsection{Cliché Méga}
+
+De ces 10D, ils doivent avoir un Cliché "Méga" à au moins 3D et à au plus 4D. L'intitulé du Cliché peut être amusant. Il permet de faire les "trucs des Mégas", à commencer par le Transit et le Transfert (voir plus loin).
 
 \begin{center}
-{\footnotesize \begin{tabular}{p{5.5cm}p{5.5cm}}
-\textbf{Le Transit} & \textbf{Le Transfert} \\
-Le Transit est la faculté de se téléporter au moyen d'un tétraèdre, soit dans le même univers, soit dans un univers parallèle. & Le Transfert est un combat mental contre un adversaire vivant pour pouvoir se transférer dans son corps. En cas de Transfert réussi, le corps du Méga tombe en catalepsie. \\
-La figure ci-dessous montre une interprétation des règles du Transit pour Risus Méga. Le premier Transit est facile, mais les Transits subséquents sont plus difficiles et coûtent un ou plusieurs dés de Mégas de manière temporaire. Voir les étiquettes pour les difficultés et les pertes de dés.
-& La figure ci-dessous montre une interprétation des règles du Transfert pour Risus Méga. Le Transfert est normalement assez facile, mais il a des effets secondaires (rejet de l'hôte). A noter : un transfert depuis un corps transféré est un combat contre la somme des Clichés des hôtes (départ et arrivée). \\
-\includegraphics[scale=0.18]{mega-transit} & \includegraphics[scale=.16]{mega-transfert} \\
-\end{tabular}}
+\includegraphics[scale=0.30]{01-creation-perso}
 \end{center}
 
-%\mysubsection{Le Transit}
+Exemple de Clichés Méga : Terrien Méga des montagnes, Méga parisien impressionné par la grandeur de l'univers, Méga kiffant les mondes parallèles, Méga intello qui veut tout comprendre, Méga hystérique de jouer avec ses pouvoirs, Méga prudent et travailleur, Méga qui a peur de se retrouver sur la Bételgeuse d'un monde parallèle, etc.. 
 
-%\begin{wrapfigure}[lineheight]{position}{width}
-%                   Nb de lignes / l c r / en fractions de linewidth
-\begin{comment}
-\begin{wrapfigure}[9]{l}{.5\linewidth}
-\includegraphics[scale=0.225]{mega-transit}
-\end{wrapfigure}
+\mysubsection{Affinité}
 
-\begin{wrapfigure}[8]{r}{.5\linewidth}
-\includegraphics[scale=0.1]{mega-transfert}
-\end{wrapfigure}
-\end{comment}
+Optionnellement, le Méga peut choisir une affinité (généralement au moins 2D) ou lancer 2D et consulter le diagramme ci-dessous..
 
-%\begin{center}
-%\includegraphics[scale=0.5]{logo-orey}
-%\end{center}
+\begin{center}
+\includegraphics[scale=0.30]{02-affinite}
+\end{center}
 
-%======= mysection
-% TODO licence
-\vfill
-\mysection{Licence}
+\newpage
+%=================================Nouvelle page
+%TODO Pouvoirs psy
+\mysection{Pouvoirs psy}
 
-\textit{Risus : The Anything RPG} est un jeu créé par S. John Ross. Les droits sont possédés par \href{https://risusrpg.com/}{Dave LeCompte} et \href{https://bigdicegames.com/}{Big Dice Games} Voir aussi la \href{https://drive.google.com/file/d/109_5S1oGDrGoXjVULVypIQQPnuxeTb5B/edit}{traduction française} de \href{https://www.legrog.org/biographies/tristan-lhomme}{Tristan Lhomme}.
+Les Mégas possèdent déjà deux pouvoirs exceptionnels qui les rendent uniques au sein des univers : le Transit et le Transfert (couverts par le Cliché Méga, voir plus loin).
+
+En supplément, le MJ peut autoriser les Mégas à disposer d'un autre pouvoir psy, soit choisi, soit tiré au sort dans la table ci-dessous.
+
+\begin{center}
+\begin{tabular}{c l}
+\textbf{1D} & \textbf{Pouvoir psy}\\
+1 & Emprunte astrale \\
+2 & Télékinésie \\
+3 & Télépathie \\
+4 & Lévitation \\
+5 & Corps éthéral \\
+6 & Rejouez \\
+\end{tabular}
+\end{center}
+
+\begin{center}
+\includegraphics[scale=0.30]{03-pouvoirs-psy}
+\end{center}
+
+\newpage
+%=================================Nouvelle page
+%TODO Le Transit
+\mysection{Le Transit}
+
+Le Transit est la faculté de se téléporter au moyen d'un tétraèdre, soit dans le même univers, soit dans un univers parallèle.
+
+Le premier Transit est facile, mais les Transits subséquents sont plus difficiles et coûtent un ou plusieurs dés de Mégas de manière temporaire. Voir les étiquettes pour les difficultés et les pertes de dés.
+
+\begin{center}
+\includegraphics[scale=0.4]{mega-transit}
+\end{center}
+
+\newpage
+%=================================Nouvelle page
+%TODO Le Transfert
+\mysection{Le Transfert}
+
+Le Transfert est la capacité de se transférer dans le corps d'un autre être vivant.  C'est un combat mental.
+
+En cas de Transfert réussi, le corps du Méga tombe en catalepsie.
+
+La figure ci-dessous montre une interprétation des règles du Transfert pour Risus Méga. Le Transfert est normalement assez facile, mais il a des effets secondaires (rejet de l'hôte). A noter : un transfert depuis un corps transféré est un combat contre la somme des Clichés des hôtes (départ et arrivée).
 
 
+\begin{center}
+\includegraphics[scale=.4]{mega-transfert}
+\end{center}
 
 
-\end{multicols*}
 
 
 
