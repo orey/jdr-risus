@@ -32,7 +32,9 @@ urlcolor=blue,
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
+\fancyhead[L]{}
 \fancyhead[C]{{\color{violet}\textbf{{\Huge R}{\LARGE ISUS - }{\Huge R}{\LARGE ÈGLES POUR }{\Huge M}{\LARGE ÉGA}}}}
+\fancyhead[R]{}
 
 \fancyfoot[L]{\mysmallgray{Version 1.0}}
 \fancyfoot[C]{\mysmallgray{\today}}
@@ -42,6 +44,18 @@ urlcolor=blue,
 
 % Enlève l'indentation pour tout le documnt (équivalent de \noindent sur toutes les lignes)
 %\setlength\parindent{0pt}
+
+% Sections avec points après les numéros
+\usepackage{titlesec}
+\titlelabel{\thetitle.\quad}
+\titleformat*{\section}{\color{violet}\bfseries\Large}
+\titleformat*{\subsection}{\color{violet}\bfseries\large}
+\usepackage[dotinlabels]{titletoc}
+
+%\AtBeginDocument{
+%  \addtocontents{toc}{\footnotesize}
+%  \addtocontents{lof}{\footnotesize}
+%}
 
 % Mes macros
 
@@ -83,11 +97,13 @@ Sites américains  & Nouveau site : \href{https://www.risusrpg.com}{risusrpg.com
                   & Ancien site : \href{https://www.risusiverse.com/}{risuiverse} \\
 Ressources Risus FR & \href{https://rouboudou.itch.io/risus-ressources}{rouboudou.itch.io/risus-ressources} \\
 Adaptation        & \href{https://rouboudou.itch.io}{Olivier Rey} \\
-Copyright         & 2020-2022  \\
+Copyright         & 2022  \\
 \end{tabular}
 \end{center}
 
 Note : ce supplément utilise principalement des graphiques pour proposer des règles simples et visuelles.
+
+\tableofcontents
 
 %=============== Fin title page
 \newpage
@@ -95,32 +111,32 @@ Note : ce supplément utilise principalement des graphiques pour proposer des r�
 
 %======= mysection
 % TODO Création du personnage
-\mysection{Création du personnage}
+\section{Création du personnage}
 
 Comme dans le jeu classique, tous les joueurs démarrent avec 10D à répartir. 
 
-\mysubsection{Cliché Méga}
+\subsection{Cliché Méga}
 
 De ces 10D, ils doivent avoir un Cliché "Méga" à au moins 3D et à au plus 4D. L'intitulé du Cliché peut être amusant. Il permet de faire les "trucs des Mégas", à commencer par le Transit et le Transfert (voir plus loin).
 
 \begin{center}
-\includegraphics[scale=0.30]{01-creation-perso}
+\includegraphics[scale=0.28]{01-creation-perso}
 \end{center}
 
 Exemple de Clichés Méga : Terrien Méga des montagnes, Méga parisien impressionné par la grandeur de l'univers, Méga kiffant les mondes parallèles, Méga intello qui veut tout comprendre, Méga hystérique de jouer avec ses pouvoirs, Méga prudent et travailleur, Méga qui a peur de se retrouver sur la Bételgeuse d'un monde parallèle, etc.. 
 
-\mysubsection{Affinité}
+\subsection{Affinité}
 
-Optionnellement, le Méga peut choisir une affinité (généralement au moins 2D) ou lancer 2D et consulter le diagramme ci-dessous..
+Optionnellement, le Méga peut choisir une affinité (généralement au moins 2D) ou lancer 2D et consulter le diagramme ci-dessous. L'affinité est aussi source de Clichés.
 
 \begin{center}
-\includegraphics[scale=0.30]{02-affinite}
+\includegraphics[scale=0.28]{02-affinite}
 \end{center}
 
 \newpage
 %=================================Nouvelle page
 %TODO Pouvoirs psy
-\mysection{Pouvoirs psy}
+\section{Pouvoirs psy}
 
 Les Mégas possèdent déjà deux pouvoirs exceptionnels qui les rendent uniques au sein des univers : le Transit et le Transfert (couverts par le Cliché Méga, voir plus loin).
 
@@ -128,7 +144,7 @@ En supplément, le MJ peut autoriser les Mégas à disposer d'un autre pouvoir p
 
 \begin{center}
 \begin{tabular}{c l}
-\textbf{1D} & \textbf{Pouvoir psy}\\
+\includegraphics[scale=0.08]{dice.png} & \textbf{Pouvoir psy}\\
 1 & Emprunte astrale \\
 2 & Télékinésie \\
 3 & Télépathie \\
@@ -139,26 +155,43 @@ En supplément, le MJ peut autoriser les Mégas à disposer d'un autre pouvoir p
 \end{center}
 
 \begin{center}
-\includegraphics[scale=0.30]{03-pouvoirs-psy}
+\includegraphics[scale=0.28]{03-pouvoirs-psy}
 \end{center}
 
 \newpage
 %=================================Nouvelle page
 %TODO Le Transit
-\mysection{Le Transit}
+\section{Le Transit}
+
+\subsection{Règles du Transit}
 
 Le Transit est la faculté de se téléporter au moyen d'un tétraèdre, soit dans le même univers, soit dans un univers parallèle.
 
-Le premier Transit est facile, mais les Transits subséquents sont plus difficiles et coûtent un ou plusieurs dés de Mégas de manière temporaire. Voir les étiquettes pour les difficultés et les pertes de dés.
+Le premier Transit est facile, mais les Transits subséquents sont plus difficiles et coûtent un ou plusieurs dés de Mégas de manière temporaire (au jugé du MJ). Voir les étiquettes pour les facteurs de difficultés (FD) et les pertes de dés.
 
 \begin{center}
-\includegraphics[scale=0.4]{mega-transit}
+\includegraphics[scale=0.3]{04-transit}
 \end{center}
+
+En cas d'échec, tout peut arriver, au gré du MJ. Si un PJ a créé un ou des points de transit, il a 50\% de chances d'aboutir sur un d'entre eux (tirer point après point).
+
+Il est possible de transiter avec un autre être vivant, pourvu que l'on reste en contact avec lui. Le MJ peut ajouter un FD supplémentaire au FD du dessus (entre +3 et +5).
+
+\subsection{Créer un point de Transit}
+
+Le MJ détermine la résistance du point de Transit en lançant 8D ou plus. Par exemple, supposons que la résistance du tétraèdre soit de 27. Le Méga doit accumuler plus de 27 points en faisant des jets contre un FD de 11 et en suivant le processus ci-dessous.
+
+
+\begin{center}
+\includegraphics[scale=0.28]{05-point-transit}
+\end{center}
+
+
 
 \newpage
 %=================================Nouvelle page
 %TODO Le Transfert
-\mysection{Le Transfert}
+\section{Le Transfert}
 
 Le Transfert est la capacité de se transférer dans le corps d'un autre être vivant.  C'est un combat mental.
 

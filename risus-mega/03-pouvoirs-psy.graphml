@@ -100,7 +100,7 @@ Le FD doit aussi dépendre de la difficulté de la tâche (par exemple, composer
           <y:Realizers active="0">
             <y:GroupNode>
               <y:Geometry height="138.4609375" width="598.0" x="396.27705001831055" y="333.9990940093994"/>
-              <y:Fill color="#CCFFFF" color2="#99CCFF" transparent="false"/>
+              <y:Fill color="#CCFFFF" color2="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000080" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" borderDistance="0.0" configuration="CroppingLabel" fontFamily="Dialog" fontSize="15" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="23.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000080" verticalTextPosition="bottom" visible="true" width="598.0" x="0.0" xml:space="preserve" y="0.0">Processus</y:NodeLabel>
               <y:Shape type="rectangle"/>
@@ -177,7 +177,7 @@ Le FD doit aussi dépendre de la difficulté de la tâche (par exemple, composer
               <y:Geometry height="26.0" width="136.0" x="555.2770500183105" y="431.4600315093994"/>
               <y:Fill color="#CCFFCC" color2="#FFFF99" transparent="false"/>
               <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="25.96875" horizontalTextPosition="center" iconTextGap="4" leftInset="10" modelName="custom" rightInset="10" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="136.0" x="0.0" xml:space="preserve" y="0.015625">Jet contre FD (TN)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="25.96875" horizontalTextPosition="center" iconTextGap="4" leftInset="10" modelName="custom" rightInset="10" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="136.0" x="0.0" xml:space="preserve" y="0.015625">Jet contre FD<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:Shape type="roundrectangle"/>
             </y:ShapeNode>
           </data>
