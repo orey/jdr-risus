@@ -3,6 +3,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[french]{babel}
 
+% TODO 1. Géométrie
 \usepackage[a4paper,margin=1in,portrait]{geometry}
 
 \usepackage[table]{xcolor}
@@ -21,22 +22,43 @@
 %\setlength{\columnsep}{0.5cm}
 %\usepackage{wrapfig}
 
+\usepackage{textcomp}
+% to use \textcopyleft
+
 \usepackage{graphicx}
 
+% TODO 2. Remplir les champs
+\newcommand{\mytitle}{Risus MEGA}
+\newcommand{\myauthor}{Olivier Rey}
+\newcommand{\mysubject}{Jeu de rôles}
+\newcommand{\mykeywords}{JDR,TTRPG,RPG,AideDeJeu,orey,méga,MEGA,messagers-galactiques}
+\newcommand{\myversion}{1.0}
+\newcommand{\mycolor}{violet}
+
+% PDF
 \usepackage{hyperref}
 \hypersetup{
-colorlinks=true,
-linkcolor=blue,
-urlcolor=blue,
+  a4paper=true,
+  pdftitle={\mytitle},
+  pdfauthor={\myauthor},
+  colorlinks=true,
+  linkcolor=blue,
+  urlcolor=blue,
+  pdfsubject={\mysubject},
+  pdfkeywords ={\mykeywords},
+  pdfstartview={FitH},
+  bookmarksopen={false},
+  bookmarksnumbered={true}
 }
 
+% TODO 3. Adapter le titre
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhead[L]{}
-\fancyhead[C]{{\color{violet}\textbf{{\Huge R}{\LARGE ISUS - }{\Huge R}{\LARGE ÈGLES POUR }{\Huge M}{\LARGE ÉGA}}}}
+\fancyhead[C]{{\color{\mycolor}\textbf{{\Huge R}{\LARGE ISUS - }{\Huge R}{\LARGE ÈGLES POUR }{\Huge M}{\LARGE ÉGA}}}}
 \fancyhead[R]{}
 
-\fancyfoot[L]{\mysmallgray{Version 1.0}}
+\fancyfoot[L]{\mysmallgray{Version \myversion}}
 \fancyfoot[C]{\mysmallgray{\today}}
 \fancyfoot[R]{\mysmallgray{Copyleft \href{https://github.com/orey/jdr-risus}{Olivier Rey}}}
 \renewcommand{\headrulewidth}{0.4pt}
@@ -48,8 +70,8 @@ urlcolor=blue,
 % Sections avec points après les numéros
 \usepackage{titlesec}
 \titlelabel{\thetitle.\quad}
-\titleformat*{\section}{\color{violet}\bfseries\Large}
-\titleformat*{\subsection}{\color{violet}\bfseries\large}
+\titleformat*{\section}{\color{\mycolor}\bfseries\Large}
+\titleformat*{\subsection}{\color{\mycolor}\bfseries\large}
 \usepackage[dotinlabels]{titletoc}
 
 %\AtBeginDocument{
@@ -59,16 +81,17 @@ urlcolor=blue,
 
 % Mes macros
 
+\begin{comment}
 \newcommand{\mysection}[1]{
 \vspace{0.2cm}
-\noindent{\color{violet}\large\textbf{#1}}
+\noindent{\color{\mycolor}\large\textbf{#1}}
 }
 
 \newcommand{\mysubsection}[1]{
 \vspace{0.1cm}
 \noindent{\textit{\textbf{#1}}}
 }
-
+\end{comment}
 
 %=======================================DOC
 \begin{document}
@@ -95,9 +118,8 @@ Risus EN          & \href{https://www.drivethrurpg.com/product/170294/Risus-The-
 Risus FR          & \href{https://drive.google.com/file/d/109_5S1oGDrGoXjVULVypIQQPnuxeTb5B/editv}{Risus, traduction de Tristan Lhomme} \\
 Sites américains  & Nouveau site : \href{https://www.risusrpg.com}{risusrpg.com} \\
                   & Ancien site : \href{https://www.risusiverse.com/}{risuiverse} \\
-Ressources Risus FR & \href{https://rouboudou.itch.io/risus-ressources}{rouboudou.itch.io/risus-ressources} \\
-Adaptation        & \href{https://rouboudou.itch.io}{Olivier Rey} \\
-Copyright         & 2022  \\
+Ressources Risus FR & \href{https://rouboudou.itch.io/risus}{rouboudou.itch.io/risus} \\
+Copyleft         & \textcopyleft\ \href{https://rouboudou.itch.io}{Olivier Rey} 2022 \\
 \end{tabular}
 \end{center}
 
