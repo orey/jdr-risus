@@ -275,6 +275,4 @@ TSWLatexianTemp*
 # Makeindex log files
 *.lpz
 
-# J'enlève aussi les PDF pour les mettre sur itch
-*.pdf
 
