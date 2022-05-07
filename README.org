@@ -10,10 +10,9 @@ Ce repo contient des ressources en français pour Risus :
 
 ** Publication
 
-Les documents utilisables sont là : https://github.com/orey/jdr-risus/tree/main/_release
+Les documents utilisables sont dans le folder "release" ou là : https://github.com/orey/jdr-risus/tree/main/_release
 
-Ils sont aussi sur Itch :
-- [[https://rouboudou.itch.io/risus][https://rouboudou.itch.io/risus]]
+Ils sont aussi sur Itch : [[https://rouboudou.itch.io/risus][https://rouboudou.itch.io/risus]]
 
 ** Voir aussi
 
