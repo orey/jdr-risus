@@ -1,0 +1,25 @@
+ : Quand quelqu'un veut faire quelque chose et que personne ne tente activement de le stopper, et que le MJ ne pense pas que l'action réussisse automatiquement, le joueur doit lancer les dés. Si le total des dés est supérieur ou égal au Facteur de Difficulté (FD, "TN = Target Number" en anglais) déterminé par le MJ, l'action réussit ! Autrement, elle échoue ! 
+
+La scène peut être subjective, et n'importe qui peut tenter n'importe quoi : traverser un gouffre en s'accrochant à une corde, une plante grimpante ou quelque chose du même genre serait un jeu d'enfant (réussite automatique !) pour un "Aventurier d'un Film de Cap et d'Épée" ou un "Seigneur de la Jungle", facile (FD=5) pour un "Archéologue à la Indiana Jones", difficile mais faisable (FD=10) pour un "Gymnaste", un "Barbare", ou un "Voleur". Même un "Occultiste Excentrique en Fauteuil Roulant" pourrait le tenter (FD=15, mais le fauteuil roulant serait perdu à moins que le jet de dés soit supérieur à 30) !
+
+---
+
+5 : du gâteau. Un claquement de doigts. Un défi pour un nase. La routine pour un pro.
+10 : un défi pour un professionnel.
+15 : un défi héroïque. Pour les cascades vraiment inventives ou difficiles.
+20 : un défi pour un maître. Une difficulté presque surhumaine.
+30 : c'est une blague ? Un difficulté vraiment surhumaine.
+
+---
+
+... pour les surhommes, FD nécessaires pour des exploits physiques
+
+30 : Jeter une moto.
+
+50 : Jeter un tank.
+
+70 : Jeter un train chargé.
+
+85 : Jeter une pile de 15 000 trains chargés...
+
+100 : Taper dans la Terre pour la faire dévier de son orbite de 1,5 mètre  
