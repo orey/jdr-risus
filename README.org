@@ -5,11 +5,15 @@
 Ce repo contient des ressources en français pour Risus :
 - Les règles du jeu en anglais et en français ;
 - Un flowchart synthétisant les règles du jeu ;
-- Un écran avec les règles complètes ;
-- Un setting pour Méga (ongoing).
+- Deux écrans, un avec les règles complètes et un qui est la traduction le l'écran américain ;
+- Des règles pour jouer à Méga, le jeu de rôle des messagers galactiques.
 
-Les documents utilisables sont publiés ici :
-- [[https://rouboudou.itch.io/risus-ressources][https://rouboudou.itch.io/risus-ressources]]
+** Publication
+
+Les documents utilisables sont là : https://github.com/orey/jdr-risus/tree/main/_release
+
+Ils sont aussi sur Itch :
+- [[https://rouboudou.itch.io/risus][https://rouboudou.itch.io/risus]]
 
 ** Voir aussi
 
