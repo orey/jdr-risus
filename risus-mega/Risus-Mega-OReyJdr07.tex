@@ -18,6 +18,11 @@
 
 \usepackage{comment}
 
+% Pour le strikethrough
+%\usepackage{ulem}
+%\sout{text}
+\usepackage{amssymb}
+
 %\usepackage{multicol}
 %\setlength{\columnsep}{0.5cm}
 %\usepackage{wrapfig}
@@ -33,7 +38,7 @@
 \newcommand{\myauthor}{Olivier Rey}
 \newcommand{\mysubject}{Jeu de rôles}
 \newcommand{\mykeywords}{JDR,TTRPG,RPG,AideDeJeu,orey,méga,MEGA,messagers-galactiques}
-\newcommand{\myversion}{1.0}
+\newcommand{\myversion}{1.1}
 \newcommand{\mycolor}{violet}
 
 % PDF
@@ -121,7 +126,7 @@ Risus FR            & \href{https://github.com/orey/jdr-risus/blob/main/risus/ri
 Sites américains    & Nouveau site : \href{https://www.risusrpg.com}{risusrpg.com} \\
                     & Ancien site : \href{https://www.risusiverse.com/}{risuiverse} \\
 Ressources Risus FR & \href{https://rouboudou.itch.io/risus}{rouboudou.itch.io/risus} \\
-Copyleft            & Version 1.0 -- \textcopyleft\ \href{https://rouboudou.itch.io}{Olivier Rey} 2022 \\
+Copyleft            & Version \myversion\ -- \textcopyleft\ \href{https://rouboudou.itch.io}{Olivier Rey} 2022 \\
 \end{tabular}
 \end{center}
 
@@ -139,34 +144,60 @@ Copyleft            & Version 1.0 -- \textcopyleft\ \href{https://rouboudou.itch
 % TODO Création du personnage
 \section{Création du personnage}
 
-Comme dans le jeu classique, tous les joueurs démarrent avec 10D à répartir. 
-
-\subsection{Cliché Méga}
-
-De ces 10D, ils doivent avoir un Cliché "Méga" à au moins 3D et à au plus 4D. L'intitulé du Cliché peut être amusant. Il permet de faire les "trucs des Mégas", à commencer par le Transit et le Transfert (voir plus loin).
+Comme dans le jeu classique, tous les joueurs démarrent avec 10D de Création (10D$\Subset$) à répartir. Le personnage Méga dans Risus possède 4 types de clichés :
 
 \begin{center}
-\includegraphics[scale=0.28]{01-creation-perso}
+\begin{tabular}{cccc}
+\textbf{Cliché} & \textbf{Min} & \textbf{Max} & \textbf{Coût en D de création}\\
+Cliché Méga	& 3D & 3D & 5D$\Subset$ $\rightarrow$ 3D de Cliché\\
+Affinité Méga (option) & 0D & 3D & 1D$\Subset$ $\rightarrow$ 1D de Cliché\\
+Pouvoirs psy (option) & 0D & 2D & 2D$\Subset$ $\rightarrow$ 1D de Cliché\\
+Autres Clichés & 0D & 3D & 1D$\Subset$ $\rightarrow$ 1D de Cliché\\
+\end{tabular}
 \end{center}
 
-Exemple de Clichés Méga : Terrien Méga des montagnes, Méga parisien impressionné par la grandeur de l'univers, Méga kiffant les mondes parallèles, Méga intello qui veut tout comprendre, Méga hystérique de jouer avec ses pouvoirs, Méga prudent et travailleur, Méga qui a peur de se retrouver sur la Bételgeuse d'un monde parallèle, etc.. 
+\subsection{Le Cliché Méga}
 
-\subsection{Affinité}
+Les Mégas possèdent deux talents, deux pouvoirs psychiques très importants dans les aventures : le Transit, et le Transfert (voir plus loin). Si l'on en croît les règles de Risus, pour avoir deux pouvoirs de ce type à 3D chacun, il faudrait que les joueurs investissent 6D (le coût d'un dé de pouvoir ou de magie est de 2D de création).
 
-Optionnellement, le Méga peut choisir une affinité (généralement au moins 2D) ou lancer 2D et consulter le diagramme ci-dessous. L'affinité est aussi source de Clichés.
+Nous proposons donc, afin pour un personnage  Méga de commencer avec 3D dans le \og Cliché Méga \fg, d'investir 5D pour pouvoir faire les \og trucs des Mégas \fg{}, à commencer par le Transit et le Transfert, mais pas seulement (les Mégas sont supposés avoir un certain entraînement).
 
 \begin{center}
-\includegraphics[scale=0.28]{02-affinite}
+\includegraphics[scale=0.34]{01-creation-perso}
 \end{center}
+
+Exemple de Clichés Méga :
+\begin{itemize}
+\item Terrien Méga des montagnes,
+\item Méga parisien impressionné par la grandeur de l'univers et réalisant que la Terre est en banlieue,
+\item Méga vétéran kiffant les mondes parallèles,
+\item Méga intello qui veut tout comprendre,
+\item Jeune Méga hystérique de jouer avec ses pouvoirs,
+\item Méga prudent et travailleur, ambitieux et ne voulant pas rester sur le terrain trop longtemps,
+\item Méga qui a la trouille de se retrouver sur la Bételgeuse d'un monde parallèle,
+\item Ancien de la FRAG ayant découvert ses pouvoirs Méga sur le tard,
+\item Etc.. 
+\end{itemize}
+
+Le Cliché Méga des débutants est limité à 3D. Il peut progresser selon les règles de Risus.
 
 \newpage
-%=================================Nouvelle page
-%TODO Pouvoirs psy
-\section{Pouvoirs psy}
+\subsection{L'affinité Méga}
+
+Optionnellement, le Méga peut choisir une affinité (3D ou moins) ou lancer 2D et consulter le diagramme ci-dessous. L'affinité est aussi source de Clichés.
+
+\begin{center}
+\includegraphics[scale=0.31]{02-affinite}
+\end{center}
+
+Le MJ et/ou les joueurs peuvent créer des affinités Mégas ne figurant pas dans cette liste. L'affinité est un genre de profil de personnages reconnu par la Guilde des Mégas.
+
+\newpage
+\subsection{Les pouvoirs psy}
 
 Les Mégas possèdent déjà deux pouvoirs exceptionnels qui les rendent uniques au sein des univers : le Transit et le Transfert (couverts par le Cliché Méga, voir plus loin).
 
-En supplément, le MJ peut autoriser les Mégas à disposer d'un autre pouvoir psy, soit choisi, soit tiré au sort dans la table ci-dessous.
+En supplément, le MJ peut autoriser les Mégas à disposer d'un autre pouvoir psy, soit choisi, soit tiré au sort dans la table ci-dessous. Le coût du pouvoir psy est de 2D$\Subset$ pour 1D de Cliché.
 
 \begin{center}
 \begin{tabular}{c l}
