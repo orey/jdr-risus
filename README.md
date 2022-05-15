@@ -13,7 +13,7 @@ Une traduction fidèle du jeu de Graham Walmsley. Un système de jeu hyper simpl
 
 Les documents utilisables sont dans le folder "release" ou là : https://github.com/orey/jdr-risus/tree/main/_release
 
-Ils sont aussi sur Itch [[https://rouboudou.itch.io/risus][https://rouboudou.itch.io/risus]]
+Ils sont aussi sur Itch : 
 
 <table>
 <tr><td><a href="https://rouboudou.itch.io/risus"><img src="proj.png"></a></td>
