@@ -19,7 +19,7 @@ Ils sont aussi sur Itch :
 <tr><td><a href="https://rouboudou.itch.io/risus"><img src="proj.png"></a></td>
 <td><b>Risus le jeu de rôles</b><br>
 by <a href="https://rouboudou.itch.io">rouboudou</a><br>
-Cthulhu Dark, le jeu de rôles en français<br>
+Risus, le jeu de rôles en français<br>
 <a href="https://rouboudou.itch.io/risus"><img src="download.png"></a><br>
 <a href="https://itch.io"><img src="itch.png"></a></td></tr>
 </table>
