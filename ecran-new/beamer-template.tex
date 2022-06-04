@@ -1,0 +1,143 @@
+\documentclass[xcolor=table]{beamer}
+
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+
+% TODO 1. Remplir les champs
+\newcommand{\mytitle}{Cthulhu Dark, version française}
+\newcommand{\myauthor}{Olivier Rey}
+\newcommand{\mysubject}{Jeu de rôles}
+\newcommand{\mykeywords}{JDR,TTRPG,RPG,orey,cthulhu,lovecraft,horreur}
+\newcommand{\myversion}{3.0}
+\newcommand{\mycolor}{violet}     % green pour le fond noir
+\newcommand{\mylinkcolor}{blue}   % red pour le fond noir
+\newcommand{\myrepo}{jdr-risus}
+\newcommand{\myheader}{{\Huge R}{\huge ISUS}}
+\newcommand{\myreference}{OReyJdr13}
+
+%\usepackage[orientation=portrait,size=a4,scale=1.4,debug]{beamerposter}
+\usepackage[orientation=portrait,size=a4, scale=1.48]{beamerposter}
+
+% TODO 2. Couleur des tables
+\definecolor{lightgray}{gray}{0.85}     % white version; black version 0.15
+\definecolor{verylightgray}{gray}{0.95} % white version; black version 0.05
+\let\oldtabular\tabular
+\let\endoldtabular\endtabular
+\renewenvironment{tabular}{\small\rowcolors{1}{lightgray}{verylightgray}\oldtabular}{\endoldtabular}
+
+%%\usepackage{graphicx}
+\graphicspath{{../yed/}{../images/}}
+
+% to use \textcopyleft
+\usepackage{textcomp}
+
+\usepackage{comment}
+
+\usepackage{wrapfig}
+
+\usepackage{amssymb}
+
+\begin{comment}
+
+\mode<presentation>
+{
+\usetheme{Berlin}
+%\usetheme{Dreuw}
+}
+\end{comment}
+
+% caractéristiques
+\title[Risus]{Écran Risus avec les règles complètes}
+\author{Olivier Rey}
+\institute{The Risus Intergalactic Consortium}
+\date{May 14 2022}
+
+% paramètres beamer
+% Pas de barres de navigation
+\beamertemplatenavigationsymbolsempty
+
+% Marges sur le document
+\setbeamersize{text margin left=1.5cm,text margin right=1.5cm}
+\setbeamertemplate{headline}{\vspace{0.0cm}}
+\setbeamertemplate{footline}{\vspace{1cm}}
+
+% PDF features
+\usepackage{hyperref}
+\hypersetup{
+  pdftitle={\mytitle},
+  pdfauthor={\myauthor},
+  colorlinks=true,
+  linkcolor=\mylinkcolor, % white version
+  urlcolor=\mylinkcolor, % white version
+  pdfsubject={\mysubject},
+  pdfkeywords ={\mykeywords},
+  pdfstartview={FitH},
+  bookmarksopen={false},
+  bookmarksnumbered={true}
+}
+
+% POur utiliser \justifying dans les columns
+\usepackage{ragged2e}
+
+% Pour les images en mode maxi
+%\usepackage{background}
+%\backgroundsetup{contents={}}
+\usepackage{pdfpages}
+
+%============= Mes macros
+
+% pour mon itemize
+\usepackage{enumitem}
+\usepackage{pifont}
+\newlist{myitemize}{enumerate}{2}
+%\setlist[myitemize,1]{label=-- \arabic*:}
+%\setlist[myitemize,2]{label=\ding{217} \alph*)}
+%\setlist[myitemize,1]{label=--}
+\setlist[myitemize,1]{label=\ding{217}}
+\setlist[myitemize,2]{label=\ding{217}}
+
+\newcommand{\mybullet}{\ding{217}}
+
+\newcommand{\mysection}[1]{
+\vspace{0.2cm}
+\noindent{\color{\mycolor}\large\textbf{#1}}
+\vspace{0.1cm}
+{\color{\mycolor}\hrule}
+\vspace{0.2cm}
+}
+
+\newcommand{\mysubsection}[1]{
+\vspace{0.1cm}
+\noindent{\color{\mycolor}\emph{#1}}
+}
+
+\newcommand{\deuxcolonnes}[2]{
+\begin{columns}[t]\begin{column}{.5\linewidth}
+\justifying
+#1\end{column}\begin{column}{.5\linewidth}
+\justifying
+#2\end{column}\end{columns}
+}
+
+%info alignements
+
+\begin{comment}
+\begin{tabular}%
+  {>{\raggedright\arraybackslash}p{3.5cm}%
+   >{\centering\arraybackslash}p{3.5cm}%
+   >{\raggedleft\arraybackslash}p{3.5cm}%
+  }
+  \lipsum[1] & \lipsum[2] & \lipsum[3]
+\end{tabular}
+\end{comment}
+
+
+%============================================
+\begin{document}
+
+
+\input{content}
+
+\end{document}
+
+

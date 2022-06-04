@@ -5,13 +5,8 @@ release () {
     for f in ${files[@]}
     do
         echo "=> $f"
-        if [ -e ./$origin/$f ]; 
-        then
-            mv ./$origin/$f ./_release
-            echo "$f : file released"
-        else
-            echo "File $f has been moved already" 
-        fi
+        cp ./$origin/$f ./_release
+        echo "$f : file released"
     done
 }
 # Declare an array of string with type
@@ -30,6 +25,14 @@ release
 origin=risus-mega
 declare -a files=("Risus-Mega-OReyJdr07.pdf")
 release
+
+origin=ecran-new
+declare -a files=("Risus-JeuEtEcranComplet-2A4-OReyJdr12.pdf")
+release
+
+
+
+
 
 echo "Done"
 
