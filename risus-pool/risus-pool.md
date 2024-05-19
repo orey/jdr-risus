@@ -257,4 +257,4 @@ Risus est un jeu très facile et très amusant.
 
 Il a néanmoins un problème de fond, tout comme les autres systèmes à base de multiples D6 additionnés (comme Star Wars D6). En effet, lors des oppositions, un Cliché de (n)D6 n'a aucune vraie chance contre un cliché de (n+1)D6 (voir [ce lien](https://orey.github.io/blog/pages/D6-Combat/) pour plus d'informations).
 
-Nous proposons donc une version "pool de D6" de Risus, d'où le nom de Risus Pool. La version est aussi retravaillée sur la base de la traduction de Tristan Lhomme
+Nous proposons donc une version "pool de D6" de Risus, d'où le nom de Risus Pool.
