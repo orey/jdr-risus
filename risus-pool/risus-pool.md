@@ -26,15 +26,17 @@ On considère généralement les niveaux suivants :
 | 4D            | Expert        |
 | 5D+           | Maître        |
 
+*Table 1 : Niveau de personnage en fonction du nombre de dés*
+
 ### Procédure de création du personnage
 
-Vous avez 10 dés à dépenser en Clichés avec un maximum de 4 dés sur un seul Cliché.
+Le joueur possède 10 dés de Création de Personnage à dépenser en Clichés pour créer son personnage, avec un maximum de 4 dés sur un seul Cliché.
 
-Vous pouvez les dépenser comme vous le souhaitez, sur autant de Clichés que vous le souhaitez, dix étant le maximum.
+Le joueur peut les dépenser comme il le souhaite, sur autant de Clichés qu'il le souhaite (10 étant le maximum).
 
-Le premier Cliché de la liste est votre Cliché principal, celui qui exprime le plus clairement la manière dont votre personnage se perçoit ("Viking" dans le cas de Grolfnar).
+Le premier Cliché de la liste est le Cliché principal, celui qui exprime le plus clairement la manière dont le personnage se perçoit.
 
-Vous avez aussi 10 points d'énergie. Si ce score tombe à 0 à un moment, vous vous évanouissez. Si le score devient négatif, le personnage meurt.
+A la fin de la création du personnage, ce dernier reçoit 3 point de Destin (voir plus loin sur comment utiliser les points de destin).
 
 ### Exemple de personnage
 
@@ -47,6 +49,20 @@ Un personnage de Risus Pool complet ressemble à ceci :
 **Clichés** : Viking (4), Joueur (3), Dragueur (2),  Poète (1).
 
 Pour créer Grolfnar, il nous a suffi de lui donner un nom, de le décrire et de choisir ses Clichés.
+
+### Options de création
+
+#### Désavantage
+
+Le MJ peut permettre au personnage d'avoir un désavantage. ce dernier doit être gênant et pouvoir être utilisé par le MJ dans le jeu, par exemple une malédiction, une obsession, une faiblesse, un voeu, une blessure permanente et handicapante, etc.
+
+Le désavantage rapporte 1D de Création de Personnage.
+
+#### Conte
+
+Un Conte est une biographie écrite du personnage décrivant sa vie avant les événements du jeu. Le Conte n'a pas besoin d'être long (une ou deux pages est déjà beaucoup). Il s'agit simplement d'indiquer au lecteur d'où le personnage vient, ce qu'il aime et ce qu'il n'aime pas, comment il est devenu ce qu'il est et quels sont ses motifs.
+
+Un personnage ayant un Conte écrit avant le jeu démarre avec 1D de plus de Création de Personnage.
 
 ## Capacités et équipements
 
@@ -61,13 +77,17 @@ Le Cliché du PJ recouvre un ensemble de traits qui, au yeux des joueurs comme d
 
 En revanche, à certains moments du jeu, le joueur pourra tenter d'utiliser le Cliché pour des traits du PJ qui ne sont pas, de manière claire, rattachables au Cliché.
 
-Au vu de l'argumentaire du joueur, le MJ décidera si le Cliché est complètement adapté, partiellement adapté, peu adapté ou totalement inadapté. Il peut aussi, à sa convenance, demander aux autres joueurs ce qu'ils en pensent, voire même instaurer un vote. En cas d'argumentaire particulièrement convaincant, drôle ou contribuant à l'histoire, suivant le roleplay du joueur, le MJ pourra gratifier le PJ d'un point d'expérience (noté XP, voir plus loin).
+Au vu de l'argumentaire du joueur, le MJ décidera si le Cliché est complètement adapté, partiellement adapté, peu adapté ou totalement inadapté. Il peut aussi, à sa convenance, demander aux autres joueurs ce qu'ils en pensent, voire même instaurer un vote.
 
-Le tableau ci-dessous peut aussi aider.
+En cas d'argumentaire particulièrement convaincant, drôle ou contribuant à l'histoire, suivant le roleplay du joueur, le joueur pourra utiliser complètement son Cliché et le MJ pourra gratifier le PJ d'un point d'expérience (noté XP, voir plus loin).
+
+Le MJ peut aussi utiliser la table optionnelle ci-dessous.
 
 | Adapté           | Partiellement adapté | Peu adapté    | Inadapté |
 |------------------|----------------------|---------------|----------|
 | Valeur du cliché | -1D ou 3D max        | -2D ou 2D max | 1D max   |
+
+*Table 2 : Malus à appliquer en cas de Cliché inadapté (option)*
 
 ### Equipement d'un personnage
 
@@ -82,6 +102,8 @@ Il est requis de noter sur la feuille de personnage le ou les objets les plus im
 | 3D     | 3                       |
 | nD     | n                       |
 
+*Table 3 : Nombre d'objets par Cliché*
+
 Si ces objets étaient perdus, volés ou devenus inutilisables, et que l'objet est requis dans la scène, le jet de Cliché subira un malus compris entre -1D et la moitié de la valeur du Cliché.
 
 #### Equipement de Grolfnar
@@ -92,6 +114,8 @@ Si ces objets étaient perdus, volés ou devenus inutilisables, et que l'objet e
 | Joueur (3)   | Un jeu de cartes, trois dés à six faces                               |
 | Dragueur (2) | -                                                                     |
 | Poète (1)    | Nécessaire à écrire (petit carnet, plume, encrier)                    |
+
+*Table 4: Equipement de Grolfnar (exemple)*
 
 Si Grolfnar perd son épée, il deviendra Viking (2). S'il perd sa statue de Thor, il ne subira pas de malus en combat, mais sera Viking (2) s'il prie son dieu.
 
@@ -117,7 +141,7 @@ Lorsque quelqu’un essaye de faire quelque chose, que personne ne tente activem
 
 La procédure est la suivante :
 
-* Le MJ détermine un facteur de difficulté FD compris entre 3 et 6 ;
+* Le MJ détermine un facteur de difficulté FD compris entre 3 et 6 (5 étant le FD normal) ;
 * Le joueur lance des dés et compte le nombre de dés supérieurs ou égaux au FD.
 
 La table ci-dessous montre les probabilités d'avoir une réussite selon le FD.
@@ -129,6 +153,8 @@ La table ci-dessous montre les probabilités d'avoir une réussite selon le FD.
 | 4     | 50%     | 75%     | 88%     | 94%     | 97%     | 98%     |
 | **5** | **33%** | **56%** | **70%** | **80%** | **87%** | **91%** |
 | 6     | 17%     | 31%     | 42%     | 52%     | 60%     | 67%     |
+
+*Table 5: Probabilités du pool de dés*
 
 Les difficultés suivantes doivent être utilisées dans le jeu :
 
@@ -147,15 +173,27 @@ Suivant les actions entreprises, le MJ peut agir en fonction de la marge de réu
 | 2  | Bon                | -                                           |
 | 3+ | Très bon           | Réussi et ajout de quelque chose de positif |
 
+*Table 6: Marges de réussite*
+
 Il est possible d'utiliser l'option sur la MR et donc de rajouter un "mais" en cas de réussite normale et un "et" en cas de très bonne réussite.
 
 #### Exemple
 
-Grolfnar est dans une réunion Viking et il boit beaucoup. Il souhaite aller provoquer son ennemi Wulf assis non loin, mais le MJ dit que cette action nécessite un jet de Viking (4) car ce dernier n'est pas certain de tenir debout. Le joueur jouant Grolfnar joue et obtient 6, 5, 2 et 1, soit un jet réussi avec une MR de 2. Il parvient à se lever et à se diriger vers Wulf.
+Grolfnar participe à un festin Viking et, comme les autres Vikings présents, il boit beaucoup.
 
-#### Option : Baisser le FD moyen
+Echauffé par l'alcool, il désire aller provoquer son ennemi Wulf assis non loin, mais le MJ dit que cette action nécessite un jet de Viking (4) car ce dernier n'est pas certain de tenir debout. Le joueur jouant Grolfnar joue et obtient 6, 5, 2 et 1, soit un jet réussi avec une MR de 2. Il parvient à se lever et à se diriger vers Wulf sans encombre.
 
-Certains jeux héroïques nécessitent que les PJ réussissent souvent les actions qu'ils entreprennent. Dans ce cas, il est possible de prendre 4 comme difficulté moyenne
+#### Utilisation des points de Destin
+
+A tout moment, un joueur peut utiliser un point de Destin pour un jet de Cliché. Pour une action ou un round, son Cliché voit sa valeur doublée et le joueur lancera deux fois les dés de son Cliché pour cette action ou ce round.
+
+#### Option : Baisser ou augmenter le FD moyen
+
+Certains jeux héroïques nécessitent que les PJ réussissent souvent les actions qu'ils entreprennent. Dans ce cas, il est possible de prendre 4 comme difficulté moyenne.
+
+Dans d'autres cas, des jeux par exemple où l'échec est plus présent, le FD moyen peut être élevé à 6.
+
+N'hésitez pas à consulter la Table 6 pour vous assurer des probabilités impliquées par un tel choix.
 
 ### Options
 
@@ -179,6 +217,8 @@ Même si un jet de 1 est toujours un échec et un jet de 6 est toujours une réu
 | 4D     | Trois 6           | Trois 1        |
 | 5D     | Quatre 6          | Quatre 1       |
 | nD     | n-1 6             | n-1 1          |
+
+*Table 7: Coups critiques (option)*
 
 Un échec critique classique est la rupture de l'arme du PJ ou le fait de se blesser lui-même durant une action
 
@@ -214,12 +254,12 @@ Un combat est divisé en rounds de durée variable. Le MJ décrit la scène.
 
 Les attaques doivent viser un adversaire : les deux parties impliquées font chacune leur jet de Cliché. Plusieurs cas se présentent :
 
-* Si A et B réussissent tous deux leur jet de Cliché, personne ne gagne le round ;
-* Si l'un des deux adversaires rate son jet de Cliché et l'autre le réussit, le perdant *perd un dé* ;
+* Si les deux adversaires réussissent tous deux leur jet de Cliché, personne ne gagne le round ;
+* Si l'un des deux adversaires rate son jet de Cliché et l'autre le réussit, le perdant *perd 1D du Cliché qui a servi pendant le round* ;
 * Si les deux adversaires ratent leur jet de Cliché, personne ne gagne le round ;
   * Option : chacun d'entre eux doit lancer 1D6 pour voir s'ils ne commettent pas une maladresse (1 sur 1D6) : la conséquence de la maladresse est laissée au MJ.
 
-Les deux adversaires ne sont pas obligés d'utiliser toujours le même Cliché. Ils peuvent en changer. Mais le combat s'arrête si l'un des Clichés utilisé tombe à 0.
+Les deux adversaires ne sont pas obligés d'utiliser toujours le même Cliché. Ils peuvent en changer. Mais le combat s'arrête si l'un des Clichés utilisé tombe à 0D.
 
 #### Sort du perdant
 
@@ -227,6 +267,24 @@ Le perdant est à la merci du bon vouloir du vainqueur qui doit décider de son 
 * Dans le cadre d'un combat physique ou magique, il est possible que le vaincu soit tué (ou épargné par la clémence du vainqueur) ;
 * Dans le cadre d'un procès, le vaincu a perdu et est soit condamné, soit l'accusé est innocenté ;
 * Dans le cadre d'une séduction, le vainqueur est soit couronné de succès, soit il éconduit la personne qui tente de le séduire.
+
+#### Exemple
+
+Grolfnar Viking (4) et Wulf Viking (5) se battent au corps à corps
+
+| Round | Grolfnar / Succès  | Wulf /Succès       | Résultat Grolfnar | Résultat Wulf  | Commentaire                  |
+|-------|--------------------|--------------------|-------------------|----------------|------------------------------|
+| 1     | 4, 4, 3, 2 - **0** | 6, 5, 5, 4, 1 - 3  | Viking (4-1=3)    | Viking (5)     | Grolfnar a perdu le round    |
+| 2     | 6, 4, 1 - 1        | 6, 4, 4, 3, 3 - 1  | Viking (3)        | Viking (5)     | Ex-aequo                     |
+| 3     | 6, 5, 4 - 2        | 4, 3, 2, 2, 2 - 1  | Viking (3)        | Viking (5-1=4) | Grolfnar a gagné le round    |
+| 4     | 6, 5, 5 - 3        | 4, 4, 4, 2 - **0** | Viking (3)        | Viking (4-1=3) | Grolfnar a gagné le round    |
+| 5     | 6, 6, 5 - 3        | 3, 2, 1 - **0**    | Viking (3)        | Viking (3-1=2) | Grolfnar a gagné le round    |
+| 6     | 4, 4, 1 - **0**    | 6, 1 - 1           | Viking (3-1=2)    | Viking (2)     | Grolfnar a perdu le round    |
+| 7     | 5, 4 - 1           | 3, 2 - **0**       | Viking (2)        | Viking (2-1=1) | Grolfnar a gagné le round    |
+| 8     | 4, 3 - **0** (3)   | 3 - **0** (4)      | Viking (2)        | Viking (1)     | Ex-aequo (pas de maladresse) |
+| 9     | 6, 4 - 1           | 2 - **0**          | Viking (2)        | Viking (1-1=0) | Grolfnar a gagné le combat   |
+
+Grolfnar doit maintenant décider du sort de Wulf.
 
 #### Regagner les dés perdus
 
@@ -244,17 +302,153 @@ Dans un combat physique, le round durera quelques secondes tandis qu'il pourra d
 
 #### Cliché inadapté
 
-Le MJ détermine les Clichés adaptés pour le type de Combat, ce qui signifie que certains Clichés ne sont pas adaptés. Par exemple, dans un combat physique, Coiffeur est inadapté.
+Le MJ détermine les Clichés adaptés pour le type de Combat, ce qui signifie que certains Clichés ne sont pas adaptés. Par exemple, dans un combat physique, Coiffeur est inadapté. Dans un combat magique, Barbare est inadapté.
+
+Les Clichés inadaptés ne sont pas interdits dans les Combats. Ils peuvent toujours être utilisés selon les modalités décrites dans la section *Adaptation du Cliché*.
+
+### Conflit à action unique
+
+Le Combat est une mécanique à plusieurs rounds basé sur l'usure des combattants. Pour autant, certains conflits sont trop rapides pour être joués de la sorte (deux personnages tentant d'attraper le même pistolet par exemple).
+
+Ces Conflits à Action Unique sont résolus via un seul jet avec le Cliché adapté (ou inadapté avec le bon roleplay ou avec les malus proposés Table 2).
+
+#### Méthode de la Difficulté Variable
+
+Le MJ utilise la méthode de la **Difficulté Variable** :
+
+* Il commence par compter les Succès de chaque protagoniste sur un FD 5 (normale). Si l'un des deux a plus de Succès que l'autre, il gagne le Conflit.
+* Si aucun des protagonistes n'a obtenu de Succès ou si le nombre de Succès est identique, les dés de Succès sont exclus et le MJ regarde le nombre de succès obtenus sur un FD 4 avec les dés restant. Celui qui a obtenu le plus grand nombre de Succès l'emporte.
+* Et ainsi de suite.
+* Dans le cas où le nombre de succès serait identique sur toutes les difficultés, les joueurs lancent 1D6 et le plus haut score gagne (rejouer jusqu'à ce que l'un d'entre eux gagne).
+
+#### Exemple
+
+Grolfnar et Wulf veulent tous deux attraper le dernier poulet cuit sur la table du festin. Wulf est un Viking (5) et Grolfnar un Viking (4). Ils jettent respectivement leurs dés : 
+
+* Grolfnar obtient 6, 4, 2 et 2,
+* Wulf obtient 6, 3, 3, 2, 1.
+
+Au FD 5, les deux Vikings ont un Succès chacun. Si l'on enlève les dés ayant la valeur 6, Grolfnar a un Succès au FD 4 pour 0 Succès pour Wulf. Grolfnar attrape le poulet avant Wulf.
+
+### Option : Effort
+
+Les personnages peuvent faire un Effort en prenant l'énergie du round n+1 et en la cumulant sur le round n.
+
+Ainsi, au lieu de faire 2 rounds avec un Cliché (4), le personnage pourra faire un Effort de 1D avec Cliché (4+1=5) puis Cliché (4-1=3), ou un Effort de 2D avec Cliché (4+2=6) puis Cliché (4-2=2).
+
+Plusieurs conséquences résultent de cet Effort :
+
+* Le Cliché après l'effort reste au niveau Cliché - Effort ;
+* A cela se cumule une potentielle perte de round de -1D ;
+* En cas de victoire du combattant faisant un Effort, le combattant adverse perd 1D + Effort ;
+* Ce round a toujours un gagnant selon la méthode de la Difficulté Variable.
+
+Cette méthode peut être intéressante lorsque le PJ qui l'utilise possède plusieurs Clichés applicables à un Combat.
+
+#### Exemple
+
+Reprenons l'exemple du combat entre Grolfnar, Viking (4), et Wulf, Viking (5).
+
+| Round | Grolfnar / Succès  | Wulf /Succès       | Résultat Grolfnar | Résultat Wulf  | Commentaire                  |
+|-------|--------------------|--------------------|-------------------|----------------|------------------------------|
+| 1     | 4, 4, 3, 2 - **0** | 6, 5, 5, 4, 1 - 3  | Viking (4-1=3)    | Viking (5)     | Grolfnar a perdu le round    |
+
+Après ce round, Grolfnar décide de faire un Effort de 2D. Il passe donc temporairement à Viking (5) mais il sait que s'il perd le round, il perdra le combat : Viking(3-2-1=0), 2 étant la perte due à l'Effort et 1 au round de combat. Mais comme la méthode utilisée est celle de la Difficulté Variable, il tente.
+
+| Round | Grolfnar / Succès | Wulf /Succès      | Résultat Grolfnar | Résultat Wulf    | Commentaire               |
+|-------|-------------------|-------------------|-------------------|------------------|---------------------------|
+| 2     | 4, 4, 3, 3, 2 - 0 | 4, 3, 3, 2, 2 - 0 | Viking (3-2=1)    | Viking (5-2-1=2) | Grolfnar a gagné le round |
+
+Au round 2, aucun des deux combattants n'a de Succès sur la difficulté 5, par contre Grolfnar a 2 Succès sur la difficulté 4 tandis que Wulf n'en a qu'un seul. Grolfnar gagne le round, prend la pénalité due à l'Effort, tandis que Wulf prend la même pénalité à laquelle s'ajoute la pénalité de perte du round.
+
+Le Combat peut continuer.
+
+### Option : Double Effort
+
+Si le MJ permet les Efforts, il peut permettre les Clichés permettant les Double Efforts. Ces Clichés ne prennent que la moitié des dommages consécutifs à un Effort.
+
+Ainsi, un Sorcier [5] pourrait lancer 11D pendant un round de Combat (6D de bonus !) mais prendre encaisser 3D de dommages pour le Double Effort.
+
+Les Clichés Double Effort coûtent le double des Cliché normaux durant la création du personnage et sont adaptés pour représenter les capacités surnaturelles. L'utilisation des crochets [] au lieu des parenthèses indique un Cliché Double Effort.
+
+## Travailler en équipe
+
+Deux personnages ou plus peuvent former une équipe durant un Combat. Pour la durée de l'équipe (généralement le Combat complet), ils se battent comment un seul groupe et ne peuvent être attaqués que comme un seul adversaire.
+
+Il existe deux types d'équipes :
+
+* Les équipes de personnages (pour les PJ et les PNJ les plus intéressants),
+* Les hordes grognantes (pour les groupes de PNJ anonymes).
+
+### Hordes grognantes
+
+Les Hordes Grognantes sont gérées de manière spéciale.
+
+Quand une horde de 700 rats-squelettes attaquent les PC dans la tanière d'un Nécromant Mauvais (5), le MJ les déclare en tant que Horde Grognante afin de les traiter comme un seul ennemi : Horde de Rats-Squelettes (7). En termes de mécanique, la horde est similaire à un seul ennemi sauf qu'elle a plus de dés.
+
+Les Hordes Grognantes reste groupées en équipe jusqu'à ce qu'elles soient vaincues. A ce moment, quelques survivants peuvent se disperser, sachant qu'au moins un élément de la Horde devrait rester en attente de la décision du vainqueur.
+
+Si l'on pousse la logique à l'extrême, un équipage entier de navire, ou même une forêt entière, des souterrains, des villes ou des nations pourraient être représentées comme un seul Cliché.
+
+### Equipes de personnages
+
+Quand les PJ (et/ou les PNJ notables) forment une équipe, le chef d'équipe est le personnage qui possède le plus haut Cliché applicable (en cas d'égalité, l'équipe doit désigner un chef).
+
+Toute l'équipe va faire des jets mais seul le jet du chef d'équipe compte complètement. Les autres membres de l'équipe ne contribuent que s'ils font 6 sur leur Cliché.
+
+Les Clichés utilisés au sein de l'équipe n'ont pas besoin d'être identiques et, si tant est que le MJ est convaincu, ils peuvent être un mélange de Clichés adaptés et inadaptés (un groupe de Guerriers peut être aidé par leur Ménestrel, par exemple). Pour autant, ils ne triplent pas la perte de dés de l'ennemi, sauf s'ils utilisent tous des Clichés inadaptés (ce qui signifie que les joueurs doivent expliquer au MJ exactement comment un Coiffeur, un Dresseur de Perruches et un Coach se coordonnent pour battre Darth Viraxis).
+
+Quand l'équipe perd un round de combat, le Cliché d'un seul membre de l'équipe est réduit de 1D.
+
+Chaque membre de l'équipe, incluant le chef, peut décider d'encaisser ces dommages volontairement. Si c'est le cas, ce dernier subit le double de la perte normale (2D ou 6D suivant le cas), mais le chef d'équipe bénéficiera d'un bonus de vengeance : il pourra, en effet, jeter deux fois plus de dés pour la prochaine attaque, comme vengeance de l'équipe suite aux dommages encaissés par l'un des leurs.
+
+Si aucun membre de l'équipe n'est volontaire, le chef d'équipe désigne le membre qui prendra les dommages. Ces derniers ne seront pas doublés et ne donneront pas lieu à un bonus de vengeance.
+
+#### Victoire et défaite
+
+Avec les équipes comme avec les individus, le vainqueur détermine le sort du vaincu, mais quand le vaincu fait partie d'une équipe, la détermination du sort du vaincu est généralement repoussée à la fin de l'existence de l'équipe (même s'il est vaincu pendant le combat fait encore rage). Cela signifie que l'équipe gagnante décide dans tous les cas.
+
+Dans certains cas néanmoins, les PJs sont dans de telles circonstances précaires, que leur sort doit être déterminé immédiatement. Mais dans la plupart des cas, faire partie d'une équipe, spécialement une équipe gagnante, est une excellente assurance.
+
+#### Dissoudre l'équipe
+
+Une équipe peut volontairement se dissoudre à tout moment. Lors de cette dissolution, tous les membres de l'équipe perdent immédiatement 1D dans le Cliché qui leur servait à contribuer à l'équipe.
+
+Les membres libres pourront former de nouvelles équipes pourvu que la perte de 1D ne les ait pas rendus vaincus.
+
+Un individu peut aussi se retirer d'une équipe, mais son score de Cliché passera alors immédiatement à 0D alors qu'ils courent à l'arrière. Leur sort dépendra de la miséricorde de celui qui gagnera le Combat.
+
+#### Perte du chef d'équipe
+
+Si le chef d'équipe quitte l'équipe, quelque soit la raison (il se retire ou son Cliché tombe à 0D), l'équipe doit se dissoudre immédiatement (voir ci-dessus).
+
+Les membres de l'équipe dissoute peuvent décider de reformer une équipe immédiatement avec un nouveau chef, ce dernier ayant droit à un bonus de vengeance pour venger son prédécesseur.
 
 
 
 
 
+## Expérience
 
-## Explication
+### Points de Destin
 
-Risus est un jeu très facile et très amusant.
+Quand les joueurs ont été héroïques ou qu'ils ont été particulièrement brillants de par leur roleplay ou leur inventivité, le MJ peut les gratifier d'un point de Destin.
 
-Il a néanmoins un problème de fond, tout comme les autres systèmes à base de multiples D6 additionnés (comme Star Wars D6). En effet, lors des oppositions, un Cliché de (n)D6 n'a aucune vraie chance contre un cliché de (n+1)D6 (voir [ce lien](https://orey.github.io/blog/pages/D6-Combat/) pour plus d'informations).
+A la fin de l'aventure, les PJs devraient regagner entre 1 et 3 points de Destin selon leur performance dans le scénario.
 
-Nous proposons donc une version "pool de D6" de Risus, d'où le nom de Risus Pool.
+### Progression des personnages
+
+Après chaque séance, les joueurs ont une chance de faire progresser un Cliché de 1D.
+
+#### Clichés existants
+
+A la fin de chaque aventure, chaque joueur lance les dés de tous les Clichés qui ont été sollicités durant le jeu. S'il n'obtient que des chiffres pairs, alors le Cliché est candidat pour être augmenté.
+
+Le joueur doit alors choisir dans les candidats quel Cliché doit être augmenté d'1D.
+
+La limite de progression des Clichés est Cliché (6).
+
+#### Nouveaux Clichés
+
+Si le joueur s'est particulièrement illustré dans des actions qui ne sont pas couvertes par ses Clichés, il peut, avec l'accord du MJ, créer un nouveau Cliché (1) suite à son gain d'expérience.
+
