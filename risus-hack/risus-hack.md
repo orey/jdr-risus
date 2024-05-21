@@ -1,14 +1,14 @@
 ![Risus](risus.png)
 
-# Risus Pool
+# Risus Hack
 
-Bienvenue dans Risus Pool : Le jeu de rôle de tous les univers, un jeu de rôle sur table complet !
+Bienvenue dans Risus Hack : Le jeu de rôle de tous les univers, un jeu de rôle sur table complet !
 
 ## Création de personnage
 
 ### Le Cliché
 
-La notion de "Cliché" est au cœur de Risus Pool. Un Cliché résume un type de personne, englobant ses compétences, son histoire, son rôle social et ainsi de suite.
+La notion de "Cliché" est au cœur de Risus Hack. Un Cliché résume un type de personne, englobant ses compétences, son histoire, son rôle social et ainsi de suite.
 
 Les classes de personnages des jeux de rôle les plus anciens peuvent être considérées comme des Clichés, par exemple Guerrier, Magicien, Pilote Stellaire ou Super-Espion.
 
@@ -40,7 +40,7 @@ A la fin de la création du personnage, ce dernier reçoit 3 point de Destin (vo
 
 ### Exemple de personnage
 
-Un personnage de Risus Pool complet ressemble à ceci :
+Un personnage de Risus Hack complet ressemble à ceci :
 
 **Nom** : Grolfnar Vainsson Le Viking,
  
@@ -226,7 +226,7 @@ Un échec critique classique est la rupture de l'arme du PJ ou le fait de se ble
 
 ### Divers types de combat
 
-Dans Risus Pool, le "combat" est défini comme toute occasion où des adversaires tentent d’améliorer leur position, d’attaquer, de se défendre ou d’avoir à l'usure leurs adversaires, littéralement ou métaphoriquement, pour arriver à une victoire. Parmi les exemples de "combats" possibles :
+Dans Risus Hack, le "combat" est défini comme toute occasion où des adversaires tentent d’améliorer leur position, d’attaquer, de se défendre ou d’avoir à l'usure leurs adversaires, littéralement ou métaphoriquement, pour arriver à une victoire. Parmi les exemples de "combats" possibles :
 
 * **Débat** : des combattants maniant la logique, les arguments et les astuces rhétoriques pour faire triompher leur opinion ;
 * **Course de chevaux** : des jockey sur des chevaux galopant comme des fous sur une piste boueuse pour savoir qui arrivera nulle part le premier ;
@@ -451,4 +451,15 @@ La limite de progression des Clichés est Cliché (6).
 #### Nouveaux Clichés
 
 Si le joueur s'est particulièrement illustré dans des actions qui ne sont pas couvertes par ses Clichés, il peut, avec l'accord du MJ, créer un nouveau Cliché (1) suite à son gain d'expérience.
+
+## Exemples de Clichés
+
+### Introduction
+
+Comme nous l'avons vu, les Clichés peuvent être vus comme des classes de personnages, et les classes de personnages peuvent être vues comme des Clichés.
+
+### Heroic Fantasy
+
+|Classe|Cliché|Commentaires
+|-------
 
