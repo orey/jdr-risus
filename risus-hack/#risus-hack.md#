@@ -479,13 +479,10 @@ Comme nous l'avons vu, les Clichés peuvent être vus comme des classes de perso
 
 * Acrobate
 * Archer
-* Armurier
 * Assassin
 * Aventurier
 * Bandit
 * Barbare
-* Boucher
-* Boulanger
 * Canaille
 * Champion
 * Chasseur
@@ -493,7 +490,6 @@ Comme nous l'avons vu, les Clichés peuvent être vus comme des classes de perso
 * Combattant
 * Dresseur d'animaux
 * Forestier
-* Forgeron
 * Fou-furieux
 * Guerrier
 * Gladiateur
@@ -505,6 +501,19 @@ Comme nous l'avons vu, les Clichés peuvent être vus comme des classes de perso
 * Pirate
 * Soldat
 * Voleur
+
+#### Métiers
+
+* Armurier
+* Boucher
+* Boulanger
+* Brasseur
+* Cartographe
+* Charpentier
+* Fabricant d'arcs
+* Forgeron
+* Sculpteur
+
 
 #### Modificateurs de Clichés physiques
 
