@@ -460,6 +460,156 @@ Comme nous l'avons vu, les Clichés peuvent être vus comme des classes de perso
 
 ### Heroic Fantasy
 
-|Classe|Cliché|Commentaires
-|-------
+#### Clichés physiques
+
+* Acrobate
+* Archer
+* Assassin
+* Aventurier
+* Bandit
+* Barbare
+* Canaille
+* Champion
+* Chasseur
+* Chevalier
+* Combattant
+* Forestier
+* Fou-furieux
+* Guerrier
+* Gladiateur
+* Garde
+* Hors-la-loi
+* Maître d'armes
+* Marin
+* Nomade
+* Pirate
+* Soldat
+* Voleur
+
+Modificateurs de Clichés physiques
+
+* Actif
+* Agile
+* Ambitieux
+* Animé
+* Balafré
+* Baraqué
+* Bourru
+* Brutal
+* Courageux
+* Cruel
+* Dur
+* Fort
+* Furtif
+* Gracieux
+* Ignorant
+* Impétueux
+* Laconique
+* Puissant
+* Rapide
+* Renfrogné
+* Robuste
+* Sans tact
+* Solide
+
+#### Races
+
+* Elfe,
+* Fée
+* Gnome
+* Hobbit
+* Lutin
+* Nain
+* Sirène
+* Sylphe
+
+#### Clichés mentaux
+
+* Alchimiste
+* Astrologue
+* Conjureur
+* Devin
+* Elémentaliste
+* Enchanteur
+* Ensorceleur
+* Envoûteur
+* Illusionniste
+* Mage
+* Magicien
+* Nécromancien
+* Philosophe
+* Sage
+* Savant
+* Sorcier
+* Thaumaturge
+
+Modificateurs de Clichés mentaux :
+
+* A lunettes / à binocles
+* Attentif
+* Bavard
+* Condescendant
+* Créatif
+* Eduqué
+* Faible
+* Farfelu
+* Inconscient
+* Intense
+* Maladif
+* Observateur
+* Patient
+* Productif
+* Prolixe
+* Prudent
+* Timide
+
+#### Clichés émotionnels
+
+* Artiste
+* Barde
+* Courtisan
+* Danseur
+* Jongleur
+* Ménestrel
+* Noble
+* Troubadour
+
+Modificateurs de Clichés émotionnels :
+
+* Amoureux
+* Amical
+* Charmant
+* Convainquant
+* Drôle
+* Ecervelé
+* Enthousiaste
+* Etourdi
+* Excité
+* Facile
+* Généreux
+* Idiot
+* Incapable
+* Lunaire
+* Passionné
+* Perspicace
+* Séduisant
+* Spirituel
+* Vivace
+
+#### Modificateurs de Clichés génériques et amusants
+
+* Cannibale
+* Célèbre
+* Coupable
+* Dépendant
+* En fuite
+* Fantomatique
+* Fou
+* Incompréhensible
+* Insatiable
+* Maudit
+* Non fiable
+* Possédant des tentacules
+* Vampire
+* Violent
 
