@@ -7,12 +7,13 @@ Cette initiative est un peu bizarre : faire une base de Clichés. C'est un trava
 ## Dexter series
 
 * Psychopathe qui ne tue que des méchants (Dexter)
-* Psychopathe qui démembre pour se rappeler son enfance (frère de Dexter)
+* Psychopathe qui démembre ses victimes et ls vide leur sang pour se rappeler son enfance (frère de Dexter)
 * Psychopathe qui tue pour reproduire un rite de son enfance
 * Psychopathe qui enlève un bout du cerveau de ses victimes pour montrer qu'il n'est pas le seul à manquer d'empathie
 * Gars du sang (blood guy)
 * Lieutenant connasse et politique
-* Lieutenant hyper compétente qui jure tout le temps
+* Détective hyper compétente qui jure tout le temps et qui choisit toujours de sortir avec les mauvais mecs (Debra)
+* Soeur sacrifiant ses idéaux pour son psychopathe de frère
 * Détective playboy alcoolique
 * Détective latino paternaliste
 * Babysitter latino en shorts courts
