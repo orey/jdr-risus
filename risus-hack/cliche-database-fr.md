@@ -2,26 +2,47 @@
 
 ## Introduction
 
-Cette initiative est un peu bizarre : faire une base de Clichés. C'est un travail en cours qui risque de prendre longtemps.
+Cette initiative est un peu bizarre : faire une base de Clichés. C'est un travail en cours qui risque de prendre longtemps (très longtemps).
 
 ## Dexter series
 
-* Psychopathe qui ne tue que des méchants (Dexter)
-* Psychopathe qui démembre ses victimes et ls vide leur sang pour se rappeler son enfance (frère de Dexter)
-* Psychopathe qui tue pour reproduire un rite de son enfance
-* Psychopathe qui enlève un bout du cerveau de ses victimes pour montrer qu'il n'est pas le seul à manquer d'empathie
-* Gars du sang (blood guy)
-* Lieutenant connasse et politique
-* Détective hyper compétente qui jure tout le temps et qui choisit toujours de sortir avec les mauvais mecs (Debra)
-* Soeur sacrifiant ses idéaux pour son psychopathe de frère
-* Détective playboy alcoolique
-* Détective latino paternaliste
-* Babysitter latino en shorts courts
-* Policier scientifique asiatique aux blagues scabreuses
-* Ex-taulard violent pas très patient
-* Psychanalyste spécialiste des psychopathes car son fils en était un
-* Policier queutard éleveur de psychopathe
+Voici les Clichés de la série Dexter.
 
+| Clichés                                                                                                                    | Equipement                                                         |
+|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Tueur en série qui ne tue que des méchants (Dexter Morgan)                                                                 | Sacoche en cuir avec couteaux et objets coupants, le Code de Harry |
+| Expert des effusions de sang (Dexter Morgan)                                                                               | Malette et laboratoire de police scientifique                      |
+| Détective hyper compétente qui jure tout le temps et qui choisit toujours de sortir avec les mauvais mecs (Debra Morgan)   | Arme de service                                                    |
+| Soeur sacrifiant ses idéaux pour son psychopathe de frère (Debra Morgan)                                                   | Steaks et bières                                                   |
+| Tueur en série qui démembre ses victimes et les vide leur sang pour se rappeler son enfance (Brian Moser, frère de Dexter) | Salle de torture dans son appartement                              |
+| Blonde avec deux enfants d'un ex-taulard qui recherche une relation stable (Rita Bennet)                                   | Astor et Cody (pas vraiment un équipement mais bon)                |
+| Ex-taulard violent pas très patient (Paul Bennet)                                                                          | La maison de son ex                                                |
+| Flic ex-forces spéciales brutal, entêté et vulgaire (James Doakes)                                                         | Arme de service                                                    |
+| Femme-lieutenant sans feeling et politique (Maria LaGuerta)                                                                | Bureau fermé                                                       |
+| Détective latino paternaliste et au grand coeur (Angel Batista)                                                            | Arme de service                                                    |
+| Policier scientifique asiatique aux blagues scabreuses (Vince Masuka)                                                      | Laboratoire de police scientifique                                 |
+| Chef politique du département police criminelle (Tom Matthews)                                                             | Costard                                                            |
+| Enquêteur FBI spécialisé dans les tueurs en série (Frank Lundy)                                                            | Dossiers sur tueurs en série, arme de service                      |
+| Montagne de muscles chef de gang latino (Little Chino)                                                                     | Machette                                                           |
+| Artiste sociopathe possessive et manipulatrice (Lila Tournay)                                                              | Atelier de peinture avec des tableaux effrayants                   |
+| Politicien psychopathe control freak (Miguel Prado)                                                                        | Réseau politique et argent                                         |
+| Détective playboy alcoolique (Joey Quinn)                                                                                  | Arme de service                                                    |
+| Musicien de bar ayant du succès auprès des femmes (Anton Briggs)                                                           | Guitare                                                            |
+| Tueur en série très religieux qui tue pour reproduire un traumatisme d'enfance (Arthur Mitchell)                           | Rasoir, marteau                                                    |
+| Femme du tueur en série défendant son mari en toutes circonstances (Sally Mitchell)                                        | Maison bien tenue                                                  |
+| Journaliste qui n'hésite pas à coucher avec un flic pour avoir un scoop (Christine Hill)                                   | Carnet et crayon                                                   |
+| Policier véreux et corrompu cherchant à se venger (Stan Liddy)                                                             | Arme de service                                                    |
+| Blonde victime de sévices cherchant à se venger (Lumen Pierce)                                                             | Dexter                                                             |
+| Babysitter latino en shorts courts (Jamie Batista)                                                                         | Affaires de bébé, panière de linge                                 |
+| Informaticien prétentieux obsédé par les tueurs en série (Louis Greene)                                                    | Ordinateur                                                         |
+| Professeur ayant décodé la fin du monde dans l'Apocalypse de Jean (Professor James Gellar)                                 | Manuscrits avec des notes et des dessins effrayants                |
+| Assistant du professeur, peintre, tueur en série et schizophrène (Travis Marshall)                                         | Fers au feu, peintures, outils pour mises en scènes horribles      |
+| Ex-taulard converti au christianisme et s'occupant d'un garage pour réinsérer les délinquants (Brother Sam)                | Bible                                                              |
+| Chef psychopathe de la mafia ukrainienne de Miami (Isaak Sirko)                                                            | Armes                                                              |
+| Criminelle férue de plantes et de poisons (Hannah McKay)                                                                   | Poisons                                                            |
+| Psychanalyste spécialiste des psychopathes car son fils en était un et a tué son frère (Dr. Evelyn Vogel)                  | Ordinateur avec toutes les notes sur tous les cas                  |
+| Tueur en série qui enlève un bout du cerveau de ses victimes (l'empathie) (Oliver Saxon)                                   | Scie sauteuse pour ouvrir la tête                                  |
+| Policier queutard et désespéré éleveur d'un psychopathe (Harry Morgan)                                                     | Le Code                                                            |
 
 ## Heroic Fantasy
 
