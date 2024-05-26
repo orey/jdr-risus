@@ -1,0 +1,199 @@
+RISUS
+THE ANYTHING RPG
+By S. John Ross © 1993-2003
+
+
+
+Risus is a complete Role Playing Game (RPG) designed to provide an "RPG Lite" for those nights when the brain is too tired for exacting detail. Risus is especially valuable to GMs assembling a quick convention game, or any late-night beer-and-pretzels outing. While it is essentially a Universal Comedy System, it works just as well for serious play (if you insist!). Best of all, a Risus character takes about 20 seconds to create!
+
+CREDIT WHERE IT'S DUE
+	Inspiration for the nature of this game comes largely from the sadly out-of-print classic, Ghostbusters, from West End Games, sparked against an idea (Clichés) from DC Heroes. The final shape and form of the game was inspired by Over the Edge, from Atlas Games. Other RPGs (most notably GURPS, FUDGE and Tunnels and Trolls), have also provided valuable inspiration. Many friends, fellow gamers, total strangers on the street, and others have provided useful commentary as the game has developed, including Dan "Moose" Jasman, Frank J. Perricone, Jason Puckett, David Pulver, Sean "Dr. Kromm" Punch, and the gamers on the Risus internet mailing list.
+
+CHARACTER CREATION!
+
+	Characters are defined by Clichés (sometimes several of them). Clichés are a shorthand which describe what a character knows how to do. The ``character classes'' of the Neolithic Period of RPGs were Clichés: Fighter and Magic-User, Space Marine and Star Merchant. You can take Clichés like that, or choose a more contemporary one, such as Biker, Spy, Computer Nerd, Supermodel, or William Shatner (formerly an actor - now just a Cliché). Which Clichés are permitted are up to the GM.
+	Clichés are defined in terms of Dice (by which we mean the ordinary six-sided kind you can scavenge from your old Yahtzee set). This is the number of dice that you roll whenever your skill as a Fighter, Supermodel, or William Shatner (for instance) is challenged. See ``Game System,'' below. Three dice is professional. Six dice is mastery. One die is a putz.
+	Characters are created by naming and describing them, and listing their Clichés. When designing your character, you have 10 dice with which to define his Clichés (a Normal Schmoe would be built on anywhere from 3 to 5 dice). A straightforward medieval fighter character might look like this:
+
+	Grolfnar Vainsson the Viking
+	Description: Tall, blond, and grinning. Likes to drink
+		     and fight and drink and chase Viking women
+		     and fight and sail the high seas and raid.
+		     Wants to write great sagas about himself.
+	Clichés: Viking (4), Womanizer (2), Gambler (3), Poet (1)
+
+	A character may have any number or combination of Clichés, but more than 10 different Clichés would be odd, considering the number of dice you get. Characters shouldn't begin their career with more than 4 dice in anything, but just because you're creating a character today doesn't mean that he's beginning his career! The GM will tell you if he's requiring ``beginners'' for the game. It's not our business.
+
+SOME SAMPLE CLICHÉS (AND WHAT THEY'RE GOOD FOR)
+Astronaut (Piloting spaceships, not puking in zero-gee)
+Barbarian (Beating things up, drinking, whoring, grunting, sweating)
+Biker (Riding Harley, brawling, being Invisible to other motorists)
+Bimbo (Available in both genders. Distracting, teasing, not teasing...)
+Computer Geek (Hacking, programming, fumbling over introductions)
+Con Artist (Convincing other people to give you money, evading cops)
+Cowboy (Ridin', ropin', brandin', spittin', and shootin')
+Fighter Pilot (Dogfighting, not blacking out at high-Gs, bragging)
+Gadgeteer (Building a radar out of a bent fork and some gum)
+Gambler (Betting, cheating, winning, running very fast)
+Gangster (Shooting, speaking with an accent, intimidation)
+Geezer (Wheezin', cursin', bitter reminiscin', failin' to understand kids)
+Hairdresser (Dressing hair. If anything.)
+Kid (Being a sidekick to heroes, making friends with Giant Monsters)
+Knight (Riding, lancing, sword-swinging, heraldry, being chaste)
+Latin Lover (Seducing, loving, running from irate husbands)
+Mad Scientist (Raving, world-domination, trying to play God, cackling)
+Martial Artist (Fancy hand-to-hand combat, out-of-synch speech)
+Magician (Palming things, sawing ladies in half, public speaking)
+Sorcerer (Spellcasting, demon-summoning, speaking in gibberish)
+Novelist (Drinking, brawling, cut-rate world traveling, introspection)
+Olympic Athlete (Running, swimming, jumping, skiing, javelin-tossing)
+Outdoorsman (Following tracks, building shelters, finding wild food)
+Policeman (Eating donuts, writing tickets, shooting civilians)
+Poltergeist (Being dead, throwing things, scaring people)
+Soldier (Shooting, hiding, partying, catching venereal diseases)
+Special Forces (Following orders, looking stern, following orders)
+Swashbuckler (Stabbing things, swinging from ropes, sailing, romance)
+Thief (Sneakin' around gaining access and objects they shouldn't have)
+Vampire (Charming people, sucking blood, turning into mist or bats)
+Other Kind of Vampire (Self-pity, erotic blood poetry, wearing black)
+
+	These are just examples to get you started - players should feel free to make up their own Clichés (subject to GM approval). In particular, Note that the GM will require the "fine tuning" of any Cliché that he considers too broad. If the game is about sorcerers (for example), then "sorcerer" becomes too all-encompassing for the game, and Clichés like necromancer, mentalist, fire-wizard and wise woman are more the order of the day.
+
+THE GAME SYSTEM
+	Whenever anybody wants to do something, and nobody is actively trying to stop him, AND the GM doesn't think that success would be automatic, the player rolls dice. If the total rolled beats (equals or exceeds) the Target Number the GM sets, success! If not, failure!
+
+	Target numbers follow this scale:
+	5: A cinch. A snap. A challenge for a Schmuck. Routine for a pro.
+	10: A challenge for a Professional.
+	15: An Heroic challenge. For really inventive or tricky stunts.
+	20: A challenge for a Master. Nearly superhuman difficulty.
+	30: You've GOT to be Kidding. Actual superhuman difficulty.
+
+	This can be subjective, and anybody can try anything: Crossing a chasm by swinging on a rope, vine or something similar would be child's play (automatic success!) for a Swashbuckler or a Lord of the Jungle, easy (Difficulty 5) for a Pulp Archaeologist, and challenging but definitely doable (Difficulty 10) for a Gymnast, Barbarian, or Thief. Even a Wheelchair-Bound Eccentric Occultist could try it (Difficulty 15, but the wheelchair is lost unless the roll beats a 30)!
+
+PROPER TOOLS
+	Every character is assumed to be equipped with the Tools of His Trade (at least the portable ones). Warriors are wearing armor and wielding good weapons. Cowboys have leather chaps, lasoo, a couple of pearl-handled six-guns and some chaw. Netrunners have an expensive jack-in laptop and funny clothes.
+	If, through the course of an adventure, a character LOSES any of these vital totems, his Cliché operates on half the normal number of dice (or not at all, if the GM rules that the equipment was REQUIRED) until they are replaced.
+	A Barbarian(5), for instance, can fight without his sword as a Barbarian(3), but a Netrunner can't run the net without his cyberdeck. If the Netrunner manages to find another computer to play with besides the kind he's used to, he can operate at half-dice.
+	Some special tools (magic wands, hot-off-the-line military cyberdecks, and so on) may give bonus dice to your Clichés when used. Characters never begin the game with bonus-dice gear; they must be acquired in adventures.
+
+THE COMBAT SYSTEM
+	``Combat'' in this game is defined as any contest in which opponents jockey for position, utilize attacks, bring defenses to bear, and try to wear down their foes to achieve victory. Either literally or metaphorically! Some examples of combat include:
+
+	ARGUMENTS: People using whatever verbal weapons they have at hand to make their points. Truth is the first casualty.
+	HORSE-RACING: People on horses running around and around a dirty track, trying to get nowhere first.
+	DOGFIGHTS: People in airplanes or spaceships flying around and trying to blow each other out of the sky.
+	ASTRAL/PSYCHIC DUELS: Mystics/psionics looking bored or asleep, but trying to rip one another's egos apart in the Otherworld.
+	WIZARD'S DUELS: Sorcerers using strange magics and trying to outdo the other.
+	DUELING BANJOS: Banjo players using strange melodies and trying to outdo the other.
+	SEDUCTION ATTEMPTS: One (or more) characters trying to score with one (or more) other character(s) who is(are) trying to resist.
+	COURTROOM ANTICS: Prosecution vs. Defense. The goal is victory. Justice is incidental.
+	ACTUAL PHYSICAL COMBAT: People trying to injure or kill each other.
+
+	The GM decides when a combat has begun. At that point, go around the table in rounds, and let each combatant make an attack in turn. What constitutes an ``attack'' depends on the sort of combat, but it should ALWAYS be roleplayed (if dialogue is involved) or described in entertaining detail (if it's physical and/or dangerous and/or normally requires contraceptives).
+	Attacks require rolls against character Clichés. The GM must, at the outset of combat, determine what TYPE of Clichés are appropriate for the fight. In a physical fight, Clichés like Viking, Barbarian, Soldier, Swashbuckler, and Novelist are appropriate. Clichés like Hairdresser and Latin Lover are not (but may still be used; see next section).
+	An attack must be directed at a foe. Both parties in the attack (attacker and defender) roll against their chosen Cliché. Low roll loses. Specifically, the low roller loses one of his Cliché dice for the remainder of the fight - he's been weakened, worn down, or otherwise pushed one step towards defeat. In future rounds, he'll be rolling lower numbers.
+	Eventually, one side will be left standing, and another will be left without dice. At this point, the winners usually decide the fate of the losers. In a physical fight or magical duel, the losers might be killed (or mercifully spared). In Courtroom Antics, the loser gets sentenced by the judge, or fails to prosecute. In a Seduction, the loser gets either a cold shower or a warm evening, depending on who wins.
+	You needn't use the same Cliché every round. If a Viking/Swashbuckler wants to lop heads one round, and swing on chandeliers the next, that's groovy, too. However, anytime a character has a Cliché worn down to zero dice in combat, he has lost, even if he has other appropriate Clichés left to play with.
+	Dice lost in combat are regained when the combat ends, at a "healing" rate determined by the GM. If the combat was in vehicles (space fighters, mecha, wooden sailing ships) then the vehicles themselves are likely damaged, too, and must be repaired.
+
+INAPPROPRIATE CLICHÉS
+	As stated above, the GM determines what sort of Clichés are appropriate for any given combat. An INAPPROPRIATE Cliché is anything that's left . . . In a physical fight, Hairdresser is inappropriate. In a Wizard's duel, Barbarian is inappropriate.
+	Inappropriate Clichés may be used to make attacks, PROVIDED THE PLAYER ROLEPLAYS OR DESCRIBES IT IN A REALLY, REALLY, REALLY ENTERTAINING MANNER. Furthermore, the ``attack'' must be plausible within the context of the combat, and the genre and tone that the GM has set for the game. This option is more valuable in silly games than in dead-serious ones.
+	All combat rules apply normally, with one exception: If an inappropriate Cliché wins a combat round versus an appropriate one, the ``appropriate'' player loses THREE dice, rather than one, from his Cliché! The ``inappropriate'' player takes no such risk, and loses only the normal one die if he loses the round.
+	Thus, a skilled hairdresser is dangerous when cornered and attacked unfairly. Beware.
+	When in doubt, assume that the aggressor determines the type of combat. If a wizard attacks a barbarian with magic, then it's a Wizard's duel! If the barbarian attacks the mage with his sword, then it's Physical Combat! If the defender can come up with an entertaining use of his skills, then he'll have the edge. It pays in many genres to be the defender!
+	Note: If the wizard and barbarian both obviously want to fight, then both are aggressors, and it's "Fantasy Combat," where both swords and sorcery have equal footing.
+
+TEAMING UP
+	Two or more characters may decide to form a TEAM in combat. For the duration of the team (usually the entire combat), they fight as a single unit, and are attacked as a single foe. There are two kinds of teams: Player-Character teams and NPC teams ("Grunt Squads.")
+	Grunt-Squads: This is just special effects. When you want the heroes to be attacked by a horde of 700 rat-skeletons inside the lair of the Wicked Necromancer(5), but don't feel like keeping track of 700 little skeletal sets of dice, just declare that they’re a team, fighting as Skeletal Rat-Horde(7). Mechanically, the Rat-Horde is the same as any other single foe - except it has more dice! Grunt-Squads can have any level of cliché the GM feels is appropriate. Grunt-Squads stick together as a team until they’re defeated, at which point many survivors will scatter (though at least one will always remain to suffer whatever fate the victor decides).
+	Player-Character Teams: When PCs (or PCs and their NPC allies) form a team, the “Team Leader” is defined by the highest-ranking Cliché in the team (a title that must be designated if there is a tie). Everybody rolls dice, but the Team Leader’s dice all count. Other Team Members contribute only their sixes (if the Funky Dice option is used, Team Members may contribute their single highest die-roll above six, or their sixes, their choice). Team members who roll nothing above five don’t contribute anything to the Team Leader’s total for that roll.
+	Clichés joined in a team need not be identical, but they all must be equally appropriate or inappropriate. This means five Vikings could band together in physical fight with no problem. It also means that a Hairdresser, a Parakeet Trainer, and a Career Counselor could team up in a physical fight if they have a REALLY good description of how they'll use their skills in concert to take out the Vikings!
+	Whenever a team loses a round of combat, a single team-member’s dice is reduced by one (or three!) as per the normal combat rules. Any team member may "step forward" and voluntarily take this personal "damage" to his dice. If this happens, the noble volunteer is reduced by twice the normal amount (either two dice or six!), and the team leader gets to roll twice as many dice on his next attack, a temporary boost as the team avenges their heroic comrade. If no volunteer steps forward, then each member must roll against the Cliché they're using as part of the team: Low-roll takes the (undoubled) hit, and there is no "vengeance" bonus.
+	Disbanding: A team may voluntarily disband at any time between die-rolls. This reduces the Cliché each team-member was using in the team by one, instantly (not a permanent reduction - treat it just like "damage" taken from losing a round of combat). Disbanded team-members may freely form new teams, provided the disbanding "damage" doesn't take them out of the fight. Individuals may also "drop out" of a team, but this reduces them to zero dice immediately as they scamper for the rear. Their fates rest on the mercy of whoever wins the fight!
+	Lost Leader: If the team leader ever leaves the team for any reason (either by dropping out or by having his personal dice reduced to zero), every member of the team immediately takes one die of “damage” as if the team had disbanded (since, without a leader, they’ve done exactly that). They may immediately opt to reform as a new team (with a new leader) however, and if the old leader was removed by volunteering for personal damage, the new team leader gets the double-roll vengeance bonus to avenge his predecessor!
+
+CONFLICTS THAT AREN'T COMBAT
+	Many conflicts that arise in the game cannot be defined as ``combat;'' they're over too quickly, defined by a single action. A classic pistol-duel isn't combat - the two duelists simply turn and fire, and then it's all over. Two characters diving to grab the same gun from the floor isn't combat. Two cooks preparing chili for a cookoff isn't combat; there's no ``wearing down of the foe'' and no jockeying for position.
+	Such ``single-action conflicts'' are settled with a single roll against appropriate Clichés (or inappropriate Clichés, with good roleplaying). High roll wins.
+
+WHEN SOMEBODY CAN'T PARTICIPATE
+	It will often occur that characters will find themselves involved in a Combat or quicker conflict where they simply have no applicable Clichés, even by stretching the imagination. Or maybe ONE character will have an appropriate Cliché, while the others feel left out. An example might be a pie-eating contest. One character was wise (or foolish) enough to take ``Disgusting Glutton(2)'' as a Cliché. The other characters are astronauts or accountants, neither of which traditionally engorge themselves on pie.
+	In situations like this, give everybody two free dice to play with, for the duration of the conflict. This INCLUDES characters who already HAVE appropriate Clichés. In the example above, the astronauts and accountants would get Pie-Eating(2), while the Disgusting Glutton would be temporarily increased to Disgusting Glutton(4). The Glutton, naturally, still has the winning edge, but anyone can TRY to eat lots of pie. This ``temporary promotion'' applies only in opposed conflicts, not in challenges based on Target Numbers.
+
+A WORD OR TWO ABOUT SCALE
+	No standard time or distance scale is provided for Risus; it really depends on what kind of action is happening. However, the GM should try to stay consistent within a single conflict. In a physical fight, each round represents a few seconds. In a long-term fight between a married couple, each round might represent an entire Day (Day one: Husband ``accidentally'' burns wife's favorite dress in the oven, Wife ``accidentally'' feeds Drano to Husband's prize goldfish, and so on until there is a victor).
+
+CHARACTER ADVANCEMENT
+	At the end of each adventure, each player should roll against every Cliché that was used significantly during the game (using their current number of dice). If the dice land showing only even numbers, this indicates an increase by one die for that Cliché. Thus, advancement slows down as you go. No Cliché may go higher than Cliché(6), although if Pumping is allowed (see below), they can be pumped past (6).
+	Anytime you do something really, really, really spectacularly entertaining that wows the whole table, the GM may rule that you may roll instantly (in the middle of the game!) for possible improvement, in addition to the roll at the end of the adventure.
+	Adding New Clichés: There may come a time when a character has grown and matured enough to justify adding an entirely new Cliché to his character sheet. If the player and GM agree this is the case, and agree on what the new Cliché is, the player rolls for Character Advancement as usual, but any of the new dice earned may be put toward the new Cliché instead of the ones that earned them. This can also be applied to "in-game" improvements, if the situation warrants it!
+
+ADVANCED OPTION: HOOKS and TALES
+	Normally, a character is created using 10 dice. With this Advanced Option, players can bargain for extra beginning dice by giving their character a Hook and/or a Tale.
+	A Hook is some signifigant character flaw - an obsession, a weakness, a sworn vow, a permanently crippling injury - that the GM agrees is so juicy that he can use it to make the characters life more interesting (which usually means less pleasant). A character with a Hook gets an extra die to play with.
+	A Tale is a written "biography" of the character describing his life before the events of the game begin. The Tale needn't be long (two or three pages is usually just fine); it just needs to tell the reader where the character is coming from, what he likes and dislikes, how he became who he is, what his motives are. Some Tales are best written from the player's omniscient perspective; others are more fun if written as excerpts from the character's own diary. A character with a Tale provided before gameplay begins gets an extra die to play with.
+
+ADVANCED OPTION II: PUMPING CLICHÉS
+	In an emergency, any character may pump his Clichés. If the Ninja(3) comes face to face with a Monster(6), it might be necessary.
+	When a Cliché is pumped, it receives a temporary boost in dice. This boost lasts for a single round of combat, or a single significant roll otherwise. However, after that round or roll is resolved, the character loses a number of dice equal to the number he gave himself in the pump. This is treated like "injury" to the Clichés sustained in combat, and must "heal" in the same fashion.
+
+Example: Rudolph the Ninja has come face to face with a Monster, who attacks him. Rudy doesn't have much of a chance against such a powerful foe, so he opts for a tricky tactic: Since the Monster is attacking physically, Rudolph decides his first-round response will use his skills as as a Cajun Chef(3) - a decidedly Inappropriate choice! He also opts to pump it by two dice up to five . . . He's REALLY putting his all into his cooking for this fight.
+	So, the first round happens. The Monster rolls six dice, and the Ninja (quickly whipping up a tempting Gumbo spiked with Ninja sleeping drug and offering it to the monster) rolls five dice.
+	If the Ninja loses, then he is instantly defeated. His Cajun Chef Clichés drops by two to Cajun Chef(1) just for the pump, plus another die for losing the round. The Monster decides to eat Rudolph instead of the Gumbo.
+	If the Ninja WINS, however, the Monster(6) is dropped to Monster(3), and his Cajun Chef(3) drops to Cajun Chef(1). In Rudolph's responding attack, he'll will switch back to ordinary Ninja tactics - and be on equal footing with the sleepy Monster!
+	A risky maneuver, but worth it.
+
+	Pumped Clichés are legal in any situation except single-action conflicts.
+
+ADVANCED OPTION III: DOUBLE-PUMPS
+	If this option is used, characters may be created with double-pump Clichés. These Clichés, when pumped, give you TWO dice in the pumped roll for every die you'll lose at the end of it. Thus, a Sorcerer(5) could be a Sorcerer(11) for a single combat round, at a cost of three dice. This option is appropriate for any Clichés based on supernatural powers, such as wizards, telepaths, and humanoid-torch style superheroes. They're also appropriate for any other Clichés the GM approves them for.
+	Double-pump Clichés cost twice as many starting dice to buy. Thus, the following would be a legal starting character:
+
+	Sinsibilus the Sorcerer
+	Description: Thin, spindly and mysterious, with a tired
+		     cat on his shoulder. Likes to poke around
+		     where Man Ought Not, turn people in to toads
+		     and the like. Likes the woods.
+	Clichés: Sorcerer [3], Alchemist (2), Outdoorsman (2)
+
+	The hard [square brackets] indicate a double-pump Clichés. Since it costs double, Sinsibilus is effectively a 10-dice character.
+	If the GM considers any clichés to be too universally powerful, he may REQUIRE that it be purchased in this way, to insure some sort of balance. Overall, double-pump dice are less useful than ordinary dice at the beginning, but since they improve at the same rate as ordinary dice, they are a good "investment." Double-pump clichés must be purchased at character creation.
+
+ADVANCED OPTION IV: FUNKY DICE
+	Okay, this is the LAST advanced option.
+	With the Funky Dice option, we move beyond the standard six-sided cubical dice, and enter the world of the d8, d10, d12, d20 and (heavens preserve us) d30.
+	These dice allow Risus to represent, say, superheroes or demigods, without resorting to large numbers of dice. Under this system, characters are given points to create their characters with, and each type of die costs points. Specifically:
+
+d6: 6 points	d10: 10 points	d20: 20 points
+d8: 8 points	d12: 12 points	d30: 30 points
+
+	Normal characters are created with 60 points to spend. Superheroes and godlings may be created with more (200 is a good number), if the GM wants a high-powered game. Double-pump dice cost double, of course, and 4 dice is still the limit for beginning PCs . . . but they can be 4 big dice. Points not spent when characters are created are lost. Six-sided dice are the smallest permitted, and thirty-sided dice are the largest (and also loopy).
+	When using this option, a character with Cliché(6) may still roll to improve! If the roll is successful, he drops to (5) dice, but of the NEXT HIGHER TYPE. So, your Astronaut(6) becomes an Astronaut(5d8).
+	If the GM is allowing Hooks and Tales, either one will increase available starting points by 10 percent (so, normal Risus characters will get six extra points each for a Hook or Tale).
+	When characters with different kinds of dice form a Team in combat, the Team Leader is still the one with the highest-ranking Cliché: Swordsman(4) "ranks" higher than Swordsman(3d10), for example.
+	Those are the only rule-changes. Dice are still dice - if a Viking(3) wins a combat round against a Swashbuckler(3d10), the Swashbuckler loses a whole d10. Conversely, at the end of the game, the Swashbuckler has the same odds of adding a d10 to his Clichés as the Viking has of adding a d6 to his.
+	A sample superhero, built on 200 points (4 were left over, and lost):
+
+	Burning Rubber
+	Description: Disguised as Barry Parker, a mild-mannered
+		     NASCAR driver, Burning Rubber can run really
+		     really fast, burst into flame, and stretch his
+		     body into funky shapes.
+	Clichés: Speedster [2d10], On-Fire Guy [2d20], Stretching
+		 Guy (4d10), Stock-Car Driver(3), Football Fan(3)
+
+	An expanded Target Number list for superhumans, compared to feats of physical strength:
+
+	30: Throwing a motorcycle.
+	50: Throwing a tank.
+	70: Throwing a loaded train.
+	85: Throwing a pile of 15,000 loaded trains . . .
+	100: Kicking the Earth five feet out of orbit.
+	Note the nonlinearity! This ain't rocket science.
+
+
+Email: sjohn@io.com
+http://www.cumberlandgames.com
+Risus is S. John Ross' trademark for his Anything RPG.

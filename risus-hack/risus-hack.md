@@ -479,13 +479,10 @@ Comme nous l'avons vu, les Clichés peuvent être vus comme des classes de perso
 
 * Acrobate
 * Archer
-* Armurier
 * Assassin
 * Aventurier
 * Bandit
 * Barbare
-* Boucher
-* Boulanger
 * Canaille
 * Champion
 * Chasseur
@@ -493,7 +490,6 @@ Comme nous l'avons vu, les Clichés peuvent être vus comme des classes de perso
 * Combattant
 * Dresseur d'animaux
 * Forestier
-* Forgeron
 * Fou-furieux
 * Guerrier
 * Gladiateur
@@ -505,6 +501,21 @@ Comme nous l'avons vu, les Clichés peuvent être vus comme des classes de perso
 * Pirate
 * Soldat
 * Voleur
+
+#### Métiers
+
+* Armurier
+* Boucher
+* Boulanger
+* Brasseur
+* Cartographe
+* Charpentier
+* Cordonnier
+* Cuisinier
+* Fabricant d'arcs
+* Forgeron
+* Sculpteur
+
 
 #### Modificateurs de Clichés physiques
 
@@ -538,17 +549,14 @@ Comme nous l'avons vu, les Clichés peuvent être vus comme des classes de perso
 * Astrologue
 * Conjureur
 * Devin
+* Druide
 * Elémentaliste
-* Enchanteur
-* Ensorceleur
-* Envoûteur
+* Enchanteur / Ensorceleur / Envoûteur
 * Illusionniste
-* Mage
-* Magicien
-* Nécromancien
+* Mage / Magicien
+* Nécromancien / Nécromant
 * Philosophe
-* Sage
-* Savant
+* Sage / Savant
 * Sorcier
 * Thaumaturge
 
@@ -574,6 +582,7 @@ Modificateurs de Clichés mentaux :
 
 #### Clichés émotionnels
 
+* Acteur
 * Aristocrate
 * Artiste
 * Barde
@@ -581,9 +590,8 @@ Modificateurs de Clichés mentaux :
 * Danseur
 * Jongleur
 * Mendiant
-* Ménestrel
+* Ménestrel / Troubadour
 * Noble
-* Troubadour
 
 #### Modificateurs de Clichés émotionnels
 
