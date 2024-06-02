@@ -1,8 +1,12 @@
-![Risus](risus.png)
+![Risus](../images/risus-hack.png)
 
 # Risus Hack
 
-Bienvenue dans Risus Hack : Le jeu de rôle de tous les univers, un jeu de rôle sur table complet !
+Bienvenue dans *RisusHack* : Le jeu de rôle de tous les univers, un jeu de rôle sur table complet !
+
+## Pourquoi Risus Hack ?
+
+Parce que les duels dans *RisusHack* fonctionnent mal et qu'une petite modification au moteur de jeu permet de résoudre le problème. Si vous voulez en savoir plus, rendez-vous à la fin de cette page. Sinon, embarquement pour *RisusHack* !
 
 ## Création de personnage
 
@@ -447,4 +451,203 @@ La limite de progression des Clichés est Cliché (6).
 #### Nouveaux Clichés
 
 Si le joueur s'est particulièrement illustré dans des actions qui ne sont pas couvertes par ses Clichés, il peut, avec l'accord du MJ, créer un nouveau Cliché (1) suite à son gain d'expérience.
+
+## Annexe : parlons probabilités
+
+### 2 mécanismes simples au coeur de tous les JDR
+
+Les deux mécanismes simples au coeur de tous les JDR (si l'on exclue la magie et les autres pouvoirs) sont :
+
+* Le test de compétences,
+* Le combat ou duel.
+
+Pour ce qui est combat ou duel, les différents jeux utilisent l'un des mécanismes suivants :
+
+1. Chaque joueur fait son jet contre un FD dépendant de l'adversaire et des conditions ; le jeu ne propose que des attaques unilatérales (*D&D* par exemple) ;
+1. Les deux joueurs font un jet l'un contre l'autre en même temps, le meilleur score gagne ;
+1. Un joueur fait son jet d'attaque avec divers modificateurs, puis le défenseur fait son jet de défense avec divers modificateurs.
+
+Risus entre dans la deuxième catégorie.
+
+### Risus
+
+#### Test de compétences dans Risus
+
+Dans Risus, les dés du Cliché sont lancés et additionnés et comparés à un facteur de difficulté.
+
+| FD     | 1D     | 2D     | 3D     | 4D      | 5D      | 6D      |
+|--------|--------|--------|--------|---------|---------|---------|
+| 1      | 100    |        |        |         |         |         |
+| 2      | 83     | 100    |        |         |         |         |
+| 3      | 67     | 97     | 100    |         |         |         |
+| 4      | 50     | 92     | 100    | 100     |         |         |
+| **5**  | **33** | **83** | **98** | **100** | **100** |         |
+| 6      | 17     | 72     | 95     | 100     | 100     | 100     |
+| 7      |        | 58     | 91     | 99      | 100     | 100     |
+| 8      |        | 42     | 84     | 97      | 100     | 100     |
+| 9      |        | 28     | 74     | 95      | 99      | 100     |
+| **10** |        | **17** | **63** | **90**  | **98**  | **100** |
+| 11     |        | 8      | 50     | 84      | 97      | 100     |
+| 12     |        | 3      | 38     | 76      | 94      | 99      |
+| 13     |        |        | 26     | 66      | 90      | 98      |
+| 14     |        |        | 16     | 56      | 85      | 96      |
+| **15** |        |        | **9**  | **44**  | **78**  | **94**  |
+| 16     |        |        | 5      | 34      | 69      | 90      |
+| 17     |        |        | 2      | 24      | 60      | 86      |
+| 18     |        |        | 0      | 16      | 50      | 79      |
+| 19     |        |        |        | 10      | 40      | 72      |
+| **20** |        |        |        | **5**   | **31**  | **64**  |
+| 21     |        |        |        | 3       | 22      | 55      |
+| 22     |        |        |        | 1       | 15      | 45      |
+| 23     |        |        |        | 0       | 10      | 36      |
+| 24     |        |        |        | 0       | 6       | 28      |
+| **25** |        |        |        |         | **3**   | **21**  |
+| 26     |        |        |        |         | 2       | 14      |
+| 27     |        |        |        |         | 1       | 10      |
+| 28     |        |        |        |         | 0       | 6       |
+| 29     |        |        |        |         | 0       | 4       |
+| **30** |        |        |        |         | **0**   | **2**   |
+| 31     |        |        |        |         |         | 1       |
+| 32     |        |        |        |         |         | 0       |
+| 33     |        |        |        |         |         | 0       |
+| 34     |        |        |        |         |         | 0       |
+| 35     |        |        |        |         |         | 0       |
+| 36     |        |        |        |         |         | 0       |
+
+*Table A1 : probabilité en pourcentage de faire au moins le FD*
+
+Evidemment, les probabilités ne sont pas linéaires quand on lance plusieurs D6 et qu'on les additionne. Très vite, le joueur n'a aucune chance de réussite : 17% pour une difficulté 10 en ayant 2D en Cliché est assez frustrant, surtout quand votre camarade avec 3D a 63% de réussir la même tâche.
+
+#### Le duel dans Risus
+
+Risus est bâti sur la notion du duel. Le duel s'établit sur la base du lancé de dés et de l'addition des résultats.
+
+Or, on constate que lorsque les duellistes possèdent 1D d'écart, les changes de succès de celui qui a un dé de moins sont minimales. Les anglophones ont nommé ce mécanisme la spirale de la port (*death spiral*), car la perte d'un dé après un round, crée définitivement la défaite.
+
+La table 1 ci-dessous montre les probabilités en pourcentage : attaquant vainqueur / ex-aequo / défenseur vainqueur.
+
+| Att. / Déf. | 1D       | 2D       | 3D      | 4D      | 5D      | 6D      |
+|-------------|----------|----------|---------|---------|---------|---------|
+| 1D          | 42/17/42 | 9/7/84   | 1/2/97  | 0/0/100 | 0/0/100 | 0/0/100 |
+| 2D          | 84/7/9   | 44/11/44 | 15/7/78 | 4/2/94  | 1/1/99  | 0/0/100 |
+| 3D          | 97/2/1   | 78/7/15  | 45/9/45 | 19/7/74 | 6/3/91  | 1/1/98  |
+| 4D          | 100/0/0  | 94/2/4   | 74/7/19 | 46/8/46 | 22/6/62 | 8/3/88  |
+| 5D          | 100/0/0  | 99/1/1   | 91/3/6  | 62/6/22 | 46/7/46 | 24/6/70 |
+| 6D          | 100/0/0  | 100/0/0  | 98/1/1  | 88/3/8  | 70/6/24 | 47/7/47 |
+
+*Table A2 : probabilités de succès dans un duel Risus*
+
+On voit que le combat est très inégal, même avec un seul dé d'écart. Prenons un attaquant avec Cliché (4) contre un défenseur avec Cliché (3), l'attaquant a 3 chances sur 4 de gagner (74%) et le défenseur n'a qu'un chance sur 5 de gagner.
+
+Si l'on ramène cette probabilité à un monde *D&D*, les probabilités sont à peu près celles d'un attaquant lançant 1d20+6 contre un défenseur lançant 1d20 (74/4/23).
+
+Il en va de même pour 3D contre 2D (78/7/15), ce qui correspond à peu près à 1d20+8 contre 1d20 !
+
+Ce mécanisme a très vite ennuyé la communauté Risus qui a cherché à le résoudre par divers moyens.
+
+#### Hack au système de base : la gonflette
+
+Evidemment, il existe le contournement proposé avec les "pump" (ou gonflette dans la traduction de Tristan Lhomme). En gros, comme avoir un dé de moins que son adversaire est probablement condamné à l'échec, la stratégie est de gonfler son Cliché au premier round et de tenter le tout pour le tout.
+
+Exemple, Grolfnar Viking (4) et Wulf Viking (5) se battent au corps à corps. Les chances de Grolfnar sont 22% de gagner et 6% de faire ex-aequo, donc pas même une chance sur trois. S'il perd un round, il perdra un dé et donc se retrouvera avec Viking (3) contre Viking (5) et donc 6% de chances de gagner et 3% de faire ex-aequo. Sur le papier, Grolfnar a donc très probablement perdu.
+
+Sauf s'il tente une gonflette. Le principe est d'anticiper sur les rounds suivants en gonflant son Cliché pour le round actuel. Le but est d'avoir plus de dés que Wulf
+
+### Le pool de dés
+
+#### La solution Shadowrun : le "pool" de dés
+
+Shadowrun propose de considérer que les dés jetés doivent être regardés individuellement comme devant être égaux ou supérieur à un seuil. Ainsi, si un personnage a Cliché (3), son joueur lancera 3D et comptera le nombre de "succès", soit le nombre de dés supérieurs ou égaux au seuil. Si le joueur n'obtient aucun succès, il a échoué ; s'il obtient au moins un succès, il a réussi.
+
+Cette solution propose les probabilités montrées dans la table A3. Le FD (Facteur de Difficulté) n'est plus un seuil sur l'addition de la valeur de tous les dés, mais un seuil à égaler ou dépasser par dé.
+
+| FD    | 1D6     | 2D6     | 3D6     | 4D6     | 5D6     | 6D6     |
+|-------|---------|---------|---------|---------|---------|---------|
+| 2     | 83%     | 97%     | 99%     | 100%    | 100%    | 100%    |
+| 3     | 67%     | 89%     | 96%     | 99%     | 99%     | 100%    |
+| 4     | 50%     | 75%     | 88%     | 94%     | 97%     | 98%     |
+| **5** | **33%** | **56%** | **70%** | **80%** | **87%** | **91%** |
+| 6     | 17%     | 31%     | 42%     | 52%     | 60%     | 67%     |
+
+*Table A3 : Probabilités du pool de dés*
+
+Certains jeux préconisent un seuil de 4 (ce qui revient à une chance sur 2 sur un d6). Un seuil de 5 nous paraît un bon compromis.
+
+Notons que, quelque soit la difficulté de l'action, dans ce cas, un personnage avec un faible Cliché peut réussir.
+
+#### Compter le nombre de succès
+
+Il est possible dans cette mécanique de compter le nombre de succès. Cette mécanique a un effet pernicieux qui est du même genre que les probabilités montrées dans la table A1 : les joueurs qui lancent un faible nombre de dés ne peuvent pas du tout réussir, par construction.
+
+Par exemple, si le MJ demande deux réussites à un personnage, il exclut d'emblée tous les PJs ayant un Cliché (1). de plus un Cliché (2) aura seulement 11% de chances de réussite avec un FD de 5.
+
+Cette technique peut être adaptée à un pool d'une grande taille mais pas à Risus, jeu pour lequel les joueurs ont des Clichés ayant un valeur de (1) à (4) maximum.
+
+#### Pool de dés en duel
+
+La mécanique de pool de dés en duel Risus n'est pas simple à mettre en place. Si l'on compte les réussites, avoir un dé de plus que son adversaire est une condition de succès presque garantie. Si, on ne les compte pas, il faut départager les adversaires si tous deux ont réussi ou perdu.
+
+### Ye Good Olde System (YGOS)
+
+[YGOS](https://www.risusiverse.com/home/optional-rules/ye-good-olde-system) propose de tout simplement lancer 1D6 et d'ajouter la valeur du Cliché comme *bonus*.
+
+Ainsi, quand Grolfnar fait un truc de Viking (4), il lance 1D+4. Quand il poétise (Poète (1)), il lance 1D6+1.
+
+#### Test de compétences avec YGOS
+
+La table des FD devient alors la table A4.
+
+| FD  | Commentaire                                                 |
+|-----|-------------------------------------------------------------|
+| 1   | Automatique. Pas la peine de lancer les dés                 |
+| 2   | Vous avez marché sur cette fourmi ? Bravo                   |
+| 3   | Seul un vrai bleu peut rater                                |
+| 4   | Défi pour un nase, routine pour un pro                      |
+| 5   | Sans doute un peu difficile                                 |
+| 6   | Un défi pour un professionnel                               |
+| 7   | Ouah, ce saut était... impressionnant                       |
+| 8   | Un défi héroïque. Vraiment inventif ou cascades complexes   |
+| 9   | Je n'arrive pas à croire que vous y êtes arrivé. Stupéfiant |
+| 10  | Un défi pour un maître. Difficulté presque surhumaine       |
+| 11+ | Vous voulez rire. Difficulté vraiment surhumaine            |
+
+*Table A4: les FD selon YGOS*
+
+Qu'en est-il des vraies probabilités ? La table A5 les montre.
+
+| FD/Cliché | (1) D+1 | (2) D+2 | (3) D+3 | (4) D+4 | (5) D+5 | (6) D+6 |
+|-----------|---------|---------|---------|---------|---------|---------|
+| 1         | 100     | 100     | 100     | 100     | 100     | 100     |
+| 2         | 100     | 100     | 100     | 100     | 100     | 100     |
+| 3         | 83      | 100     | 100     | 100     | 100     | 100     |
+| 4         | 67      | 83      | 100     | 100     | 100     | 100     |
+| **5**     | **50**  | **67**  | **83**  | **100** | **100** | **100** |
+| 6         | 33      | 50      | 67      | 83      | 100     | 100     |
+| 7         | 17      | 33      | 50      | 67      | 83      | 100     |
+| 8         | -       | 17      | 33      | 50      | 67      | 83      |
+| 9         | -       | -       | 17      | 33      | 50      | 67      |
+| 10        | -       | -       | -       | 17      | 33      | 50      |
+| 11        | -       | -       | -       | -       | 17      | 33      |
+| 12        | -       | -       | -       | -       | -       | 17      |
+
+*Table A5 : probabilités de réussite de compétences dans YGOS*
+
+Nous voyons un peu le même défaut que dans les autres systèmes. La difficulté 8 est inaccessible aux Clichés (1).
+
+#### Duel avec YGOS
+
+La table A6 donne les statistiques pour le duel (même convention : victoire / ex-aequo / défaite).
+
+| Att. / Déf. | (1) D+1  | (2) D+2  | (3) D+3  | (4) D+4  | (5) D+5  | (6) D+6  |
+|-------------|----------|----------|----------|----------|----------|----------|
+| (1) D+1     | 42/17/42 | 28/14/58 | 17/11/72 | 8/8/83   | 3/6/92   | 0/3/97   |
+| (2) D+2     | 58/14/28 | 42/17/42 | 28/14/58 | 17/11/72 | 8/8/83   | 3/6/92   |
+| (3) D+3     | 72/11/17 | 58/14/28 | 42/17/42 | 28/14/58 | 17/11/72 | 8/8/83   |
+| (4) D+4     | 83/8/8   | 72/11/17 | 58/14/28 | 42/17/42 | 28/14/58 | 17/11/72 |
+| (5) D+5     | 92/6/3   | 83/8/8   | 72/11/17 | 58/14/28 | 42/17/42 | 28/14/58 |
+| (6) D+6     | 97/0/3   | 92/6/3   | 83/8/8   | 72/11/17 | 58/14/28 | 42/17/42 |
+
+*Table A6 : combat dans YGOS*
+
+Le problème est atténué par rapport au Risus original, mais les différences de 1D sont encore très 
 
