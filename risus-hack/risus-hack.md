@@ -1,4 +1,4 @@
-![Risus](../images/risus-hack.png)
+![Risus](risus-hack.png)
 
 # Risus Hack
 
