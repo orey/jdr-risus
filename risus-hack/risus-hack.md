@@ -551,7 +551,11 @@ Evidemment, il existe le contournement proposé avec les "pump" (ou gonflette da
 
 Exemple, Grolfnar Viking (4) et Wulf Viking (5) se battent au corps à corps. Les chances de Grolfnar sont 22% de gagner et 6% de faire ex-aequo, donc pas même une chance sur trois. S'il perd un round, il perdra un dé et donc se retrouvera avec Viking (3) contre Viking (5) et donc 6% de chances de gagner et 3% de faire ex-aequo. Sur le papier, Grolfnar a donc très probablement perdu.
 
-Sauf s'il tente une gonflette. Le principe est d'anticiper sur les rounds suivants en gonflant son Cliché pour le round actuel. Le but est d'avoir plus de dés que Wulf
+Sauf s'il tente une gonflette. Le principe est d'anticiper sur les rounds suivants en gonflant son Cliché pour le round actuel. Le but est d'avoir plus de dés que Wulf et donc Grolfnar est obligé de gonfler de 2D (à supposer qu'il estime que Wulf a un dé de plus que lui en Cliché).
+
+Il a donc au premier round Viking (6) contre Viking (5) soit 70% de chances de gagner et 6% de faire ex-aequo. Comme le perdant perd les dés engagés par celui qui fait la gonflette, si Grolfnar gagne, le round sera Viking (4-2=2) contre Viking (5-2-1=2) et nous revenons à un équilibre.
+
+En gros, la gonflette de Cliché est un hack au propre système de Risus pour réduire les différences de 1D entre les duellistes.
 
 ### Le pool de dés
 
@@ -617,7 +621,6 @@ Qu'en est-il des vraies probabilités ? La table A5 les montre.
 
 | FD/Cliché | (1) D+1 | (2) D+2 | (3) D+3 | (4) D+4 | (5) D+5 | (6) D+6 |
 |-----------|---------|---------|---------|---------|---------|---------|
-| 1         | 100     | 100     | 100     | 100     | 100     | 100     |
 | 2         | 100     | 100     | 100     | 100     | 100     | 100     |
 | 3         | 83      | 100     | 100     | 100     | 100     | 100     |
 | 4         | 67      | 83      | 100     | 100     | 100     | 100     |
@@ -636,7 +639,7 @@ Nous voyons un peu le même défaut que dans les autres systèmes. La difficult�
 
 #### Duel avec YGOS
 
-La table A6 donne les statistiques pour le duel (même convention : victoire / ex-aequo / défaite).
+La table A6 donne les probabilités pour le duel (même convention : victoire / ex-aequo / défaite).
 
 | Att. / Déf. | (1) D+1  | (2) D+2  | (3) D+3  | (4) D+4  | (5) D+5  | (6) D+6  |
 |-------------|----------|----------|----------|----------|----------|----------|
@@ -649,5 +652,51 @@ La table A6 donne les statistiques pour le duel (même convention : victoire / e
 
 *Table A6 : combat dans YGOS*
 
-Le problème est atténué par rapport au Risus original, mais les différences de 1D sont encore très 
+Le problème est atténué par rapport au Risus original, mais les différences de 1D sont encore très marquées. En effet, un bonus de +1 apporte un pas de 17%, ce qui correspondrait quasiment à un +4 dans une échelle d20.
 
+### Inspiration Fighting Fantasy
+
+Si l'on tente de corriger le YGOS, il est possible de lancer 2d6 au lieu de lancer 1D, cela pour diminuer un peu l'impact du bonus dû au Cliché.
+
+#### Jet de compétences
+
+
+| FD/Cliché | (1) 2D+1 | (2) 2D+2 | (3) 2D+3 | (4) 2D+4 | (5) 2D+5 | (6) 2D+6 |
+|-----------|----------|----------|----------|----------|----------|----------|
+| 3         |          |          |          |          |          |          |
+| 4         |          |          |          |          |          |          |
+| **5**     | **50**   | **67**   | **83**   | **100**  | **100**  | **100**  |
+| 6         |          |          |          |          |          |          |
+| 7         |          |          |          |          |          |          |
+| 8         |          |          |          |          |          |          |
+| 9         |          |          |          |          |          |          |
+| 10        |          |          |          |          |          |          |
+| 11        |          |          |          |          |          |          |
+| 12        |          |          |          |          |          |          |
+| 13        |          |          |          |          |          |          |
+| 14        |          |          |          |          |          |          |
+| 15        |          |          |          |          |          |          |
+| 16        |          |          |          |          |          |          |
+| 17        |          |          |          |          |          |          |
+| 18        |          |          |          |          |          |          |
+
+*Table A7 : probabilités de réussite de compétences inspiré par Fighting Fantasy et YGOS*
+
+
+#### Duel
+
+La table A8 propose une vue des probabilités pour un Cliché bonus (comme dans YGOS) mais tempéré par un jet de 2d6 (courbe en cloche).
+
+| Att. / Déf. | (1) 2D+1 | (2) 2D+2 | (3) 2D+3 | (4) 2D+4 | (5) 2D+5 | (6) 2D+6 |
+|-------------|----------|----------|----------|----------|----------|----------|
+| (1) 2D+1    | 44/11/44 | 34/11/56 | 24/10/66 | 16/8/76  | 10/6/84  | 5/4/90   |
+| (2) 2D+2    | 56/11/34 | 44/11/44 | 34/11/56 | 24/10/66 | 16/8/76  | 10/6/84  |
+| (3) 2D+3    | 66/10/24 | 56/11/34 | 44/11/44 | 34/11/56 | 24/10/66 | 16/8/76  |
+| (4) 2D+4    | 76/8/16  | 66/10/24 | 56/11/34 | 44/11/44 | 34/11/56 | 24/10/66 |
+| (5) 2D+5    | 84/6/10  | 76/8/16  | 66/10/24 | 56/11/34 | 44/11/44 | 34/11/56 |
+| (6) 2D+6    | 90/4/5   | 84/6/10  | 76/8/16  | 66/10/24 | 56/11/34 | 44/11/44 |
+
+*Table A8 : combat inspiré par Fighting Fantasy et YGOS*
+
+
+    
