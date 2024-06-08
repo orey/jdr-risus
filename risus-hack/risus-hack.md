@@ -2,45 +2,45 @@
 
 # Risus Hack
 
-Bienvenue dans *RisusHack* : Le jeu de rôle de tous les univers, un jeu de rôle sur table complet !
+Bienvenue dans *Risus Hack* : Le jeu de rôle de tous les univers, un jeu de rôle sur table complet !
 
 ## Pourquoi Risus Hack ?
 
-Parce que les duels dans *RisusHack* fonctionnent mal et qu'une petite modification au moteur de jeu permet de résoudre le problème. Si vous voulez en savoir plus, rendez-vous à la fin de cette page. Sinon, embarquement pour *RisusHack* !
+Parce que les duels dans *Risus Hack* fonctionnent mal et qu'une petite modification au moteur de jeu permet de résoudre le problème. Si vous voulez en savoir plus, rendez-vous à la fin de cette page. Sinon, embarquement pour *Risus Hack* !
 
 ## Création de personnage
 
 ### Le Cliché
 
-La notion de "Cliché" est au cœur de Risus Hack. Un Cliché résume un type de personne, englobant ses compétences, son histoire, son rôle social et ainsi de suite.
+La notion de "Cliché" est au cœur de *Risus Hack*. Un Cliché résume un type de personne, englobant ses compétences, son histoire, son rôle social et ainsi de suite.
 
 Les classes de personnages des jeux de rôle les plus anciens peuvent être considérées comme des Clichés, par exemple Guerrier, Magicien, Pilote Stellaire ou Super-Espion.
 
-Mais vous pouvez aussi choisir quelque chose de plus excentrique, comme Cuisinier Pirate Fantôme, Marraine Fée, Bruce Lee (ou un personnage faisant des trucs à la Bruce Lee), voire Monstre Géant Qui Veut Juste Être Aimé Pour Ses Macramés. Avec un Meneur de jeu très permissif, vous pouvez être tout ça à la fois.
+Mais vous pouvez aussi choisir quelque chose de plus excentrique, comme Cuisinier Pirate Fantôme, Marraine Fée, Bruce Lee (ou un personnage "faisant des trucs à la Bruce Lee"), voire Monstre Géant Qui Veut Juste Être Aimé Pour Ses Macramés. Avec un Meneur de jeu très permissif, vous pouvez être tout ça à la fois.
 
-Chaque Cliché est associé à un chiffre représentant un nombre de dés à six faces. A chaque fois que votre capacité à être un Magicien, un Pilote Stellaire ou Bruce Lee, est mise en doute, vous lancez un nombre de dés égal à ce chiffre.
+Chaque Cliché est associé à un chiffre représentant un bonus que l'on nomme "Force" de Cliché. A chaque fois que votre capacité à être un Magicien, un Pilote Stellaire ou Bruce Lee, est mise en doute, vous lancez deux dés à 6 faces (noté 2D) et vous ajoutez la Force de votre Cliché comme bonus.
 
 On considère généralement les niveaux suivants :
 
-| Nombre de dés | Niveau        |
-|---------------|---------------|
-| 1D            | Débutant      |
-| 2D            | Dilettante    |
-| 3D            | Professionnel |
-| 4D            | Expert        |
-| 5D+           | Maître        |
+| Force du Cliché | Niveau        |
+|-----------------|---------------|
+| 1               | Débutant      |
+| 2               | Dilettante    |
+| 3               | Professionnel |
+| 4               | Expert        |
+| 5+              | Maître        |
 
-*Table 1 : Niveau de personnage en fonction du nombre de dés*
+*Table 1 : Niveau du personnage dans son Cliché en fonction de la Force du Cliché*
 
 ### Procédure de création du personnage
 
-Le joueur possède 10 dés de Création de Personnage à dépenser en Clichés pour créer son personnage, avec un maximum de 4 dés sur un seul Cliché.
+Le joueur possède 10 points de Force à dépenser en Clichés pour créer son personnage, avec un maximum de 4 points sur un seul Cliché.
 
 Le joueur peut les dépenser comme il le souhaite, sur autant de Clichés qu'il le souhaite (10 étant le maximum).
 
 Le premier Cliché de la liste est le Cliché principal, celui qui exprime le plus clairement la manière dont le personnage se perçoit.
 
-A la fin de la création du personnage, ce dernier reçoit 3 point de Destin (voir plus loin sur comment utiliser les points de destin).
+A la fin de la création du personnage, ce dernier reçoit de 1 à 3 points de Destin (voir plus loin sur comment utiliser les points de destin).
 
 ### Exemple de personnage
 
@@ -52,7 +52,7 @@ Un personnage de Risus Hack complet ressemble à ceci :
 
 **Clichés** : Viking (4), Joueur (3), Dragueur (2),  Poète (1).
 
-Pour créer Grolfnar, il nous a suffi de lui donner un nom, de le décrire et de choisir ses Clichés.
+Pour créer Grolfnar, il nous a suffi de lui donner un nom, de le décrire et de choisir ses Clichés et de leur associer les points de Force de telle sorte que leur somme fasse 10.
 
 ### Options de création
 
@@ -60,13 +60,13 @@ Pour créer Grolfnar, il nous a suffi de lui donner un nom, de le décrire et de
 
 Le MJ peut permettre au personnage d'avoir un désavantage. ce dernier doit être gênant et pouvoir être utilisé par le MJ dans le jeu, par exemple une malédiction, une obsession, une faiblesse, un voeu, une blessure permanente et handicapante, etc.
 
-Le désavantage rapporte 1D de Création de Personnage.
+Le désavantage rapporte 1 point de Force supplémentaire au joueur pour placer dans un des Clichés de son personnage.
 
-#### Conte
+#### Background
 
-Un Conte est une biographie écrite du personnage décrivant sa vie avant les événements du jeu. Le Conte n'a pas besoin d'être long (une ou deux pages est déjà beaucoup). Il s'agit simplement d'indiquer au lecteur d'où le personnage vient, ce qu'il aime et ce qu'il n'aime pas, comment il est devenu ce qu'il est et quels sont ses motifs.
+Un Background est une biographie écrite du personnage décrivant sa vie avant les événements du jeu. Le Background n'a pas besoin d'être long (une ou deux pages est déjà beaucoup). Il s'agit simplement d'indiquer au lecteur d'où le personnage vient, ce qu'il aime et ce qu'il n'aime pas, comment il est devenu ce qu'il est et quels sont ses motifs.
 
-Un personnage ayant un Conte écrit avant le jeu démarre avec 1D de plus de Création de Personnage.
+Un personnage ayant un Background écrit avant le jeu démarre avec 1 point de Force supplémentaire disponible pour la création du Personnage.
 
 ## Capacités et équipements
 
@@ -87,9 +87,9 @@ En cas d'argumentaire particulièrement convaincant, drôle ou contribuant à l'
 
 Le MJ peut aussi utiliser la table optionnelle ci-dessous.
 
-| Adapté           | Partiellement adapté | Peu adapté    | Inadapté |
-|------------------|----------------------|---------------|----------|
-| Valeur du cliché | -1D ou 3D max        | -2D ou 2D max | 1D max   |
+| **Niveau de Cliché** | Adapté          | Partiellement adapté | Peu adapté                  | Inadapté                    |
+|----------------------|-----------------|----------------------|-----------------------------|-----------------------------|
+| **Bonus applicable** | Force du Cliché | Force du Cliché -1   | Force du Cliché -2 (min. 0) | Force du Cliché -3 (min. 0) |
 
 *Table 2 : Malus à appliquer en cas de Cliché inadapté (option)*
 
@@ -99,16 +99,16 @@ Le Cliché sous-entend un certain équipement, disponible pour le personnage au 
 
 Il est requis de noter sur la feuille de personnage le ou les objets les plus importants du Cliché. Cela ne comprend pas les vêtements et potentiellement les autres objets courants (à la volonté du MJ).
 
-| Cliché | Nombre d'objets maximum | 
-|--------|-------------------------|
-| 1D     | 1                       |
-| 2D     | 2                       |
-| 3D     | 3                       |
-| nD     | n                       |
+| Force du Cliché | Nombre d'objets maximum |
+|-----------------|-------------------------|
+| 1               | 1                       |
+| 2               | 2                       |
+| 3               | 3                       |
+| n               | n                       |
 
 *Table 3 : Nombre d'objets par Cliché*
 
-Si ces objets étaient perdus, volés ou devenus inutilisables, et que l'objet est requis dans la scène, le jet de Cliché subira un malus compris entre -1D et la moitié de la valeur du Cliché.
+Si ces objets étaient perdus, volés ou devenus inutilisables, et que l'objet est requis dans la scène, le jet de Cliché subira un malus compris entre -1 et la moitié de la Force du Cliché.
 
 #### Equipement de Grolfnar
 
@@ -117,7 +117,7 @@ Si ces objets étaient perdus, volés ou devenus inutilisables, et que l'objet e
 | Viking (4)   | Un casque de viking, une épée longue, un bouclier, une statue de Thor |
 | Joueur (3)   | Un jeu de cartes, trois dés à six faces                               |
 | Dragueur (2) | -                                                                     |
-| Poète (1)    | Nécessaire à écrire (petit carnet, plume, encrier)                    |
+| Poète (1)    | Nécessaire à écrire (petit carnet, plume, encrier rudimentaire)       |
 
 *Table 4: Equipement de Grolfnar (exemple)*
 
@@ -127,13 +127,13 @@ Si Grolfnar perd son épée, il deviendra Viking (2). S'il perd sa statue de Tho
 
 Au cours de leur vie aventureuse, des explorateurs chanceux peuvent découvrir du matériel enchanté, ou à la pointe de la technologie, ou tout simplement spécial.
 
-Dans sa variante la plus simple, il s’agit d'équipement fournissant un ou plusieurs dé de bonus lorsque vous vous en servez.
+Dans sa variante la plus simple, il s’agit d'équipement fournissant un ou plusieurs points de Force lorsque vous vous en servez.
 
 Il peut aussi s'agir d’autres variétés de matériel spécial :
 
 * Certaines modifient les mécanismes de jeu : "grâce à ce programme de pilotage expérimental, vous pouvez relancer tous les 1" ;
 * D'autres donnent des pouvoirs durant le jeu : "seul le son d’un Stradivarius peut séduire un Prince Vampire" ;
-* D'autres enfin octroient à la fois des avantages et des restrictions : "Lorsque vous combattez avec l’Épée de Miséricorde, vous jetez toujours au moins autant de dés que votre adversaire, mais vous devez l’épargner si vous gagnez le combat".
+* D'autres enfin octroient à la fois des avantages et des restrictions : "Lorsque vous combattez avec l’Épée de Miséricorde, vous aurez toujours un bonus équivalent à celui de votre adversaire, mais vous devez l’épargner si vous gagnez le combat".
 
 ## Système de jeu
 
@@ -141,90 +141,54 @@ Il peut aussi s'agir d’autres variétés de matériel spécial :
 
 #### Principe
 
-Lorsque quelqu’un essaye de faire quelque chose, que personne ne tente activement de l’en empêcher et que le meneur de jeu pense que le succès ne sera pas automatique, le joueur doit faire un "jet de Cliché".
+Lorsque quelqu’un essaye de faire quelque chose, que personne ne tente activement de l’en empêcher et que le meneur de jeu pense que le succès ne sera pas automatique, le joueur doit faire un "jet de Cliché" : 2D + Force du Cliché.
 
 La procédure est la suivante :
 
-* Le MJ détermine un facteur de difficulté FD compris entre 3 et 6 (5 étant le FD normal) ;
-* Le joueur lance des dés et compte le nombre de dés supérieurs ou égaux au FD.
+* Le MJ détermine un Facteur de Difficulté (FD) compris entre 3 et 15 (7 étant le FD normal) ;
+* Le joueur fait un jet de Cliché :
+    * Si le jet est supérieur ou égal au FD, c'est réussi ;
+    * Si le jet est inférieur au FD, c'est raté.
 
 La table ci-dessous montre les probabilités d'avoir une réussite selon le FD.
 
-| FD    | 1D6     | 2D6     | 3D6     | 4D6     | 5D6     | 6D6     |
-|-------|---------|---------|---------|---------|---------|---------|
-| 2     | 83%     | 97%     | 99%     | 100%    | 100%    | 100%    |
-| 3     | 67%     | 89%     | 96%     | 99%     | 99%     | 100%    |
-| 4     | 50%     | 75%     | 88%     | 94%     | 97%     | 98%     |
-| **5** | **33%** | **56%** | **70%** | **80%** | **87%** | **91%** |
-| 6     | 17%     | 31%     | 42%     | 52%     | 60%     | 67%     |
+| FD/Cliché | (1) 2D+1 | (2) 2D+2 | (3) 2D+3 | (4) 2D+4 | (5) 2D+5 | (6) 2D+6 |
+|-----------|----------|----------|----------|----------|----------|----------|
+| 3         | 100      | 100      | 100      | 100      | 100      | 100      |
+| 4         | 97       | 100      | 100      | 100      | 100      | 100      |
+| 5         | 92       | 97       | 83       | 100      | 100      | 100      |
+| **6**     | **83**   | **92**   | **97**   | **100**  | **100**  | **100**  |
+| 7         | 72       | 83       | 92       | 97       | 100      | 100      |
+| **8**     | **58**   | **72**   | **83**   | **92**   | **97**   | **100**  |
+| 9         | 42       | 58       | 72       | 83       | 92       | 97       |
+| **10**    | **28**   | **42**   | **58**   | **72**   | **83**   | **92**   |
+| 11        | 17       | 28       | 42       | 58       | 72       | 83       |
+| **12**    | **8**    | **17**   | **28**   | **42**   | **58**   | **72**   |
+| 13        | 3        | 8        | 17       | 28       | 42       | 58       |
+| 14        | -        | 3        | 8        | 17       | 28       | 42       |
+| 15        | -        | -        | 3        | 8        | 17       | 28       |
+| 16        | -        | -        | -        | 3        | 8        | 17       |
+| 17        | -        | -        | -        | -        | 3        | 8        |
+| 18        | -        | -        | -        | -        | -        | 3        |
 
-*Table 5: Probabilités du pool de dés*
+*Table 5: Probabilités de réussite du jet de Cliché en fonction du FD*
 
-Les difficultés suivantes doivent être utilisées dans le jeu :
+Les difficultés à utiliser dépendent du MJ. Il est habituel d'utiliser les FD suivants :
 
-* 3 : très facile ;
-* 4 : facile (une chance sur deux pour les Clichés à 1D6),
-* **5 : moyenne**, valable pour la plupart des jets (une chance sur trois pour les Clichés de 1D6),
-* 6 : difficile.
+* 6 : très facile ;
+* 8 : facile (un peu plus d'une chance sur deux pour les Clichés de Force 1),
+* **10 : moyenne**, valable pour la plupart des jets (une chance sur quatre pour les Clichés de Force 1),
+* 12+ : difficile.
 
-#### Marge de réussite
+#### Réussites et échecs critiques
 
-Suivant les actions entreprises, le MJ peut agir en fonction de la marge de réussite (MR) qui est le nombre de dés qui dépassent le FD.
-
-| MR | Niveau de réussite | Option sur la marge de réussite             |
-|----|--------------------|---------------------------------------------|
-| 1  | Normal             | Réussi mais ajout d'une petite contrariété  |
-| 2  | Bon                | -                                           |
-| 3+ | Très bon           | Réussi et ajout de quelque chose de positif |
-
-*Table 6: Marges de réussite*
-
-Il est possible d'utiliser l'option sur la MR et donc de rajouter un "mais" en cas de réussite normale et un "et" en cas de très bonne réussite.
+Si les 2D lancés par le joueur sont un double 1 ou un double 6, le PJ subit un échec critique ou réussit de manière critique. En cas de réussite critique, le MJ veillera à ce que le PJ soit récompensé au delà de ses intentions, et puni au delà de ses craintes dans le cas d'un échec critique.
 
 #### Exemple
 
 Grolfnar participe à un festin Viking et, comme les autres Vikings présents, il boit beaucoup.
 
-Echauffé par l'alcool, il désire aller provoquer son ennemi Wulf assis non loin, mais le MJ dit que cette action nécessite un jet de Viking (4) car ce dernier n'est pas certain de tenir debout. Le joueur jouant Grolfnar joue et obtient 6, 5, 2 et 1, soit un jet réussi avec une MR de 2. Il parvient à se lever et à se diriger vers Wulf sans encombre.
-
-#### Utilisation des points de Destin
-
-A tout moment, un joueur peut utiliser un point de Destin pour un jet de Cliché. Pour une action ou un round, son Cliché voit sa valeur doublée et le joueur lancera deux fois les dés de son Cliché pour cette action ou ce round.
-
-#### Option : Baisser ou augmenter le FD moyen
-
-Certains jeux héroïques nécessitent que les PJ réussissent souvent les actions qu'ils entreprennent. Dans ce cas, il est possible de prendre 4 comme difficulté moyenne.
-
-Dans d'autres cas, des jeux par exemple où l'échec est plus présent, le FD moyen peut être élevé à 6.
-
-N'hésitez pas à consulter la Table 6 pour vous assurer des probabilités impliquées par un tel choix.
-
-### Options
-
-Les options suivantes sont disponibles au MJ s'il souhaite les utiliser.
-
-#### La règle du 6
-
-Il est possible pour le MJ de considérer les variantes suivantes concernant un dé dont la valeur serait 6 :
-
-* Le 6 est dé **explosif**, il compte pour une réussite et doit être relancé, ce qui peut donner lieu à une autre réussite. Dans le cas d'un nouveau 6, on compte une nouvelle réussite et on relance, et ainsi de suite, jusqu'à ce que la valeur du dé tiré ne soit plus un 6.
-* Le 6 **compte double** : au lieu de compter pour une réussite, il compte pour deux.
-
-#### Coups critiques
-
-Même si un jet de 1 est toujours un échec et un jet de 6 est toujours une réussite, il est possible de déterminer des réussites et échecs critiques en utilisant la table suivante.
-
-| Cliché | Réussite critique | Echec critique |
-|--------|-------------------|----------------|
-| 1D/2D  | -                 | -              |
-| 3D     | Deux 6            | Deux 1         |
-| 4D     | Trois 6           | Trois 1        |
-| 5D     | Quatre 6          | Quatre 1       |
-| nD     | n-1 6             | n-1 1          |
-
-*Table 7: Coups critiques (option)*
-
-Un échec critique classique est la rupture de l'arme du PJ ou le fait de se blesser lui-même durant une action
+Echauffé par l'alcool, il désire aller provoquer son ennemi Wulf assis non loin, mais le MJ dit que cette action nécessite un jet de Viking (4) au FD=12 car ce dernier n'est pas certain de tenir debout. Le joueur jouant Grolfnar lance 2D et obtient 6 et 2, pour un jet de Cliché à 6+2+4=12. C'est réussi de justesse. Grolfnar parvient à se lever et à se diriger vers Wulf sans encombre.
 
 ## Combat
 
@@ -248,47 +212,59 @@ Dans Risus Hack, le "combat" est défini comme toute occasion où des adversaire
 
 Le MJ décide que le combat commence. A partir de ce moment, il prend les joueurs un par un autour de la table et leur demande de faire une attaque. Ce qui constitue une attaque dépend de la nature du combat. Si des dialogues sont requis dans cette phase, le moment devrait toujours être un moment de roleplay. Si l'attaque est physique et/ou dangereuse, la scène devrait être décrite d'une manière détaillée et amusante.
 
-Le MJ détermine quel type de Cliché est approprié pour le combat.
+Le MJ détermine quel type de Cliché est adapté pour le combat.
 
-Par exemple, dans un combat à mains nues, des Clichés comme Viking, Soldat, Bretteur, ou Ernest Hemingway sont appropriés, tandis que des Clichés comme Coiffeur ou Latin Lover ne le sont pas.
+Par exemple, dans un combat à mains nues, des Clichés comme Viking, Soldat, Bretteur, ou Ernest Hemingway sont adaptés, tandis que des Clichés comme Coiffeur ou Latin Lover ne le sont pas.
+
+Pour les Clichés inadaptés, le MJ peut utiliser la table 2.
 
 #### Round de combat
 
 Un combat est divisé en rounds de durée variable. Le MJ décrit la scène.
 
-Les attaques doivent viser un adversaire : les deux parties impliquées font chacune leur jet de Cliché. Plusieurs cas se présentent :
+Les attaques doivent viser un adversaire : les deux parties impliquées font chacune leur jet de Cliché :
 
-* Si les deux adversaires réussissent tous deux leur jet de Cliché, personne ne gagne le round ;
-* Si l'un des deux adversaires rate son jet de Cliché et l'autre le réussit, le perdant *perd 1D du Cliché qui a servi pendant le round* ;
-* Si les deux adversaires ratent leur jet de Cliché, personne ne gagne le round ;
-  * Option : chacun d'entre eux doit lancer 1D6 pour voir s'ils ne commettent pas une maladresse (1 sur 1D6) : la conséquence de la maladresse est laissée au MJ.
+* Le plus haut score gagne le round ;
+* Le perdant perd un point de Force sur son Cliché ; on dit que le PJ subit un dommage de 1 point de Force sur son Cliché.
 
-Les deux adversaires ne sont pas obligés d'utiliser toujours le même Cliché. Ils peuvent en changer. Mais le combat s'arrête si l'un des Clichés utilisé tombe à 0D.
+Le round suivant peut commencer.
+
+Quand la Force du Cliché d'un combattant tombe à 0, le combattant a perdu le combat.
 
 #### Sort du perdant
 
 Le perdant est à la merci du bon vouloir du vainqueur qui doit décider de son sort :
-* Dans le cadre d'un combat physique ou magique, il est possible que le vaincu soit tué (ou épargné par la clémence du vainqueur) ;
+* Dans le cadre d'un combat physique ou magique, il est possible que le vaincu soit tué, ou épargné par la clémence du vainqueur ;
 * Dans le cadre d'un procès, le vaincu a perdu et est soit condamné, soit l'accusé est innocenté ;
 * Dans le cadre d'une séduction, le vainqueur est soit couronné de succès, soit il éconduit la personne qui tente de le séduire.
 
+#### Réussite et échec critique
+
+Si le joueur fait un double 1 ou un double 6, son PJ respectivement subit un échec critique ou réussit de manière critique.
+
+En combat, un échec critique est, soit un dommage supplémentaire de -1 à la Force du Cliché utilisé, soit une arme qui casse (causant un malus allant de -1 à la moitié du Cliché). La décision est dans les mains du MJ.
+
+Les conséquences de la réussite critique sont à ,la décision du joueur :
+
+* Il peut assommer son adversaire dans le combat,
+* Casser son arme ou le désarmer,
+* Lui infliger un point de dommages supplémentaire.
+
 #### Exemple
 
-Grolfnar Viking (4) et Wulf Viking (5) se battent au corps à corps
+Grolfnar, Viking (4), et Wulf, Viking (5), se battent au corps à corps.
 
-| Round | Grolfnar / Succès  | Wulf /Succès       | Résultat Grolfnar | Résultat Wulf  | Commentaire                  |
-|-------|--------------------|--------------------|-------------------|----------------|------------------------------|
-| 1     | 4, 4, 3, 2 - **0** | 6, 5, 5, 4, 1 - 3  | Viking (4-1=3)    | Viking (5)     | Grolfnar a perdu le round    |
-| 2     | 6, 4, 1 - 1        | 6, 4, 4, 3, 3 - 1  | Viking (3)        | Viking (5)     | Ex-aequo                     |
-| 3     | 6, 5, 4 - 2        | 4, 3, 2, 2, 2 - 1  | Viking (3)        | Viking (5-1=4) | Grolfnar a gagné le round    |
-| 4     | 6, 5, 5 - 3        | 4, 4, 4, 2 - **0** | Viking (3)        | Viking (4-1=3) | Grolfnar a gagné le round    |
-| 5     | 6, 6, 5 - 3        | 3, 2, 1 - **0**    | Viking (3)        | Viking (3-1=2) | Grolfnar a gagné le round    |
-| 6     | 4, 4, 1 - **0**    | 6, 1 - 1           | Viking (3-1=2)    | Viking (2)     | Grolfnar a perdu le round    |
-| 7     | 5, 4 - 1           | 3, 2 - **0**       | Viking (2)        | Viking (2-1=1) | Grolfnar a gagné le round    |
-| 8     | 4, 3 - **0** (3)   | 3 - **0** (4)      | Viking (2)        | Viking (1)     | Ex-aequo (pas de maladresse) |
-| 9     | 6, 4 - 1           | 2 - **0**          | Viking (2)        | Viking (1-1=0) | Grolfnar a gagné le combat   |
+| Round | Grolfnar / Succès | Wulf /Succès         | Résultat Grolfnar | Résultat Wulf  | Commentaire                |
+|-------|-------------------|----------------------|-------------------|----------------|----------------------------|
+| 1     | 6 + 2 + C(4) = 12 | 5 + 5 + C(5) = 15    | Viking (4-1=3)    | Viking (5)     | Grolfnar a perdu le round  |
+| 2     | 4 + 1 + C(3) = 8  | 2 + 1 + C(5) = 8     | Viking (3)        | Viking (5)     | Ex-aequo                   |
+| 3     | 5 + 3 + C(3) = 11 | 4 + 1 + C(5) = 10    | Viking (3)        | Viking (5-1=4) | Grolfnar a gagné le round  |
+| 4     | 4 + 3 + C(3) = 10 | 3 + 1 + C(4) = 8     | Viking (3)        | Viking (4-1=3) | Grolfnar a gagné le round  |
+| 5     | 6 + 1 + C(3) = 10 | 4 + 2 + C(3) = 9     | Viking (3)        | Viking (3-1=2) | Grolfnar a gagné le round  |
+| 6     | 4 + 1 + C(3) = 8  | 4 + 3 + C(2) = 9     | Viking (3-1=2)    | Viking (2)     | Grolfnar a perdu le round  |
+| 7     | 3 + 1 + C(2) = 6  | 1 + 1 échec critique | Viking (2)        | Viking (2-2=0) | Grolfnar a gagné le combat |
 
-Grolfnar doit maintenant décider du sort de Wulf.
+Le MJ décide que Grolfnar est en train d'étrangler Wulf et que ce dernier ne peut se libérer de l'étreinte de son ennemi. Le PJ doit maintenant décider du sort de Wulf.
 
 #### Regagner les dés perdus
 
@@ -314,25 +290,19 @@ Les Clichés inadaptés ne sont pas interdits dans les Combats. Ils peuvent touj
 
 Le Combat est une mécanique à plusieurs rounds basé sur l'usure des combattants. Pour autant, certains conflits sont trop rapides pour être joués de la sorte (deux personnages tentant d'attraper le même pistolet par exemple).
 
-Ces Conflits à Action Unique sont résolus via un seul jet avec le Cliché adapté (ou inadapté avec le bon roleplay ou avec les malus proposés Table 2).
-
-#### Méthode de la Difficulté Variable
-
-Le MJ utilise la méthode de la **Difficulté Variable** :
-
-* Il commence par compter les Succès de chaque protagoniste sur un FD 5 (normale). Si l'un des deux a plus de Succès que l'autre, il gagne le Conflit.
-* Si aucun des protagonistes n'a obtenu de Succès ou si le nombre de Succès est identique, les dés de Succès sont exclus et le MJ regarde le nombre de succès obtenus sur un FD 4 avec les dés restant. Celui qui a obtenu le plus grand nombre de Succès l'emporte.
-* Et ainsi de suite.
-* Dans le cas où le nombre de succès serait identique sur toutes les difficultés, les joueurs lancent 1D6 et le plus haut score gagne (rejouer jusqu'à ce que l'un d'entre eux gagne).
+Ces Conflits à Action Unique sont résolus via un seul jet avec le Cliché adapté (ou inadapté avec le bon roleplay ou avec les malus proposés Table 2). Le plus haut score gagne. En cas d'égalité, le MJ fait refaire un jet de Cliché aux joueurs. Si l'égalité perdure, faites lancer 1D à chaque joueur et celui qui a le plus haut chiffre gagne.
 
 #### Exemple
 
-Grolfnar et Wulf veulent tous deux attraper le dernier poulet cuit sur la table du festin. Wulf est un Viking (5) et Grolfnar un Viking (4). Ils jettent respectivement leurs dés : 
+Grolfnar, Viking (4), et Wulf, Viking (5), veulent tous deux attraper le dernier poulet cuit sur la table du festin. Ils jettent respectivement leurs dés : 
 
-* Grolfnar obtient 6, 4, 2 et 2,
-* Wulf obtient 6, 3, 3, 2, 1.
+* Grolfnar obtient 5 et 4 comptabilisant 5 + 4 + C(4) = 13,
+* Wulf obtient 4 et 1 comptabilisant 4 + 1 + C(5) = 10.
 
-Au FD 5, les deux Vikings ont un Succès chacun. Si l'on enlève les dés ayant la valeur 6, Grolfnar a un Succès au FD 4 pour 0 Succès pour Wulf. Grolfnar attrape le poulet avant Wulf.
+ Grolfnar attrape le poulet avant Wulf.
+
+---- reprendre ici
+
 
 ### Option : Effort
 
@@ -374,6 +344,14 @@ Si le MJ permet les Efforts, il peut permettre les Clichés permettant les Doubl
 Ainsi, un Sorcier [5] pourrait lancer 11D pendant un round de Combat (6D de bonus !) mais prendre encaisser 3D de dommages pour le Double Effort.
 
 Les Clichés Double Effort coûtent le double des Cliché normaux durant la création du personnage et sont adaptés pour représenter les capacités surnaturelles. L'utilisation des crochets [] au lieu des parenthèses indique un Cliché Double Effort.
+
+### Utilisation des points de Destin
+
+A tout moment, un joueur peut utiliser un point de Destin pour un jet de Cliché. Pour une action ou un round, la Force de son Cliché est doublée pour cette action ou ce round.
+
+
+
+
 
 ## Travailler en équipe
 
@@ -465,11 +443,11 @@ Pour ce qui est combat ou duel, les différents jeux utilisent l'un des mécanis
 
 1. Chaque joueur fait son jet contre un FD dépendant de l'adversaire et des conditions ; le jeu ne propose que des attaques unilatérales (*D&D* par exemple) ;
 1. Les deux joueurs font un jet l'un contre l'autre en même temps, le meilleur score gagne ;
-1. Un joueur fait son jet d'attaque avec divers modificateurs, puis le défenseur fait son jet de défense avec divers modificateurs.
+1. Un joueur fait son jet d'attaque avec divers modificateurs, puis le défenseur fait son jet de défense avec divers modificateurs (*Basic RPG*, *GURPS*).
 
 Risus entre dans la deuxième catégorie.
 
-### Risus
+### Les probabilités de Risus
 
 #### Test de compétences dans Risus
 
@@ -516,90 +494,81 @@ Dans Risus, les dés du Cliché sont lancés et additionnés et comparés à un 
 
 *Table A1 : probabilité en pourcentage de faire au moins le FD*
 
-Evidemment, les probabilités ne sont pas linéaires quand on lance plusieurs D6 et qu'on les additionne. Très vite, le joueur n'a aucune chance de réussite : 17% pour une difficulté 10 en ayant 2D en Cliché est assez frustrant, surtout quand votre camarade avec 3D a 63% de réussir la même tâche.
+Evidemment, les probabilités ne sont pas linéaires quand on lance plusieurs D6 et qu'on les additionne (courbe en cloche ou gaussienne). Très vite, le joueur n'a aucune chance de réussite : 17% pour une difficulté 10 en ayant 2D en Cliché est assez frustrant, surtout quand votre camarade avec 3D a 63% de réussir la tâche au même FD.
 
 #### Le duel dans Risus
 
-Risus est bâti sur la notion du duel. Le duel s'établit sur la base du lancé de dés et de l'addition des résultats.
-
-Or, on constate que lorsque les duellistes possèdent 1D d'écart, les changes de succès de celui qui a un dé de moins sont minimales. Les anglophones ont nommé ce mécanisme la spirale de la port (*death spiral*), car la perte d'un dé après un round, crée définitivement la défaite.
+Risus est bâti sur la notion du duel. Le duel s'établit sur la base du lancé de dés, de l'addition des résultats et de la comparaison entre les scores des deux joueurs.
 
 La table 1 ci-dessous montre les probabilités en pourcentage : attaquant vainqueur / ex-aequo / défenseur vainqueur.
 
-| Att. / Déf. | 1D       | 2D       | 3D      | 4D      | 5D      | 6D      |
-|-------------|----------|----------|---------|---------|---------|---------|
-| 1D          | 42/17/42 | 9/7/84   | 1/2/97  | 0/0/100 | 0/0/100 | 0/0/100 |
-| 2D          | 84/7/9   | 44/11/44 | 15/7/78 | 4/2/94  | 1/1/99  | 0/0/100 |
-| 3D          | 97/2/1   | 78/7/15  | 45/9/45 | 19/7/74 | 6/3/91  | 1/1/98  |
-| 4D          | 100/0/0  | 94/2/4   | 74/7/19 | 46/8/46 | 22/6/62 | 8/3/88  |
-| 5D          | 100/0/0  | 99/1/1   | 91/3/6  | 62/6/22 | 46/7/46 | 24/6/70 |
-| 6D          | 100/0/0  | 100/0/0  | 98/1/1  | 88/3/8  | 70/6/24 | 47/7/47 |
+| Att. / Déf. | 1D       | 2D       | 3D         | 4D      | 5D      | 6D      | 7D         |
+|-------------|----------|----------|------------|---------|---------|---------|------------|
+| 1D          | 42/17/42 | 9/7/84   | 1/2/97     | 0/0/100 | 0/0/100 | 0/0/100 | 0/0/100    |
+| 2D          | 84/7/9   | 44/11/44 | 15/7/78    | 4/2/94  | 1/1/99  | 0/0/100 | 0/0/100    |
+| 3D          | 97/2/1   | 78/7/15  | 45/9/45    | 19/7/74 | 6/3/91  | 1/1/98  | 0.5/0.5/99 |
+| 4D          | 100/0/0  | 94/2/4   | 74/7/19    | 46/8/46 | 22/6/62 | 8/3/88  | 3/1/96     |
+| 5D          | 100/0/0  | 99/1/1   | 91/3/6     | 62/6/22 | 46/7/46 | 24/6/70 | 10/3/86    |
+| 6D          | 100/0/0  | 100/0/0  | 98/1/1     | 88/3/8  | 70/6/24 | 47/7/47 | 26/5/69    |
+| 7D          | 100/0/0  | 100/0/0  | 99/0.5/0.5 | 96/1/3  | 86/3/10 | 69/5/26 | 47/6/47    |
 
 *Table A2 : probabilités de succès dans un duel Risus*
 
-On voit que le combat est très inégal, même avec un seul dé d'écart. Prenons un attaquant avec Cliché (4) contre un défenseur avec Cliché (3), l'attaquant a 3 chances sur 4 de gagner (74%) et le défenseur n'a qu'un chance sur 5 de gagner.
+On constate que, lorsque les duellistes possèdent 1D d'écart, les changes de succès de celui qui a un dé de moins sont minimales. Les anglophones ont nommé ce mécanisme la spirale de la port (*death spiral*), car la perte d'un dé après un round, crée presque obligatoirement une défaite.
 
-Si l'on ramène cette probabilité à un monde *D&D*, les probabilités sont à peu près celles d'un attaquant lançant 1d20+6 contre un défenseur lançant 1d20 (74/4/23).
+En effet, dans Risus, celui qui a perdu le round perd 1D pour le round suivant et donc accroît encore le problème.
 
-Il en va de même pour 3D contre 2D (78/7/15), ce qui correspond à peu près à 1d20+8 contre 1d20 !
+Prenons Grolfnar, Viking (4), contre Wulf, Viking (5). Dans un combat de vikings, Grolfnar a 22% de chances de gagner le combat et 6% de faire ex-aequo. S'il perd un round, le combat sera de 3D contre 5D et la chance de gagner le round de Grolfnar tombera à 6% seulement (et 3% pour un ex-aequo).
+
+Si l'on ramène cette probabilité à une probabilité comparable dans le monde de *D&D* :
+
+* Les probabilités de 4D contre 5D sont à peu près celles d'un attaquant lançant 1d20 contre une CA de 16 (25%) ;
+* Les probabilités de 3D contre 5D sont à peu près celles de 1d20 contre une CA de 19 (10%).
 
 Ce mécanisme a très vite ennuyé la communauté Risus qui a cherché à le résoudre par divers moyens.
 
-#### Hack au système de base : la gonflette
+#### La "gonflette", un hack de Risus dans Risus
 
-Evidemment, il existe le contournement proposé avec les "pump" (ou gonflette dans la traduction de Tristan Lhomme). En gros, comme avoir un dé de moins que son adversaire est probablement condamné à l'échec, la stratégie est de gonfler son Cliché au premier round et de tenter le tout pour le tout.
+Le système de jeu original de Risus propose en option le système de "pump" (ou "gonflette" dans la traduction de Tristan Lhomme). En gros, comme avoir un dé de moins que son adversaire est probablement condamné à l'échec, la stratégie est de "gonfler" son Cliché au premier round et de tenter le tout pour le tout.
 
-Exemple, Grolfnar Viking (4) et Wulf Viking (5) se battent au corps à corps. Les chances de Grolfnar sont 22% de gagner et 6% de faire ex-aequo, donc pas même une chance sur trois. S'il perd un round, il perdra un dé et donc se retrouvera avec Viking (3) contre Viking (5) et donc 6% de chances de gagner et 3% de faire ex-aequo. Sur le papier, Grolfnar a donc très probablement perdu.
+Exemple, Grolfnar Viking (4) et Wulf Viking (5) se battent au corps à corps. Comme nous avons vu, les chances de Grolfnar sont 22% de gagner et 6% de faire ex-aequo.
 
-Sauf s'il tente une gonflette. Le principe est d'anticiper sur les rounds suivants en gonflant son Cliché pour le round actuel. Le but est d'avoir plus de dés que Wulf et donc Grolfnar est obligé de gonfler de 2D (à supposer qu'il estime que Wulf a un dé de plus que lui en Cliché).
+Supposons que Grolfnar tente une gonflette. Le principe est d'anticiper sur les rounds suivants en gonflant son Cliché pour le round actuel. Le but est d'avoir plus de dés que Wulf pour rétablir l'équilibre au round 2. Grolfnar est obligé de gonfler de 2D (à supposer que le joueur de Grolfnar sache que Wulf a un dé de plus que lui dans le Cliché applicable).
 
-Il a donc au premier round Viking (6) contre Viking (5) soit 70% de chances de gagner et 6% de faire ex-aequo. Comme le perdant perd les dés engagés par celui qui fait la gonflette, si Grolfnar gagne, le round sera Viking (4-2=2) contre Viking (5-2-1=2) et nous revenons à un équilibre.
+Le premier round voit donc Grolfnar, Viking (6), contre Wulf, Viking (5), soit 70% de chances de gagner et 6% de faire ex-aequo pour Grolfnar. Comme le perdant perd les dés engagés par celui qui fait la gonflette, en plus de la perte de 1D de son round, si Grolfnar gagne, le round sera Grolfnar, Viking (4-2=2), contre Wulf, Viking (5-2-1=2), et nous revenons à un équilibre.
 
-En gros, la gonflette de Cliché est un hack au propre système de Risus pour réduire les différences de 1D entre les duellistes.
+Prenons maintenant un exemple d'un décalage de 2D dans les Clichés. Grolfnar, Viking (4), lutte contre Graffn, Troll (6). les chances de gagner de Grolfnar ne sont que de 8% (plus 3% de faire ex-aequo). Le joueur jouant Grolfnar choisit une gonflette à 3D. Grolfnar passe alors à Viking (7) contre Troll (6). Il a 69% de chances de réussite, 5% de chances de faire ex-aequo. S'il gagne, Graffn passe à Troll(6-3-1=2) et Grolfnar passe à Viking (4-3=1). Sur le second round, Grolfnar a seulement 9% de chances de réussite (et 7% de faire ex-aequo). Il est donc presque assuré de perdre au second round. Cette stratégie est donc la mauvaise.
 
-### Le pool de dés
+Si Grolfnar n'avait voulu qu'égaler le Cliché de son adversaire (gonflette de 2D), il aurait eu environ une chance sur deux de gagner (Viking (6) contre Troll (6)) et se serait retrouvé dans la situation suivante :
 
-#### La solution Shadowrun : le "pool" de dés
+* Gagnant : Viking (4-2=2) contre Troll (6-2-1=3),
+* Perdant : Viking (4-2-1=1) contre Troll (6).
 
-Shadowrun propose de considérer que les dés jetés doivent être regardés individuellement comme devant être égaux ou supérieur à un seuil. Ainsi, si un personnage a Cliché (3), son joueur lancera 3D et comptera le nombre de "succès", soit le nombre de dés supérieurs ou égaux au seuil. Si le joueur n'obtient aucun succès, il a échoué ; s'il obtient au moins un succès, il a réussi.
+Dans les deux cas, le second round paraît fortement compromis (15% de chances de gagner et 7% de faire ex-aequo dans le cas gagnant). Cette stratégie paraît également perdante.
 
-Cette solution propose les probabilités montrées dans la table A3. Le FD (Facteur de Difficulté) n'est plus un seuil sur l'addition de la valeur de tous les dés, mais un seuil à égaler ou dépasser par dé.
+Cet exemple démontre que, à moins que le MJ équilibre les rencontres avec un seul dé d'écart, même le "hack" de la gonflette ne laisse quasiment aucune chance aux PJ désavantagés de plus d'un dé.
 
-| FD    | 1D6     | 2D6     | 3D6     | 4D6     | 5D6     | 6D6     |
-|-------|---------|---------|---------|---------|---------|---------|
-| 2     | 83%     | 97%     | 99%     | 100%    | 100%    | 100%    |
-| 3     | 67%     | 89%     | 96%     | 99%     | 99%     | 100%    |
-| 4     | 50%     | 75%     | 88%     | 94%     | 97%     | 98%     |
-| **5** | **33%** | **56%** | **70%** | **80%** | **87%** | **91%** |
-| 6     | 17%     | 31%     | 42%     | 52%     | 60%     | 67%     |
+Nous pouvons donc voir la gonflette de Cliché comme un hack au propre système de Risus pour réduire les différences de 1D entre les duellistes. Ce hack est présenté comme une option au système mais il est indispensable aux différences de 1D, et inutile pour les différences de 2D ou plus, différences qui mènent quasi systématiquement à la victoire de celui qui possède deux dés e plus que son adversaire.
 
-*Table A3 : Probabilités du pool de dés*
+#### La "double-gonflette"
 
-Certains jeux préconisent un seuil de 4 (ce qui revient à une chance sur 2 sur un d6). Un seuil de 5 nous paraît un bon compromis.
+Pour simuler les pouvoirs magiques ou psioniques, Risus prévoit les Clichés permettant une "double-gonflette" (*double-pump Clichés*). Ces Clichés sont acquis avec un prix double. La perte est en effet de moitié le nombre de dés investis pour l'utilisateur de cette technique. Pour la victime, nous assumerons que la perte est maximale.
 
-Notons que, quelque soit la difficulté de l'action, dans ce cas, un personnage avec un faible Cliché peut réussir.
+Ainsi, si un Sorcier des sombres bois [3] lutte contre une Infâme Bestiole (5), il peut investir 2D dans une double-gonflette et avoir un bonus de 2x2D=4D. Le combat devient Sorcier (7) contre Bestiole (5). Le Sorcier a 86% de chances de gagner. En cas de gain, le second round voit s'opposer un Sorcier [3-2=1] contre une Bestiole (5-4-1=0). La Bestiole a perdu dès le premier round.
 
-#### Compter le nombre de succès
+#### Conclusion
 
-Il est possible dans cette mécanique de compter le nombre de succès. Cette mécanique a un effet pernicieux qui est du même genre que les probabilités montrées dans la table A1 : les joueurs qui lancent un faible nombre de dés ne peuvent pas du tout réussir, par construction.
-
-Par exemple, si le MJ demande deux réussites à un personnage, il exclut d'emblée tous les PJs ayant un Cliché (1). de plus un Cliché (2) aura seulement 11% de chances de réussite avec un FD de 5.
-
-Cette technique peut être adaptée à un pool d'une grande taille mais pas à Risus, jeu pour lequel les joueurs ont des Clichés ayant un valeur de (1) à (4) maximum.
-
-#### Pool de dés en duel
-
-La mécanique de pool de dés en duel Risus n'est pas simple à mettre en place. Si l'on compte les réussites, avoir un dé de plus que son adversaire est une condition de succès presque garantie. Si, on ne les compte pas, il faut départager les adversaires si tous deux ont réussi ou perdu.
+Les règles de duels proposées par Risus ne fonctionnent pas très bien, au point de rendre le jeu peu utilisable, surtout en présence d'adversaires importants. Si le MJ prend garde à équilibrer les adversaires aux Clichés des joueurs, le problème peut être réduit, mais il demeure pour les adversaires ayant 2D d'écart ou plus.
 
 ### Ye Good Olde System (YGOS)
 
-[YGOS](https://www.risusiverse.com/home/optional-rules/ye-good-olde-system) propose de tout simplement lancer 1D6 et d'ajouter la valeur du Cliché comme *bonus*.
+[YGOS](https://www.risusiverse.com/home/optional-rules/ye-good-olde-system) propose de corriger le système de jeu de Risus en lançant 1D6 et d'ajouter la valeur du Cliché comme *bonus*.
 
 Ainsi, quand Grolfnar fait un truc de Viking (4), il lance 1D+4. Quand il poétise (Poète (1)), il lance 1D6+1.
 
 #### Test de compétences avec YGOS
 
-La table des FD devient alors la table A4.
+La table des FD devient alors la table A3.
 
 | FD  | Commentaire                                                 |
 |-----|-------------------------------------------------------------|
@@ -615,9 +584,9 @@ La table des FD devient alors la table A4.
 | 10  | Un défi pour un maître. Difficulté presque surhumaine       |
 | 11+ | Vous voulez rire. Difficulté vraiment surhumaine            |
 
-*Table A4: les FD selon YGOS*
+*Table A3: les FD selon YGOS*
 
-Qu'en est-il des vraies probabilités ? La table A5 les montre.
+Qu'en est-il des vraies probabilités ? La table A4 les montre.
 
 | FD/Cliché | (1) D+1 | (2) D+2 | (3) D+3 | (4) D+4 | (5) D+5 | (6) D+6 |
 |-----------|---------|---------|---------|---------|---------|---------|
@@ -633,13 +602,13 @@ Qu'en est-il des vraies probabilités ? La table A5 les montre.
 | 11        | -       | -       | -       | -       | 17      | 33      |
 | 12        | -       | -       | -       | -       | -       | 17      |
 
-*Table A5 : probabilités de réussite de compétences dans YGOS*
+*Table A4 : probabilités de réussite de compétences dans YGOS*
 
 Nous voyons un peu le même défaut que dans les autres systèmes. La difficulté 8 est inaccessible aux Clichés (1).
 
 #### Duel avec YGOS
 
-La table A6 donne les probabilités pour le duel (même convention : victoire / ex-aequo / défaite).
+La table A5 donne les probabilités pour le duel (même convention : victoire / ex-aequo / défaite).
 
 | Att. / Déf. | (1) D+1  | (2) D+2  | (3) D+3  | (4) D+4  | (5) D+5  | (6) D+6  |
 |-------------|----------|----------|----------|----------|----------|----------|
@@ -650,42 +619,46 @@ La table A6 donne les probabilités pour le duel (même convention : victoire / 
 | (5) D+5     | 92/6/3   | 83/8/8   | 72/11/17 | 58/14/28 | 42/17/42 | 28/14/58 |
 | (6) D+6     | 97/0/3   | 92/6/3   | 83/8/8   | 72/11/17 | 58/14/28 | 42/17/42 |
 
-*Table A6 : combat dans YGOS*
+*Table A5 : combat dans YGOS*
 
-Le problème est atténué par rapport au Risus original, mais les différences de 1D sont encore très marquées. En effet, un bonus de +1 apporte un pas de 17%, ce qui correspondrait quasiment à un +4 dans une échelle d20.
+Le problème est atténué par rapport au Risus original, mais les différences de 1D sont encore très marquées. En effet, un bonus de +1 apporte un pas de 17%, ce qui correspondrait quasiment à un +4 dans une échelle d20 (différence entre un débutant et un expert).
 
-### Inspiration Fighting Fantasy
+### Risus Hack
 
-Si l'on tente de corriger le YGOS, il est possible de lancer 2d6 au lieu de lancer 1D, cela pour diminuer un peu l'impact du bonus dû au Cliché.
+Le problème du YGOS est que le bonus du Cliché est, en valeur, très important en comparaison de l'intervalle de lancers possibles d'1D.
+
+Pour corriger le YGOS, il est possible de s'inspirer de *Fighting Fantasy* et de lancer 2D au lieu de lancer 1D.
+
+Chaque joueur, que ce soit pour un test de compétences ou un Duel lancera 2D+Cliché. C'est le mécanisme de base de Risus Hack.
 
 #### Jet de compétences
 
+La table A6 présente les probabilités de succès d'un test de compétences contre un Facteur de Difficulté.
 
 | FD/Cliché | (1) 2D+1 | (2) 2D+2 | (3) 2D+3 | (4) 2D+4 | (5) 2D+5 | (6) 2D+6 |
 |-----------|----------|----------|----------|----------|----------|----------|
-| 3         |          |          |          |          |          |          |
-| 4         |          |          |          |          |          |          |
-| **5**     | **50**   | **67**   | **83**   | **100**  | **100**  | **100**  |
-| 6         |          |          |          |          |          |          |
-| 7         |          |          |          |          |          |          |
-| 8         |          |          |          |          |          |          |
-| 9         |          |          |          |          |          |          |
-| 10        |          |          |          |          |          |          |
-| 11        |          |          |          |          |          |          |
-| 12        |          |          |          |          |          |          |
-| 13        |          |          |          |          |          |          |
-| 14        |          |          |          |          |          |          |
-| 15        |          |          |          |          |          |          |
-| 16        |          |          |          |          |          |          |
-| 17        |          |          |          |          |          |          |
-| 18        |          |          |          |          |          |          |
+| 3         | 100      | 100      | 100      | 100      | 100      | 100      |
+| 4         | 97       | 100      | 100      | 100      | 100      | 100      |
+| 5         | 92       | 97       | 83       | 100      | 100      | 100      |
+| 6         | 83       | 92       | 97       | 100      | 100      | 100      |
+| **7**     | **72**   | **83**   | **92**   | **97**   | **100**  | **100**  |
+| 8         | 58       | 72       | 83       | 92       | 97       | 100      |
+| 9         | 42       | 58       | 72       | 83       | 92       | 97       |
+| **10**    | **28**   | **42**   | **58**   | **72**   | **83**   | **92**   |
+| 11        | 17       | 28       | 42       | 58       | 72       | 83       |
+| 12        | 8        | 17       | 28       | 42       | 58       | 72       |
+| 13        | 3        | 8        | 17       | 28       | 42       | 58       |
+| 14        | -        | 3        | 8        | 17       | 28       | 42       |
+| 15        | -        | -        | 3        | 8        | 17       | 28       |
+| 16        | -        | -        | -        | 3        | 8        | 17       |
+| 17        | -        | -        | -        | -        | 3        | 8        |
+| 18        | -        | -        | -        | -        | -        | 3        |
 
-*Table A7 : probabilités de réussite de compétences inspiré par Fighting Fantasy et YGOS*
-
+*Table A6 : probabilités de réussite de compétences de Risus Hack*
 
 #### Duel
 
-La table A8 propose une vue des probabilités pour un Cliché bonus (comme dans YGOS) mais tempéré par un jet de 2d6 (courbe en cloche).
+La table A7 propose une vue du système 2D+Cliché pour les combats.
 
 | Att. / Déf. | (1) 2D+1 | (2) 2D+2 | (3) 2D+3 | (4) 2D+4 | (5) 2D+5 | (6) 2D+6 |
 |-------------|----------|----------|----------|----------|----------|----------|
@@ -696,7 +669,12 @@ La table A8 propose une vue des probabilités pour un Cliché bonus (comme dans 
 | (5) 2D+5    | 84/6/10  | 76/8/16  | 66/10/24 | 56/11/34 | 44/11/44 | 34/11/56 |
 | (6) 2D+6    | 90/4/5   | 84/6/10  | 76/8/16  | 66/10/24 | 56/11/34 | 44/11/44 |
 
-*Table A8 : combat inspiré par Fighting Fantasy et YGOS*
+*Table A7 : probabilités de succès des duels dans Risus Hack*
 
+Les chances de succès sont beaucoup plus équilibrées entre les protagonistes.
+
+#### Risus Hack
+
+C'est ce système qui a été choisi pour Risus Hack.
 
     
