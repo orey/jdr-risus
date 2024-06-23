@@ -4,6 +4,11 @@
 
 Bienvenue dans *Risus Hack* : Le jeu de rôle de tous les univers, un jeu de rôle sur table complet !
 
+| Version         | 1.0          |
+| Auteur original | S. John Ross |
+| Hack            | O. Rey       |
+| Date            | Juin 2024    |
+
 ## Pourquoi Risus Hack ?
 
 Parce que les duels dans *Risus Hack* fonctionnent mal et qu'une petite modification au moteur de jeu permet de résoudre le problème. Si vous voulez en savoir plus, rendez-vous à la fin de cette page. Sinon, embarquement pour *Risus Hack* !
@@ -12,13 +17,13 @@ Parce que les duels dans *Risus Hack* fonctionnent mal et qu'une petite modifica
 
 ### Le Cliché
 
-La notion de "Cliché" est au cœur de *Risus Hack*. Un Cliché résume un type de personne, englobant ses compétences, son histoire, son rôle social et ainsi de suite.
+La notion de "Cliché" est au cœur de *Risus Hack*. Un Cliché résume un type de personne, englobant ses compétences, son histoire, son rôle social, un certain type de background et ainsi de suite.
 
 Les classes de personnages des jeux de rôle les plus anciens peuvent être considérées comme des Clichés, par exemple Guerrier, Magicien, Pilote Stellaire ou Super-Espion.
 
-Mais vous pouvez aussi choisir quelque chose de plus excentrique, comme Cuisinier Pirate Fantôme, Marraine Fée, Bruce Lee (ou un personnage "faisant des trucs à la Bruce Lee"), voire Monstre Géant Qui Veut Juste Être Aimé Pour Ses Macramés. Avec un Meneur de jeu très permissif, vous pouvez être tout ça à la fois.
+Vous pouvez aussi choisir quelque chose de plus excentrique, comme Cuisinier Pirate Fantôme, Marraine Fée, Bruce Lee (ou un personnage "faisant des trucs à la Bruce Lee"), voire Monstre Géant Qui Veut Juste Être Aimé Pour Ses Macramés. Avec un Meneur de jeu très permissif, vous pouvez être tout ça à la fois.
 
-Chaque Cliché est associé à un chiffre représentant un bonus que l'on nomme "Force" de Cliché. A chaque fois que votre capacité à être un Magicien, un Pilote Stellaire ou Bruce Lee, est mise en doute, vous lancez deux dés à 6 faces (noté 2D) et vous ajoutez la Force de votre Cliché comme bonus.
+Chaque Cliché est associé à un chiffre représentant un bonus que l'on nomme "Force" du Cliché. A chaque fois que votre capacité à être un Magicien, un Pilote Stellaire ou Bruce Lee, est mise en doute, vous lancez deux dés à 6 faces (noté 2D) et vous ajoutez la Force de votre Cliché comme bonus.
 
 On considère généralement les niveaux suivants :
 
@@ -48,7 +53,7 @@ Un personnage de Risus Hack complet ressemble à ceci :
 
 **Nom** : Grolfnar Vainsson Le Viking,
  
-**Description** : grand, blond et souriant. A un faible pour la bière, la bagarre, les belles femmes viking, la navigation en haute mer et le pillage. Il veut écrire des sagas sur lui-même.
+**Description** : grand, blond et souriant. A un faible pour la bière, la bagarre, les belles femmes viking, la navigation en haute mer et le pillage. Son but dans la vie est d'écrire des sagas sur lui-même.
 
 **Clichés** : Viking (4), Joueur (3), Dragueur (2),  Poète (1).
 
@@ -58,13 +63,13 @@ Pour créer Grolfnar, il nous a suffi de lui donner un nom, de le décrire et de
 
 #### Désavantage
 
-Le MJ peut permettre au personnage d'avoir un désavantage. ce dernier doit être gênant et pouvoir être utilisé par le MJ dans le jeu, par exemple une malédiction, une obsession, une faiblesse, un voeu, une blessure permanente et handicapante, etc.
+Le MJ peut permettre au personnage d'avoir un désavantage. Ce dernier doit être gênant et pouvoir être utilisé par le MJ dans le jeu, par exemple une malédiction, une obsession, une faiblesse, un voeu, une blessure permanente et handicapante, etc.
 
 Le désavantage rapporte 1 point de Force supplémentaire au joueur pour placer dans un des Clichés de son personnage.
 
 #### Background
 
-Un Background est une biographie écrite du personnage décrivant sa vie avant les événements du jeu. Le Background n'a pas besoin d'être long (une ou deux pages est déjà beaucoup). Il s'agit simplement d'indiquer au lecteur d'où le personnage vient, ce qu'il aime et ce qu'il n'aime pas, comment il est devenu ce qu'il est et quels sont ses motifs.
+Un Background est une biographie écrite du personnage décrivant sa vie avant les événements du jeu. Le Background n'a pas besoin d'être long (une ou deux pages est déjà beaucoup). Il s'agit simplement d'indiquer au lecteur d'où le personnage vient, ce qu'il aime et ce qu'il n'aime pas, comment il est devenu ce qu'il est et quels sont ses motivations.
 
 Un personnage ayant un Background écrit avant le jeu démarre avec 1 point de Force supplémentaire disponible pour la création du Personnage.
 
@@ -89,7 +94,7 @@ Le MJ peut aussi utiliser la table optionnelle ci-dessous.
 
 | **Niveau de Cliché** | Adapté | Partiellement adapté    | Peu adapté  | Inadapté    |
 |----------------------|--------|-------------------------|-------------|-------------|
-| **Malus applicable** | Aucun  | -1 à la Force du Cliché | -2 (min. 0) | -3 (min. 0) |
+| **Malus applicable** | Aucun  | -1 à la Force du Cliché | -2 (min. 1) | -3 (min. 0) |
 
 *Table 2 : Malus à appliquer en cas de Cliché inadapté (option)*
 
@@ -110,7 +115,7 @@ Il est requis de noter sur la feuille de personnage le ou les objets les plus im
 
 *Table 3 : Nombre d'objets par Cliché*
 
-Si ces objets étaient perdus, volés ou devenus inutilisables, et que l'objet est requis dans la scène, le jet de Cliché subira un malus compris entre -1 et la moitié de la Force du Cliché.
+Si ces objets étaient perdus, volés ou devenus inutilisables, et que l'objet est requis dans une scène, le jet de Cliché subira un malus compris entre -1 et la moitié de la Force du Cliché à la discrétion du MJ
 
 #### Equipement de Grolfnar
 
@@ -145,9 +150,9 @@ Pour faire un jet de Cliché, le joueur lance 2D, les additionne et ajoute la Fo
 
 #### Réussites et échecs critiques
 
-Si les 2D lancés par le joueur sont un double 1 ou un double 6, le PJ subit un échec critique ou réussit de manière critique.
+Si les 2D lancés par le joueur sont un double 1 ou un double 6, le PJ subit respectivement un échec critique ou une réussite critique.
 
-Les échec et réussite critiques dépendent des actions entreprises :
+Les échecs et réussites critiques dépendent des actions entreprises :
 
 * Actions sans opposition,
 * Actions avec opposition, ou "combat".
@@ -163,7 +168,7 @@ La procédure pour tester si une action est la suivante :
 * Le MJ détermine un Facteur de Difficulté (FD) compris entre 3 et 15 (7 étant le FD normal) ;
 * Le joueur fait un jet de Cliché :
     * Si le jet est supérieur ou égal au FD, c'est réussi ;
-    * Si le jet est inférieur au FD, c'est raté.
+    * Si le jet est inférieur strictement au FD, c'est raté.
 
 ### Facteur de Difficulté (FD)
 
@@ -198,13 +203,13 @@ Les difficultés à utiliser dépendent du MJ. Il est habituel d'utiliser les FD
 * 10 : difficile, valable pour la plupart des jets (une chance sur quatre pour les Clichés de Force 1),
 * 11+ : très difficile.
 
-### Réussite et échec critique
+#### Réussite et échec critique
 
 En cas d'échec critique, le MJ déterminera la conséquence désagréable devant être subie par le PJ. Même si le jet de Cliché est supérieur ou égal au FD, un double 1 restera toujours un échec critique.
 
-de la même façon, en cas de réussite critique, même si le jet de Cliché est raté par rapport au FD, il est réussi en cas de double 6. Là aussi, c'est au MJ de déterminer les conséquences de cette réussite hors du commun.
+De la même façon, en cas de réussite critique, même si le jet de Cliché est raté par rapport au FD, il est réussi en cas de double 6. Là aussi, c'est au MJ de déterminer les conséquences de cette réussite hors du commun.
 
-### Exemple
+#### Exemple
 
 Grolfnar participe à un festin Viking et, comme les autres Vikings présents, il boit beaucoup.
 
@@ -219,13 +224,13 @@ Dans Risus Hack, le "combat" est défini comme toute action avec opposition, par
 Voici quelques exemples de "combats" possibles :
 
 * **Débat** : des combattants maniant la logique, les arguments et les astuces rhétoriques pour faire triompher leur opinion ;
-* **Course de chevaux** : des jockey sur des chevaux galopant comme des fous sur une piste boueuse pour savoir qui arrivera nulle part le premier ;
-* **Combat aérien** : des pilotes d’avions ou de vaisseaux spatiaux tentant de s’atomiser mutuellement dans le ciel ;
-* **Duels astraux / psychiques** : des mystiques/psionics paraissant fatigués ou pleins d'ennui, en train de se déchirer l'ego dans l'Outre-Monde.
+* **Course de chevaux** : des jockey sur des chevaux galopant comme des fous sur une piste boueuse pour savoir qui franchira l'arrivée le premier ;
+* **Combat aérien** : des pilotes d’avions ou de vaisseaux spatiaux se combattant  mutuellement dans le ciel ;
+* **Duels astraux / psychiques** : des mystiques/psionics paraissant fatigués ou pleins d'ennui, en train de se déchirer l'ego dans l'outreront ;
 * **Duels de magiciens** : des sorciers usant d'une étrange magie tentant de se surpasser l'un l'autre ;
 * **Duels de banjos** : des joueurs de banjos tentant de se dominer à l'aide de mélodies bizarres ;
-* **Séduction** : un personnage (ou plusieurs) tentant de séduire un autre personnage qui résiste (ou plusieurs autres qui résistent) ;
-* **Un combat au tribunal** : le procureur contre la défense, le but étant la victoire, la justice étant annexe ;
+* **Séduction** : un personnage tentant de séduire un autre personnage qui résiste ;
+* **Un combat au tribunal** : le procureur contre la défense, lors d'un procès ;
 * **Un vrai combat** : des gens tentant de se blesser ou se tuer.
 
 ### Détermination du Cliché
@@ -236,7 +241,7 @@ Le MJ détermine quel type de Cliché est adapté pour le combat.
 
 Par exemple, dans un combat à mains nues, des Clichés comme Viking, Soldat, Bretteur, ou Ernest Hemingway sont adaptés, tandis que des Clichés comme Coiffeur ou Latin Lover ne le sont pas.
 
-Pour les Clichés inadaptés, le MJ peut utiliser la table 2.
+Pour les Clichés inadaptés, le MJ peut attribuer un malus au personnage et utiliser la table 2.
 
 ### Round de combat
 
@@ -245,11 +250,15 @@ Un combat est divisé en rounds de durée variable. Le MJ décrit la scène.
 Les attaques doivent viser un adversaire : les deux parties impliquées font chacune leur jet de Cliché :
 
 * Le plus haut score gagne le round ;
-* Le perdant perd un point de Force sur son Cliché ; on dit que le PJ subit un dommage de 1 point de Force sur son Cliché.
+* Le perdant perd un point de Force sur son Cliché ; on dit que le PJ subit un dommage de 1 point.
 
 Le round suivant peut commencer.
 
 Quand la Force du Cliché d'un combattant tombe à 0, le combattant a perdu le combat.
+
+### Combat avec un Cliché inadapté
+
+Si le joueur convainc le MJ d'utiliser un Cliché inadapté, que le joueur soit ou non soumis au malus proposé en option dans la table 2, en cas de victoire, le joueur inflige double dommages (-2 au Cliché de l'adversaire)
 
 ### Sort du perdant
 
@@ -262,11 +271,30 @@ Le perdant est à la merci du bon vouloir du vainqueur qui doit décider de son 
 
 En combat, les conséquences de l'échec critique sont déterminées par le MJ. Tout d'abord, un échec critique fait perdre le round, d'où une perte de 1 point de Force du Cliché.
 
-De plus, le fait que l'échec soit critique implique que le PJ perd entre 1 point de Force de Cliché et la moitié de ses points de Cliché (perte de son arme ou endommagement la rendant inutilisable). 
+De plus, le fait que l'échec soit critique implique que le PJ perd entre 1 point supplémentaire de Force de Cliché et la moitié de ses points de Cliché. Les raisons peuvent être multiples :
 
-Pour une réussite critique, les choses sont symétriques : le PJ vainqueur gagne le round et gagne quelque chose en plus. Ce dernier négocie alors avec le MJ pour influer sur le cours de l'histoire. Il peut, par exemple, assommer le perdant, le blesser (-1 à la Force du Cliché), briser son arme, établir une prouesse comme couper la ceinture de son pantalon pour que ce dernier tombe sur les chevilles de son adversaire, etc.
+* Perte de son arme,
+* Endommagement de l'arme la rendant inutilisable,
+* Choc avec un objet ou un mur,
+* Etc.
+
+Pour une réussite critique, les choses sont symétriques : le PJ vainqueur gagne le round et gagne quelque chose en plus.
+
+Ce dernier négocie alors avec le MJ pour influer sur le cours de l'histoire. Il peut, par exemple :
+
+* Assommer le perdant,
+* Lui infliger 1D de dommages à son Cliché,
+* Briser son arme,
+* Faire une prouesse comme couper la ceinture de son pantalon pour que ce dernier tombe sur les chevilles de son adversaire,
+* Etc.
 
 ### Probabilités de réussite
+
+La table 7 montre es probabilités de succès à Risus Hack durant un combat. Pour chaque cellule, trois chiffres sont proposés :
+
+* Le pourcentage de chances que l'attaquant gagne le round.
+* Le pourcentage de chances que les deux combattants soient ex-aequo,
+* Le pourcentage de chances que le défenseur gagne le round.
 
 | Att. / Déf. | (1) 2D+1 | (2) 2D+2 | (3) 2D+3 | (4) 2D+4 | (5) 2D+5 | (6) 2D+6 |
 |-------------|----------|----------|----------|----------|----------|----------|
@@ -277,9 +305,7 @@ Pour une réussite critique, les choses sont symétriques : le PJ vainqueur gagn
 | (5) 2D+5    | 84/6/10  | 76/8/16  | 66/10/24 | 56/11/34 | 44/11/44 | 34/11/56 |
 | (6) 2D+6    | 90/4/5   | 84/6/10  | 76/8/16  | 66/10/24 | 56/11/34 | 44/11/44 |
 
-*Table XXX : probabilités de succès des duels dans Risus Hack*
-
-
+*Table 7 : probabilités de succès des duels dans Risus Hack*
 
 ### Exemple
 
@@ -309,7 +335,7 @@ Parfois, regagner les points de Force perdus n'est pas seulement une question de
 
 Il n'y pas d'échelle standard de temps et d'espace dans Risus, tout dépend du contexte.
 
-Dans un combat physique, le round durera quelques secondes tandis qu'il pourra durer une journée entière dans le cadre d'un combat de long terme entre mari et femme...
+Dans un combat physique, le round durera quelques secondes tandis qu'il pourra durer une journée entière dans le cadre d'un combat de long terme entre mari et femme.
 
 ### Cliché inadapté
 
@@ -325,81 +351,36 @@ Ces Conflits à Action Unique sont résolus via un seul jet avec le Cliché adap
 
 ### Exemple
 
-Grolfnar, Viking (4), et Wulf, Viking (5), veulent tous deux attraper le dernier poulet cuit sur la table du festin. Ils jettent respectivement leurs dés : 
+Grolfnar, Viking (4), et Wulf, Viking (5), veulent tous deux attraper le dernier poulet roti sur la table du festin. Ils jettent respectivement leurs dés : 
 
 * Grolfnar obtient 5 et 4 comptabilisant 5 + 4 + C(4) = 13,
 * Wulf obtient 4 et 1 comptabilisant 4 + 1 + C(5) = 10.
 
- Grolfnar attrape le poulet avant Wulf.
-
-### Option : la Gonflette
-
-Combat normal
-
-|                  | Bonus PJ |   | PJ Gagnant | PNJ Perdant |   | PJ Perdant | PNJ Gagnant |
-|------------------|----------|---|------------|-------------|---|------------|-------------|
-| Combat normal    | 0        |   | C          | C-1         |   | C-1        | C           |
-| Gonflette à 1 PF | +1       |   | C-1        | C-1-1=C-2   |   | C-1-1=C-2  | C           |
-| Conflette à 2 PF | +2       |   | C-2        | C-1-2=C-3   |   |            |             |
-
-
-
-
-
-
-
-On peut considérer que, dans un round normal, les joueurs misent 1 point de Force de leur Cliché. Le perdant perd le point de Force misé et le gagnant reste comme il était au début du round.
-
-La Gonflette est une mise de points de Force supérieure à 1. Le joueur peut miser 2 points ou plus dans le round de combat :
-
-* S'il gagne, 
-
-Les personnages peuvent faire un Effort en prenant l'énergie du round n+1 et en la cumulant sur le round n.
-
-Ainsi, au lieu de faire 2 rounds avec un Cliché (4), le personnage pourra faire un Effort de 1D avec Cliché (4+1=5) puis Cliché (4-1=3), ou un Effort de 2D avec Cliché (4+2=6) puis Cliché (4-2=2).
-
-Plusieurs conséquences résultent de cet Effort :
-
-* Le Cliché après l'effort reste au niveau Cliché - Effort ;
-* A cela se cumule une potentielle perte de round de -1D ;
-* En cas de victoire du combattant faisant un Effort, le combattant adverse perd 1D + Effort ;
-* Ce round a toujours un gagnant selon la méthode de la Difficulté Variable.
-
-Cette méthode peut être intéressante lorsque le PJ qui l'utilise possède plusieurs Clichés applicables à un Combat.
-
-#### Exemple
-
-Reprenons l'exemple du combat entre Grolfnar, Viking (4), et Wulf, Viking (5).
-
-| Round | Grolfnar / Succès  | Wulf /Succès       | Résultat Grolfnar | Résultat Wulf  | Commentaire                  |
-|-------|--------------------|--------------------|-------------------|----------------|------------------------------|
-| 1     | 4, 4, 3, 2 - **0** | 6, 5, 5, 4, 1 - 3  | Viking (4-1=3)    | Viking (5)     | Grolfnar a perdu le round    |
-
-Après ce round, Grolfnar décide de faire un Effort de 2D. Il passe donc temporairement à Viking (5) mais il sait que s'il perd le round, il perdra le combat : Viking(3-2-1=0), 2 étant la perte due à l'Effort et 1 au round de combat. Mais comme la méthode utilisée est celle de la Difficulté Variable, il tente.
-
-| Round | Grolfnar / Succès | Wulf /Succès      | Résultat Grolfnar | Résultat Wulf    | Commentaire               |
-|-------|-------------------|-------------------|-------------------|------------------|---------------------------|
-| 2     | 4, 4, 3, 3, 2 - 0 | 4, 3, 3, 2, 2 - 0 | Viking (3-2=1)    | Viking (5-2-1=2) | Grolfnar a gagné le round |
-
-Au round 2, aucun des deux combattants n'a de Succès sur la difficulté 5, par contre Grolfnar a 2 Succès sur la difficulté 4 tandis que Wulf n'en a qu'un seul. Grolfnar gagne le round, prend la pénalité due à l'Effort, tandis que Wulf prend la même pénalité à laquelle s'ajoute la pénalité de perte du round.
-
-Le Combat peut continuer.
-
-### Option : Double Effort
-
-Si le MJ permet les Efforts, il peut permettre les Clichés permettant les Double Efforts. Ces Clichés ne prennent que la moitié des dommages consécutifs à un Effort.
-
-Ainsi, un Sorcier [5] pourrait lancer 11D pendant un round de Combat (6D de bonus !) mais prendre encaisser 3D de dommages pour le Double Effort.
-
-Les Clichés Double Effort coûtent le double des Cliché normaux durant la création du personnage et sont adaptés pour représenter les capacités surnaturelles. L'utilisation des crochets [] au lieu des parenthèses indique un Cliché Double Effort.
+ Grolfnar attrape le dernier poulet roti avant Wulf.
 
 ### Utilisation des points de Destin
 
 A tout moment, un joueur peut utiliser un point de Destin pour un jet de Cliché. Pour une action ou un round, la Force de son Cliché est doublée pour cette action ou ce round.
 
+### Pouvoirs
+#### Gestion de la magie ou des pouvoirs
+
+La magie et les pouvoirs peuvent avoir des effets dévastateurs. Aussi, les Clichés ayant des pouvoirs coûtent deux fois plus cher en points de Force que les clichés normaux.
+
+Ainsi un Magicien [4]
+
+**Reprendre ici**
+
+Les adversaires des PJs ayant des pouvoirs ont un indice de résistance aux pouvoirs, généralement 1, mais ce dernier peut aller de 1/2 à un grand nombre.
+
+Un possesseur de pouvoirs ne peut pas, en combat, infliger plus de dommage que ce qu'
 
 
+propose que ces Clichés se consument d'eux-mêmes à chaque utilisation.
 
+Ainsi, pour un Magicien des Bois Noirs (4), quatre points de sort sont disponibles avant évanouissement. La plupart des sorts coûtent 1 point de Force, mais il en existe qui ne coûtent que 0.5 PF et d'autres dont le coût est plus que 2 PF.
+
+Quelque soit le pouvoir invoqué par le joueur, le pouvoir ne peut infliger plus de PF aux PNJ qu'il n'en a, lui-même 
 
 ## Travailler en équipe
 
@@ -414,7 +395,7 @@ Il existe deux types d'équipes :
 
 Les Hordes Grognantes sont gérées de manière spéciale.
 
-Quand une horde de 700 rats-squelettes attaquent les PC dans la tanière d'un Nécromant Mauvais (5), le MJ les déclare en tant que Horde Grognante afin de les traiter comme un seul ennemi : Horde de Rats-Squelettes (7). En termes de mécanique, la horde est similaire à un seul ennemi sauf qu'elle a plus de dés.
+Quand une horde de 700 rats-squelettes attaquent les PC dans la tanière d'un Nécromant Mauvais (5), le MJ les déclare en tant que Horde Grognante afin de les traiter comme un seul ennemi : Horde de Rats-Squelettes (7). En termes de mécanique, la horde est similaire à un seul ennemi sauf que son bonus est plus élevé.
 
 Les Hordes Grognantes reste groupées en équipe jusqu'à ce qu'elles soient vaincues. A ce moment, quelques survivants peuvent se disperser, sachant qu'au moins un élément de la Horde devrait rester en attente de la décision du vainqueur.
 
@@ -424,13 +405,13 @@ Si l'on pousse la logique à l'extrême, un équipage entier de navire, ou même
 
 Quand les PJ (et/ou les PNJ notables) forment une équipe, le chef d'équipe est le personnage qui possède le plus haut Cliché applicable (en cas d'égalité, l'équipe doit désigner un chef).
 
-Toute l'équipe va faire des jets mais seul le jet du chef d'équipe compte complètement. Les autres membres de l'équipe ne contribuent que s'ils font 6 sur leur Cliché.
+Toute l'équipe va faire des jets mais seul le jet du chef d'équipe compte complètement. Les autres membres de l'équipe ne contribuent que s'ils font 6 sur leur Cliché : cette contribution ajoute +1 au Cliché du chef d'équipe.
 
-Les Clichés utilisés au sein de l'équipe n'ont pas besoin d'être identiques et, si tant est que le MJ est convaincu, ils peuvent être un mélange de Clichés adaptés et inadaptés (un groupe de Guerriers peut être aidé par leur Ménestrel, par exemple). Pour autant, ils ne triplent pas la perte de dés de l'ennemi, sauf s'ils utilisent tous des Clichés inadaptés (ce qui signifie que les joueurs doivent expliquer au MJ exactement comment un Coiffeur, un Dresseur de Perruches et un Coach se coordonnent pour battre Darth Viraxis).
+Les Clichés utilisés au sein de l'équipe n'ont pas besoin d'être identiques et, si tant est que le MJ est convaincu, ils peuvent être un mélange de Clichés adaptés et inadaptés (un groupe de Guerriers peut être aidé par leur Ménestrel, par exemple). Pour autant, ils ne double pas les Dommages endurés par l'ennemi, sauf s'ils utilisent tous des Clichés inadaptés (ce qui signifie que les joueurs doivent expliquer au MJ exactement comment un Coiffeur, un Dresseur de Perruches et un Coach se coordonnent pour battre Dark Vador).
 
-Quand l'équipe perd un round de combat, le Cliché d'un seul membre de l'équipe est réduit de 1D.
+Quand l'équipe perd un round de combat, le Cliché d'un seul membre de l'équipe est réduit de 1.
 
-Chaque membre de l'équipe, incluant le chef, peut décider d'encaisser ces dommages volontairement. Si c'est le cas, ce dernier subit le double de la perte normale (2D ou 6D suivant le cas), mais le chef d'équipe bénéficiera d'un bonus de vengeance : il pourra, en effet, jeter deux fois plus de dés pour la prochaine attaque, comme vengeance de l'équipe suite aux dommages encaissés par l'un des leurs.
+Chaque membre de l'équipe, incluant le chef, peut décider d'encaisser ces dommages volontairement. Si c'est le cas, ce dernier subit le double de la perte normale (-2), mais le chef d'équipe bénéficiera d'un bonus de vengeance : il pourra, en effet, avoir un bonus multiplié par 2 lors de la prochaine attaque, comme vengeance de l'équipe suite aux dommages encaissés par l'un des leurs.
 
 Si aucun membre de l'équipe n'est volontaire, le chef d'équipe désigne le membre qui prendra les dommages. Ces derniers ne seront pas doublés et ne donneront pas lieu à un bonus de vengeance.
 
@@ -442,15 +423,15 @@ Dans certains cas néanmoins, les PJs sont dans de telles circonstances précair
 
 #### Dissoudre l'équipe
 
-Une équipe peut volontairement se dissoudre à tout moment. Lors de cette dissolution, tous les membres de l'équipe perdent immédiatement 1D dans le Cliché qui leur servait à contribuer à l'équipe.
+Une équipe peut volontairement se dissoudre à tout moment. Lors de cette dissolution, tous les membres de l'équipe perdent immédiatement 1 point de Force dans le Cliché qui leur servait à contribuer à l'équipe.
 
-Les membres libres pourront former de nouvelles équipes pourvu que la perte de 1D ne les ait pas rendus vaincus.
+Les membres libres pourront former de nouvelles équipes pourvu que la perte de 1 point de Force ne les ait pas transformés en vaincus.
 
-Un individu peut aussi se retirer d'une équipe, mais son score de Cliché passera alors immédiatement à 0D alors qu'ils courent à l'arrière. Leur sort dépendra de la miséricorde de celui qui gagnera le Combat.
+Un individu peut aussi se retirer d'une équipe, mais son score de Cliché passera alors immédiatement à 0 alors qu'il courre à l'arrière. Leur sort dépendra de la miséricorde de celui qui gagnera le Combat.
 
 #### Perte du chef d'équipe
 
-Si le chef d'équipe quitte l'équipe, quelque soit la raison (il se retire ou son Cliché tombe à 0D), l'équipe doit se dissoudre immédiatement (voir ci-dessus).
+Si le chef d'équipe quitte l'équipe, quelque soit la raison (il se retire ou son Cliché tombe à 0), l'équipe doit se dissoudre immédiatement (voir ci-dessus).
 
 Les membres de l'équipe dissoute peuvent décider de reformer une équipe immédiatement avec un nouveau chef, ce dernier ayant droit à un bonus de vengeance pour venger son prédécesseur.
 
@@ -464,21 +445,21 @@ A la fin de l'aventure, les PJs devraient regagner entre 1 et 3 points de Destin
 
 ### Progression des personnages
 
-Après chaque séance, les joueurs ont une chance de faire progresser un Cliché de 1D.
+Après chaque séance, les joueurs ont une chance de faire progresser un Cliché de 1 point de Force.
 
 #### Clichés existants
 
 A la fin de chaque aventure, chaque joueur lance les dés de tous les Clichés qui ont été sollicités durant le jeu. S'il n'obtient que des chiffres pairs, alors le Cliché est candidat pour être augmenté.
 
-Le joueur doit alors choisir dans les candidats quel Cliché doit être augmenté d'1D.
+Le joueur doit alors choisir dans les candidats quel Cliché doit être augmenté de 1.
 
-La limite de progression des Clichés est Cliché (6).
+Il n'y a pas de limite de progression.
 
 #### Nouveaux Clichés
 
 Si le joueur s'est particulièrement illustré dans des actions qui ne sont pas couvertes par ses Clichés, il peut, avec l'accord du MJ, créer un nouveau Cliché (1) suite à son gain d'expérience.
-
-## Annexe : parlons probabilités
+    
+## Annexe : le système de jeu de Risus Hack
 
 ### 2 mécanismes simples au coeur de tous les JDR
 
@@ -489,7 +470,7 @@ Les deux mécanismes simples au coeur de tous les JDR (si l'on exclue la magie e
 
 Pour ce qui est combat ou duel, les différents jeux utilisent l'un des mécanismes suivants :
 
-1. Chaque joueur fait son jet contre un FD dépendant de l'adversaire et des conditions ; le jeu ne propose que des attaques unilatérales (*D&D* par exemple) ;
+1. Chaque joueur fait son jet contre un FD dépendant de l'adversaire et des conditions ; le jeu ne propose que des attaques unilatérales (*D&D* par exemple avec la Classe d'Armure (CA) ou *armor class* (AC)) ;
 1. Les deux joueurs font un jet l'un contre l'autre en même temps, le meilleur score gagne ;
 1. Un joueur fait son jet d'attaque avec divers modificateurs, puis le défenseur fait son jet de défense avec divers modificateurs (*Basic RPG*, *GURPS*).
 
@@ -499,7 +480,7 @@ Risus entre dans la deuxième catégorie.
 
 [YGOS](https://www.risusiverse.com/home/optional-rules/ye-good-olde-system) propose de corriger le système de jeu de Risus en lançant 1D6 et d'ajouter la valeur du Cliché comme *bonus*.
 
-Ainsi, quand Grolfnar fait un truc de Viking (4), il lance 1D+4. Quand il poétise (Poète (1)), il lance 1D6+1.
+Ainsi, quand Grolfnar fait un truc de Viking (4), il lance 1D+4. Quand il poétise (Poète (1)), il lance 1D+1.
 
 #### Test de compétences avec YGOS
 
@@ -519,7 +500,7 @@ La table des FD devient alors la table A3.
 | 10  | Un défi pour un maître. Difficulté presque surhumaine       |
 | 11+ | Vous voulez rire. Difficulté vraiment surhumaine            |
 
-*Table A3: les FD selon YGOS*
+*Table A1: les FD selon YGOS*
 
 Qu'en est-il des vraies probabilités ? La table A4 les montre.
 
@@ -537,7 +518,7 @@ Qu'en est-il des vraies probabilités ? La table A4 les montre.
 | 11        | -       | -       | -       | -       | 17      | 33      |
 | 12        | -       | -       | -       | -       | -       | 17      |
 
-*Table A4 : probabilités de réussite de compétences dans YGOS*
+*Table A2 : probabilités de réussite de compétences dans YGOS*
 
 Nous voyons un peu le même défaut que dans les autres systèmes. La difficulté 8 est inaccessible aux Clichés (1).
 
@@ -554,9 +535,9 @@ La table A5 donne les probabilités pour le duel (même convention : victoire / 
 | (5) D+5     | 92/6/3   | 83/8/8   | 72/11/17 | 58/14/28 | 42/17/42 | 28/14/58 |
 | (6) D+6     | 97/0/3   | 92/6/3   | 83/8/8   | 72/11/17 | 58/14/28 | 42/17/42 |
 
-*Table A5 : combat dans YGOS*
+*Table A3 : combat dans YGOS*
 
-Le problème est atténué par rapport au Risus original, mais les différences de 1D sont encore très marquées. En effet, un bonus de +1 apporte un pas de 17%, ce qui correspondrait quasiment à un +4 dans une échelle d20 (différence entre un débutant et un expert).
+Le problème est atténué par rapport au Risus original, mais les différences de 1 sont encore très marquées. En effet, un bonus de +1 apporte un pas de 17%, ce qui correspondrait quasiment à un +4 dans une échelle d20 (différence entre un débutant et un expert).
 
 ### Risus Hack
 
@@ -568,7 +549,7 @@ Chaque joueur, que ce soit pour un test de compétences ou un Duel lancera 2D+Cl
 
 #### Jet de compétences
 
-La table A6 présente les probabilités de succès d'un test de compétences contre un Facteur de Difficulté.
+La table A4 présente les probabilités de succès d'un test de compétences contre un Facteur de Difficulté.
 
 | FD/Cliché | (1) 2D+1 | (2) 2D+2 | (3) 2D+3 | (4) 2D+4 | (5) 2D+5 | (6) 2D+6 |
 |-----------|----------|----------|----------|----------|----------|----------|
@@ -589,11 +570,11 @@ La table A6 présente les probabilités de succès d'un test de compétences con
 | 17        | -        | -        | -        | -        | 3        | 8        |
 | 18        | -        | -        | -        | -        | -        | 3        |
 
-*Table A6 : probabilités de réussite de compétences de Risus Hack*
+*Table A4 : probabilités de réussite de compétences de Risus Hack*
 
 #### Duel
 
-La table A7 propose une vue du système 2D+Cliché pour les combats.
+La table A5 propose une vue du système 2D+Cliché pour les combats.
 
 | Att. / Déf. | (1) 2D+1 | (2) 2D+2 | (3) 2D+3 | (4) 2D+4 | (5) 2D+5 | (6) 2D+6 |
 |-------------|----------|----------|----------|----------|----------|----------|
@@ -604,12 +585,11 @@ La table A7 propose une vue du système 2D+Cliché pour les combats.
 | (5) 2D+5    | 84/6/10  | 76/8/16  | 66/10/24 | 56/11/34 | 44/11/44 | 34/11/56 |
 | (6) 2D+6    | 90/4/5   | 84/6/10  | 76/8/16  | 66/10/24 | 56/11/34 | 44/11/44 |
 
-*Table A7 : probabilités de succès des duels dans Risus Hack*
+*Table A5 : probabilités de succès des duels dans Risus Hack*
 
 Les chances de succès sont beaucoup plus équilibrées entre les protagonistes.
 
 #### Risus Hack
 
-C'est ce système qui a été choisi pour Risus Hack.
+C'est ce système qui a été choisi pour *Risus Hack*. Contrairement à *Fighting Fantasy*, il ne teste pas les compétences sous forme de jet sous la compétence, mais nous gardons la mécanique des facteurs de difficulté qui a pour intérêt de pouvoir grandit avec les personnages. En effet, rien , dans le système *Risus Hack* n'interdira que Grolfnar, Viking (8), s'affronte à jour à Wulf, Viking (11).
 
-    
