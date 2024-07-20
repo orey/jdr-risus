@@ -4,6 +4,8 @@
 
 Bienvenue dans *Risus Hack* : Le jeu de rôle de tous les univers, un jeu de rôle sur table complet !
 
+| Jeu             | Risus Hack   |
+|-----------------|--------------|
 | Version         | 1.0          |
 | Auteur original | S. John Ross |
 | Hack            | O. Rey       |
@@ -11,7 +13,7 @@ Bienvenue dans *Risus Hack* : Le jeu de rôle de tous les univers, un jeu de rô
 
 ## Pourquoi Risus Hack ?
 
-Parce que les duels dans *Risus Hack* fonctionnent mal et qu'une petite modification au moteur de jeu permet de résoudre le problème. Si vous voulez en savoir plus, rendez-vous à la fin de cette page. Sinon, embarquement pour *Risus Hack* !
+Parce que les duels dans *Risus* fonctionnent mal et qu'une petite modification au moteur de jeu permet de résoudre le problème. Si vous voulez en savoir plus, rendez-vous à la fin de cette page. Sinon, embarquement pour *Risus Hack* !
 
 ## Création de personnage
 
