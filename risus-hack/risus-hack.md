@@ -13,7 +13,13 @@ Bienvenue dans *Risus Hack* : Le jeu de rôle de tous les univers, un jeu de rô
 
 ## Pourquoi Risus Hack ?
 
-Parce que les duels dans *Risus* fonctionnent mal et qu'une petite modification au moteur de jeu permet de résoudre le problème. Si vous voulez en savoir plus, rendez-vous à la fin de cette page. Sinon, embarquement pour *Risus Hack* !
+Parce que les duels dans *Risus* fonctionnent mal et qu'une petite modification au moteur de jeu permet de résoudre le problème. Si vous voulez en savoir plus, consultez la page [risus-comment.md].
+
+Maintenant, embarquement pour *Risus Hack* !
+
+## Matériel
+
+Vous aurez besoin de joueurs, d'un MJ (Maître du Jeu) et de quelques dés. Si vous jouez dans un univers sans magie ni pouvoirs, des D6 et des D4 suffiront. Si vous jouez dans un univers avec de la magie et des pouvoirs, vous aurez besoin d'un D12.
 
 ## Création de personnage
 
@@ -21,21 +27,21 @@ Parce que les duels dans *Risus* fonctionnent mal et qu'une petite modification 
 
 La notion de "Cliché" est au cœur de *Risus Hack*. Un Cliché résume un type de personne, englobant ses compétences, son histoire, son rôle social, un certain type de background et ainsi de suite.
 
-Les classes de personnages des jeux de rôle les plus anciens peuvent être considérées comme des Clichés, par exemple Guerrier, Magicien, Pilote Stellaire ou Super-Espion.
+Les classes de personnages des jeux de rôle les plus anciens peuvent être considérées comme des Clichés, par exemple *Guerrier*, *Magicien*, *Pilote Stellaire* ou *Super-Espion*.
 
-Vous pouvez aussi choisir quelque chose de plus excentrique, comme Cuisinier Pirate Fantôme, Marraine Fée, Bruce Lee (ou un personnage "faisant des trucs à la Bruce Lee"), voire Monstre Géant Qui Veut Juste Être Aimé Pour Ses Macramés. Avec un Meneur de jeu très permissif, vous pouvez être tout ça à la fois.
+Vous pouvez aussi choisir quelque chose de plus excentrique, comme *Cuisinier Pirate Fantôme*, *Marraine Fée*, *Bruce Lee* (ou un personnage "faisant des trucs à la Bruce Lee"), voire *Monstre Géant Qui Veut Juste Être Aimé Pour Ses Macramés*. Avec un Meneur de jeu très permissif, vous pouvez être tout ça à la fois.
 
-Chaque Cliché est associé à un chiffre représentant un bonus que l'on nomme "Force" du Cliché. A chaque fois que votre capacité à être un Magicien, un Pilote Stellaire ou Bruce Lee, est mise en doute, vous lancez deux dés à 6 faces (noté 2D) et vous ajoutez la Force de votre Cliché comme bonus.
+Chaque Cliché est associé à un chiffre représentant un bonus que l'on nomme la "Force" du Cliché. A chaque fois que votre capacité à être un *Magicien*, un *Pilote Stellaire* ou *Bruce Lee*, est mise en doute, vous lancez un dé à 6 faces (noté D) et vous ajoutez la Force de votre Cliché comme bonus.
 
-On considère généralement les niveaux suivants :
+On considère généralement les niveaux de force suivants :
 
-| Force du Cliché | Niveau        |
-|-----------------|---------------|
-| 1               | Débutant      |
-| 2               | Dilettante    |
-| 3               | Professionnel |
-| 4               | Expert        |
-| 5+              | Maître        |
+| Force du Cliché | Niveau        | Création du personnage |
+|-----------------|---------------|------------------------|
+| 1               | Débutant      | Oui                    |
+| 2               | Dilettante    | Oui                    |
+| 3               | Professionnel | Oui                    |
+| 4               | Expert        | Oui                    |
+| 5+              | Maître        | Non                    |
 
 *Table 1 : Niveau du personnage dans son Cliché en fonction de la Force du Cliché*
 
@@ -43,11 +49,11 @@ On considère généralement les niveaux suivants :
 
 Le joueur possède 10 points de Force à dépenser en Clichés pour créer son personnage, avec un maximum de 4 points sur un seul Cliché.
 
-Le joueur peut les dépenser comme il le souhaite, sur autant de Clichés qu'il le souhaite (10 étant le maximum).
+Le joueur peut les dépenser comme il le souhaite, sur autant de Clichés qu'il le souhaite (10 étant le maximum, forcément).
 
 Le premier Cliché de la liste est le Cliché principal, celui qui exprime le plus clairement la manière dont le personnage se perçoit.
 
-A la fin de la création du personnage, ce dernier reçoit de 1 à 3 points de Destin (voir plus loin sur comment utiliser les points de destin).
+A la fin de la création du personnage, ce dernier reçoit de 1 à 3 points de Destin selon la bonté du MJ (voir plus loin sur comment utiliser les points de destin).
 
 ### Exemple de personnage
 
@@ -108,6 +114,8 @@ Le Cliché sous-entend un certain équipement, disponible pour le personnage au 
 
 Il est requis de noter sur la feuille de personnage le ou les objets les plus importants du Cliché. Cela ne comprend pas les vêtements et potentiellement les autres objets courants (à la volonté du MJ).
 
+La table 3 est optionnelle mais elle permet de contrôler un peu les désirs des joueurs selon le niveau de Cliché.
+
 | Force du Cliché | Nombre d'objets maximum |
 |-----------------|-------------------------|
 | 1               | 1                       |
@@ -115,13 +123,13 @@ Il est requis de noter sur la feuille de personnage le ou les objets les plus im
 | 3               | 3                       |
 | n               | n                       |
 
-*Table 3 : Nombre d'objets par Cliché*
+*Table 3 : Nombre d'objets par Cliché (option)*
 
-Si ces objets étaient perdus, volés ou devenus inutilisables, et que l'objet est requis dans une scène, le jet de Cliché subira un malus compris entre -1 et la moitié de la Force du Cliché à la discrétion du MJ
+Si ces objets étaient perdus, volés ou devenus inutilisables, et que l'objet est requis dans une scène et joue un rôle fondamental dans le Cliché, le jet de Cliché subira un malus compris entre -1 et la moitié de la Force du Cliché (à la discrétion du MJ).
 
 #### Equipement de Grolfnar
 
-| Cliché       | Equipement                                                            |
+| Cliché       | Équipement                                                            |
 |--------------|-----------------------------------------------------------------------|
 | Viking (4)   | Un casque de viking, une épée longue, un bouclier, une statue de Thor |
 | Joueur (3)   | Un jeu de cartes, trois dés à six faces                               |
@@ -148,16 +156,7 @@ Il peut aussi s'agir d’autres variétés de matériel spécial :
 
 Le jet de Cliché est le seul type de jet que le joueur fera durant tout le jeu.
 
-Pour faire un jet de Cliché, le joueur lance 2D, les additionne et ajoute la Force du Cliché.
-
-#### Réussites et échecs critiques
-
-Si les 2D lancés par le joueur sont un double 1 ou un double 6, le PJ subit respectivement un échec critique ou une réussite critique.
-
-Les échecs et réussites critiques dépendent des actions entreprises :
-
-* Actions sans opposition,
-* Actions avec opposition, ou "combat".
+Pour faire un jet de Cliché, le joueur lance un D et ajoute la Force du Cliché.
 
 ## Action sans opposition
 
@@ -167,55 +166,62 @@ Lorsque quelqu’un essaye de faire quelque chose, que personne ne tente activem
 
 La procédure pour tester si une action est la suivante :
 
-* Le MJ détermine un Facteur de Difficulté (FD) compris entre 3 et 15 (7 étant le FD normal) ;
+* Le MJ détermine un Facteur de Difficulté (FD) compris entre 2 et beaucoup (6 étant le FD normal) ;
 * Le joueur fait un jet de Cliché :
     * Si le jet est supérieur ou égal au FD, c'est réussi ;
     * Si le jet est inférieur strictement au FD, c'est raté.
 
 ### Facteur de Difficulté (FD)
 
-La table ci-dessous montre les probabilités d'avoir une réussite selon le FD.
-
-| FD/Cliché | (1) 2D+1 | (2) 2D+2 | (3) 2D+3 | (4) 2D+4 | (5) 2D+5 | (6) 2D+6 |
-|-----------|----------|----------|----------|----------|----------|----------|
-| 3         | 100      | 100      | 100      | 100      | 100      | 100      |
-| 4         | 97       | 100      | 100      | 100      | 100      | 100      |
-| 5         | 92       | 97       | 83       | 100      | 100      | 100      |
-| 6         | 83       | 92       | 97       | 100      | 100      | 100      |
-| 7         | 72       | 83       | 92       | 97       | 100      | 100      |
-| 8         | 58       | 72       | 83       | 92       | 97       | 100      |
-| 9         | 42       | 58       | 72       | 83       | 92       | 97       |
-| 10        | 28       | 42       | 58       | 72       | 83       | 92       |
-| 11        | 17       | 28       | 42       | 58       | 72       | 83       |
-| 12        | 8        | 17       | 28       | 42       | 58       | 72       |
-| 13        | 3        | 8        | 17       | 28       | 42       | 58       |
-| 14        | -        | 3        | 8        | 17       | 28       | 42       |
-| 15        | -        | -        | 3        | 8        | 17       | 28       |
-| 16        | -        | -        | -        | 3        | 8        | 17       |
-| 17        | -        | -        | -        | -        | 3        | 8        |
-| 18        | -        | -        | -        | -        | -        | 3        |
-
-*Table 5: Probabilités de réussite du jet de Cliché en fonction du FD*
-
 Les difficultés à utiliser dépendent du MJ. Il est habituel d'utiliser les FD suivants :
 
-* 7 : très facile ;
-* 8 : facile (un peu plus d'une chance sur deux pour les Clichés de Force 1),
-* 9 : moyenne,
-* 10 : difficile, valable pour la plupart des jets (une chance sur quatre pour les Clichés de Force 1),
-* 11+ : très difficile.
+* 5 : très facile ;
+* 6 : facile (50% de chances de réussite pour un Cliché à 2),
+* 8 : difficile, valable pour la plupart des jets (une chance sur quatre pour les Clichés de Force 1),
+* 9+ : très difficile.
 
 #### Réussite et échec critique
 
-En cas d'échec critique, le MJ déterminera la conséquence désagréable devant être subie par le PJ. Même si le jet de Cliché est supérieur ou égal au FD, un double 1 restera toujours un échec critique.
+Si le joueur tire un 6, son dé "explose", ce qui veut dire qu'il lance un nouveau dé pour l'additionner au précédent. Ce nouveau dé est un D4, appelé *dé d'explosion*. Le dé d'explosion n'explose pas.
 
-De la même façon, en cas de réussite critique, même si le jet de Cliché est raté par rapport au FD, il est réussi en cas de double 6. Là aussi, c'est au MJ de déterminer les conséquences de cette réussite hors du commun.
+Si le joueur tire un 1 et que c'est un échec, les deux conditions doivent être réunies, il lance un D4 d'explosion. En cas de nouveau 1, le joueur fait face à un échec critique.
+
+Dans les deux cas, le MJ décidera des conséquences de ces réussites et échecs critiques.
+
+#### Probabilités
+
+La table ci-dessous montre les probabilités d'avoir une réussite selon le FD.
+
+| FD/Cliché | (1) D+1 | (2) D+2 | (3) D+3 | (4) D+4 | (5) D+5 | (6) D+6 |
+|-----------|---------|---------|---------|---------|---------|---------|
+| 2         | 100     | 100     | 100     | 100     | 100     | 100     |
+| 3         | 83      | 100     | 100     | 100     | 100     | 100     |
+| 4         | 67      | 83      | 100     | 100     | 100     | 100     |
+| 5         | 50      | 67      | 83      | 100     | 100     | 100     |
+| **6**     | **33**  | **50**  | **67**  | **83**  | **100** | **100** |
+| 7         | -       | 33      | 50      | 67      | 83      | 100     |
+| 8         | 3       | -       | 33      | 50      | 67      | 83      |
+| 9         | 3       | 3       | -       | 33      | 50      | 67      |
+| 10        | 3       | 3       | 3       | -       | 33      | 50      |
+| 11        | 3       | 3       | 3       | 3       | -       | 33      |
+| 12        | 3       | 3       | 3       | 3       | 3       | -       |
+| 13        | 3       | 3       | 3       | 3       | 3       | 3       |
+| 14        | -       | 3       | 3       | 3       | 3       | 3       |
+| 15        | -       | -       | 3       | 3       | 3       | 3       |
+| 16        | -       | -       | -       | 3       | 3       | 3       |
+| 17        | -       | -       | -       | -       | 3       | 3       |
+| 18        | -       | -       | -       | -       | -       | 3       |
+| 19        | -       | -       | -       | -       | -       | -       |
+
+*Table 5: Probabilités de réussite du jet de Cliché en fonction du FD*
+
+La table tient compte des 6 qui explosent.
 
 #### Exemple
 
 Grolfnar participe à un festin Viking et, comme les autres Vikings présents, il boit beaucoup.
 
-Echauffé par l'alcool, il désire aller provoquer son ennemi Wulf assis non loin, mais le MJ dit que cette action nécessite un jet de Viking (4) au FD=12 car ce dernier n'est pas certain de tenir debout. Le joueur jouant Grolfnar lance 2D et obtient 6 et 2, pour un jet de Cliché à 6+2+4=12. C'est réussi de justesse. Grolfnar parvient à se lever et à se diriger vers Wulf sans encombre.
+Echauffé par l'alcool, il désire aller provoquer son ennemi Wulf assis non loin, mais le MJ dit que cette action nécessite un jet de *Viking* (4) au FD=8 car ce dernier n'est pas certain de tenir debout. Le joueur jouant Grolfnar lance son D et obtient un 5, ce qui porte son jet de *Viking* à  5+4=9. Comme 9 est supérieur à 8, c'est réussi. Grolfnar parvient à se lever et à se diriger vers Wulf sans encombre.
 
 ## Combat
 
@@ -241,9 +247,9 @@ Le MJ décide que le combat commence. A partir de ce moment, il prend les joueur
 
 Le MJ détermine quel type de Cliché est adapté pour le combat.
 
-Par exemple, dans un combat à mains nues, des Clichés comme Viking, Soldat, Bretteur, ou Ernest Hemingway sont adaptés, tandis que des Clichés comme Coiffeur ou Latin Lover ne le sont pas.
+Par exemple, dans un combat à mains nues, des Clichés comme *Viking*, *Soldat*, *Bretteur*, ou *Ernest Hemingway* sont adaptés, tandis que des Clichés comme *Coiffeur* ou *Latin Lover* ne le sont pas.
 
-Pour les Clichés inadaptés, le MJ peut attribuer un malus au personnage et utiliser la table 2.
+Pour les Clichés inadaptés, le MJ peut attribuer un malus au personnage et utiliser la table 2 ou accepter les argumentaires plus ou moins tordus de ses joueurs.
 
 ### Round de combat
 
@@ -280,50 +286,16 @@ De plus, le fait que l'échec soit critique implique que le PJ perd entre 1 poin
 * Choc avec un objet ou un mur,
 * Etc.
 
+Il peut aussi perdre le combat si le MJ considère que cela ajoute à l'histoire.
+
 Pour une réussite critique, les choses sont symétriques : le PJ vainqueur gagne le round et gagne quelque chose en plus.
 
-Ce dernier négocie alors avec le MJ pour influer sur le cours de l'histoire. Il peut, par exemple :
+Ce dernier peut alors négocier avec le MJ pour influer sur le cours de l'histoire. Il peut, par exemple :
 
 * Assommer le perdant,
-* Lui infliger 1D de dommages à son Cliché,
 * Briser son arme,
 * Faire une prouesse comme couper la ceinture de son pantalon pour que ce dernier tombe sur les chevilles de son adversaire,
 * Etc.
-
-### Probabilités de réussite
-
-La table 7 montre es probabilités de succès à Risus Hack durant un combat. Pour chaque cellule, trois chiffres sont proposés :
-
-* Le pourcentage de chances que l'attaquant gagne le round.
-* Le pourcentage de chances que les deux combattants soient ex-aequo,
-* Le pourcentage de chances que le défenseur gagne le round.
-
-| Att. / Déf. | (1) 2D+1 | (2) 2D+2 | (3) 2D+3 | (4) 2D+4 | (5) 2D+5 | (6) 2D+6 |
-|-------------|----------|----------|----------|----------|----------|----------|
-| (1) 2D+1    | 44/11/44 | 34/11/56 | 24/10/66 | 16/8/76  | 10/6/84  | 5/4/90   |
-| (2) 2D+2    | 56/11/34 | 44/11/44 | 34/11/56 | 24/10/66 | 16/8/76  | 10/6/84  |
-| (3) 2D+3    | 66/10/24 | 56/11/34 | 44/11/44 | 34/11/56 | 24/10/66 | 16/8/76  |
-| (4) 2D+4    | 76/8/16  | 66/10/24 | 56/11/34 | 44/11/44 | 34/11/56 | 24/10/66 |
-| (5) 2D+5    | 84/6/10  | 76/8/16  | 66/10/24 | 56/11/34 | 44/11/44 | 34/11/56 |
-| (6) 2D+6    | 90/4/5   | 84/6/10  | 76/8/16  | 66/10/24 | 56/11/34 | 44/11/44 |
-
-*Table 7 : probabilités de succès des duels dans Risus Hack*
-
-### Exemple
-
-Grolfnar, Viking (4), et Wulf, Viking (5), se battent au corps à corps.
-
-| Round | Grolfnar / Succès | Wulf /Succès         | Résultat Grolfnar | Résultat Wulf  | Commentaire                |
-|-------|-------------------|----------------------|-------------------|----------------|----------------------------|
-| 1     | 6 + 2 + C(4) = 12 | 5 + 5 + C(5) = 15    | Viking (4-1=3)    | Viking (5)     | Grolfnar a perdu le round  |
-| 2     | 4 + 1 + C(3) = 8  | 2 + 1 + C(5) = 8     | Viking (3)        | Viking (5)     | Ex-aequo                   |
-| 3     | 5 + 3 + C(3) = 11 | 4 + 1 + C(5) = 10    | Viking (3)        | Viking (5-1=4) | Grolfnar a gagné le round  |
-| 4     | 4 + 3 + C(3) = 10 | 3 + 1 + C(4) = 8     | Viking (3)        | Viking (4-1=3) | Grolfnar a gagné le round  |
-| 5     | 6 + 1 + C(3) = 10 | 4 + 2 + C(3) = 9     | Viking (3)        | Viking (3-1=2) | Grolfnar a gagné le round  |
-| 6     | 4 + 1 + C(3) = 8  | 4 + 3 + C(2) = 9     | Viking (3-1=2)    | Viking (2)     | Grolfnar a perdu le round  |
-| 7     | 3 + 1 + C(2) = 6  | 1 + 1 échec critique | Viking (2)        | Viking (2-2=0) | Grolfnar a gagné le combat |
-
-Suite à l'échec critique de Wulf, le MJ décide que ce dernier a dérapé et s'est cogné la tête au sol, le rendant ainsi inconscient. Grolfnar doit maintenant décider du sort de Wulf.
 
 ### Regagner les points de Force perdus
 
@@ -339,12 +311,6 @@ Il n'y pas d'échelle standard de temps et d'espace dans Risus, tout dépend du 
 
 Dans un combat physique, le round durera quelques secondes tandis qu'il pourra durer une journée entière dans le cadre d'un combat de long terme entre mari et femme.
 
-### Cliché inadapté
-
-Le MJ détermine les Clichés adaptés pour le type de Combat, ce qui signifie que certains Clichés ne sont pas adaptés. Par exemple, dans un combat physique, Coiffeur est inadapté. Dans un combat magique, Barbare est inadapté.
-
-Les Clichés inadaptés ne sont pas interdits dans les Combats. Ils peuvent toujours être utilisés selon les modalités décrites dans la section *Adaptation du Cliché*.
-
 ### Conflit à action unique
 
 Le Combat est une mécanique à plusieurs rounds basé sur l'usure des combattants. Pour autant, certains conflits sont trop rapides pour être joués de la sorte (deux personnages tentant d'attraper le même pistolet par exemple).
@@ -355,8 +321,8 @@ Ces Conflits à Action Unique sont résolus via un seul jet avec le Cliché adap
 
 Grolfnar, Viking (4), et Wulf, Viking (5), veulent tous deux attraper le dernier poulet roti sur la table du festin. Ils jettent respectivement leurs dés : 
 
-* Grolfnar obtient 5 et 4 comptabilisant 5 + 4 + C(4) = 13,
-* Wulf obtient 4 et 1 comptabilisant 4 + 1 + C(5) = 10.
+* Grolfnar obtient 6 puis 1 comptabilisant 6 + 1 + C(4) = 11,
+* Wulf obtient 4 comptabilisant 4 + C(5) = 9.
 
  Grolfnar attrape le dernier poulet roti avant Wulf.
 
@@ -364,25 +330,47 @@ Grolfnar, Viking (4), et Wulf, Viking (5), veulent tous deux attraper le dernier
 
 A tout moment, un joueur peut utiliser un point de Destin pour un jet de Cliché. Pour une action ou un round, la Force de son Cliché est doublée pour cette action ou ce round.
 
-### Pouvoirs
-#### Gestion de la magie ou des pouvoirs
+## Magie et pouvoirs
 
-La magie et les pouvoirs peuvent avoir des effets dévastateurs. Aussi, les Clichés ayant des pouvoirs coûtent deux fois plus cher en points de Force que les clichés normaux.
+Dans la suite du texte, les pouvoirs spéciaux (sorts, pouvoirs psioniques, 
 
-Ainsi un Magicien [4]
+### Gestion de la magie ou des pouvoirs
 
-**Reprendre ici**
+Pour obtenir un "Cliché spécial" disposant de magie ou de pouvoirs, certaines conditions doivent être réunies :
 
-Les adversaires des PJs ayant des pouvoirs ont un indice de résistance aux pouvoirs, généralement 1, mais ce dernier peut aller de 1/2 à un grand nombre.
+1. Les Clichés spéciaux, ceux permettant de posséder des de la magie ou des pouvoirs, coûtent deux fois plus cher en points de Force que les clichés normaux. Ainsi, un Cliché *Magicien* [2] coûtera 4 points de Force à la création du personnage.
+2. Chaque point de Cliché spécial (et non pas chaque point de Force investi) donnera la possibilité de posséder un sort ou un pouvoir. Le MJ devra s'assurer que les sorts ou pouvoirs choisis ne remettent pas en cause de façon forte l'équilibre du jeu.
+3. Lorsque le Cliché spécial sera utilisé, le joueur lancera le dé correspondant à son niveau de pouvoir (voir table ci-dessous).
+4. Les dés de pouvoirs explosent si le chiffre maximum est tiré, et le joueur lancera 1D4 comme les autres explosions.
+5. Si un 1 est tiré sur le dé de pouvoir et que le titulaire du pouvoir a échoué (les deux conditions doivent être vérifiées), le joueur devra jeter le dé d'explosion (D4). Dans le cas où le D4 donne encore un 1, le personnage devra subir un échec critique, par exemple le sort se retournant contre lui-même.
+6. Il faut un round pour préparer un sort. Il n'est donc pas possible d'enchaîner les sorts à chaque round.
+7. A chaque utilisation d'un sort ou d'un pouvoir, le personnage perd un point de Cliché. Cela signifie qu'il change de dé de pouvoir pour l'utilisation du pouvoir suivant.
+8. Certains Clichés non spéciaux peuvent être utilisés comme sauvegardes contre les pouvoirs ou la magie, cela avec l'accord du MJ, par exemple pour esquiver ou pour résister.
+9. Si le titulaire du pouvoir est vainqueur, l'effet du sort ou du pouvoir est appliqué. Ce dernier peut être le Cliché adverse tombant à 0 ou tout autre effet du sort ou du pouvoir.
 
-Un possesseur de pouvoirs ne peut pas, en combat, infliger plus de dommage que ce qu'
+| Niveau du pouvoir | Dé utilisé |
+|-------------------|------------|
+| 1                 | D8         |
+| 2                 | D10        |
+| 3                 | D12        |
+| 4                 | D14*       |
+| 5                 | D16*       |
+| 6                 | D18*       |
+| 7                 | D20        |
 
+* Utiliser 1D20 et relancer si le chiffre est supérieur au maximum autorisé par le dé.
 
-propose que ces Clichés se consument d'eux-mêmes à chaque utilisation.
+### Exemple
 
-Ainsi, pour un Magicien des Bois Noirs (4), quatre points de sort sont disponibles avant évanouissement. La plupart des sorts coûtent 1 point de Force, mais il en existe qui ne coûtent que 0.5 PF et d'autres dont le coût est plus que 2 PF.
+Ainsi, Ulfrid le Sage est *Magicien de l'école des squames d'Alibert* [3] ce qui lui coûte 3 x 2 = 6 points de Force à la création de son personnage. Il a ainsi droit à 3 sorts, comme "équipement". Ce dernier choisit : *Téléporter un ennemi à 30 mètres*, *Sommeil du moine Shnak* et *Boule de feu brûlant d'Antares*. Ulfrid est aussi *Bretteur de l'ordre du Loup* (2) et *Cavalier spécialisé dans les poneys écossais* (2).
 
-Quelque soit le pouvoir invoqué par le joueur, le pouvoir ne peut infliger plus de PF aux PNJ qu'il n'en a, lui-même 
+Il rencontre Grolfnar *Viking* (4) qui l'accuse de reluquer sa femme d'un peu trop près. Au round 1, Grolfnar tente de mettre un coup de poing à Ulfrid. Ce dernier est surpris et tente d'esquiver avec son Cliché *Bretteur* (2). Grolfnar jette 1D6 et obtient 3, ce qui donne 3+4 = 7. Ulfrid obtient un 4 sur son D6, ce qui donne 6. Il perd donc un point de Cliché et passe à *Bretteur* (1). Durant ce round, le joueur incarnant Ulfrid indique qu'il prépare un sort.
+
+Au second round, il prépare le sort de *Téléporter un ennemi à 30 mètres*. Grolfnar le voit marmonner quelque chose et, se doutant qu'il s'agit d'un sort, utilise son Cliché *Viking* pour esquiver. Ulfrid jette 1D12 et obtient 2, ce qui donne 2+2 = 4. Il devient Magicien [2]. Grolfnar obtient un 5, ce qui donne 5+4 = 9. Le sort a manqué Grolfnar et le MJ indique que la chaise derrière Grolfnar a été téléportée en dehors de la grange où se tient le festin.
+
+Pour le troisième round, Grolfnar charge Ulfrid qui utilise son Cliché de *Cavalier* pour se battre. Grolfnar fait 1 avec son D6 ce qui donne 5, tandis que Ulfrid fait 5 au D6 ce qui donne 7. Grolfnar passe à *Viking* (3). Durant ce round, le joueur incarnant Ulfrid indique qu'il prépare un sort.
+
+Au quatrième round, Ulfrid lance le sort *Sommeil du moine Shnak*. Il lance son D10 et fait 10. Le D4 d'explosion donne 2, ce qui donne 10 + 2 (niveau du Cliché) = 12. Grolfnar tente d'esquiver avec son *Viking* (3) et fait 3 sur son D6 ce qui donne 6, ce qui n'est pas suffisant pour contrer le sort. Grolfnar s'endort et chute lourdement sur une table. Ulfrid est passé à *Magicien* [1]. Il lui faudra récupérer pour revenir à son niveau de magie nominal.
 
 ## Travailler en équipe
 
